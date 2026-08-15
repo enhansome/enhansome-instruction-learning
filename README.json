@@ -829,10 +829,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T22:03:00Z",
+            "last_commit": "2026-08-15T18:23:45Z",
             "owner": "allenai",
             "repo": "open-instruct",
-            "stars": 3829
+            "stars": 3828
           }
         },
         {
@@ -1220,7 +1220,7 @@
             "last_commit": "2023-12-01T16:03:51Z",
             "owner": "Hello-SimpleAI",
             "repo": "chatgpt-comparison-detection",
-            "stars": 1429
+            "stars": 1431
           }
         },
         {
@@ -1309,7 +1309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:11:08.510Z",
+    "last_updated": "2026-08-15T22:09:05.672Z",
     "original_repository": "RenzeLou/awesome-instruction-learning",
     "original_repository_sha": "c0ac59b44275f16cbc90ebb69441e5dc03de9835",
     "enhanced_repository": "enhansome/enhansome-instruction-learning",
