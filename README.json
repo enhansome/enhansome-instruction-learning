@@ -798,7 +798,7 @@
             "last_commit": "2024-05-30T09:46:41Z",
             "owner": "AlexWan0",
             "repo": "Poisoning-Instruction-Tuned-Models",
-            "stars": 59
+            "stars": 60
           }
         },
         {
@@ -829,10 +829,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T18:23:45Z",
+            "last_commit": "2026-08-16T21:51:38Z",
             "owner": "allenai",
             "repo": "open-instruct",
-            "stars": 3828
+            "stars": 3830
           }
         },
         {
@@ -880,7 +880,7 @@
             "last_commit": "2026-06-10T11:18:20Z",
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1575
+            "stars": 1576
           }
         }
       ],
@@ -1077,7 +1077,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32240
+            "stars": 32238
           }
         },
         {
@@ -1220,7 +1220,7 @@
             "last_commit": "2023-12-01T16:03:51Z",
             "owner": "Hello-SimpleAI",
             "repo": "chatgpt-comparison-detection",
-            "stars": 1431
+            "stars": 1430
           }
         },
         {
@@ -1309,7 +1309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:09:05.672Z",
+    "last_updated": "2026-08-16T22:08:34.874Z",
     "original_repository": "RenzeLou/awesome-instruction-learning",
     "original_repository_sha": "c0ac59b44275f16cbc90ebb69441e5dc03de9835",
     "enhanced_repository": "enhansome/enhansome-instruction-learning",
