@@ -19,7 +19,7 @@
             "last_commit": "2025-05-21T06:44:22Z",
             "owner": "zjunlp",
             "repo": "Prompt4ReasoningPapers",
-            "stars": 1007
+            "stars": 1006
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2025-04-07T12:30:09Z",
             "owner": "FreedomIntelligence",
             "repo": "ReasoningNLP",
-            "stars": 198
+            "stars": 199
           }
         }
       ],
@@ -363,7 +363,7 @@
             "last_commit": "2022-08-10T01:53:17Z",
             "owner": "thu-coai",
             "repo": "PPT",
-            "stars": 110
+            "stars": 109
           }
         },
         {
@@ -520,7 +520,7 @@
             "last_commit": "2026-07-02T11:25:30Z",
             "owner": "google-research",
             "repo": "FLAN",
-            "stars": 1567
+            "stars": 1566
           }
         },
         {
@@ -534,7 +534,7 @@
             "last_commit": "2026-07-02T11:25:30Z",
             "owner": "google-research",
             "repo": "FLAN",
-            "stars": 1567
+            "stars": 1566
           }
         },
         {
@@ -638,7 +638,7 @@
             "last_commit": "2024-07-24T15:47:01Z",
             "owner": "Alrope123",
             "repo": "rethinking-demonstrations",
-            "stars": 176
+            "stars": 175
           }
         },
         {
@@ -829,10 +829,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T22:07:26Z",
+            "last_commit": "2026-08-18T20:58:40Z",
             "owner": "allenai",
             "repo": "open-instruct",
-            "stars": 3832
+            "stars": 3833
           }
         },
         {
@@ -866,7 +866,7 @@
             "last_commit": "2025-06-07T01:35:05Z",
             "owner": "nlpxucan",
             "repo": "WizardLM",
-            "stars": 9482
+            "stars": 9481
           }
         },
         {
@@ -1254,7 +1254,7 @@
             "last_commit": "2025-06-17T15:43:37Z",
             "owner": "anthropics",
             "repo": "hh-rlhf",
-            "stars": 1857
+            "stars": 1856
           }
         },
         {
@@ -1309,7 +1309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:12:01.155Z",
+    "last_updated": "2026-08-18T22:10:41.708Z",
     "original_repository": "RenzeLou/awesome-instruction-learning",
     "original_repository_sha": "c0ac59b44275f16cbc90ebb69441e5dc03de9835",
     "enhanced_repository": "enhansome/enhansome-instruction-learning",

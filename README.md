@@ -150,13 +150,13 @@ Why *instruction-driven* learning instead of *example-driven* learning?
 
 We use the label ![comprehensive](https://img.shields.io/badge/comprehensive-FFA07A) to denote the papers with a more comprehensive perspective. While some other papers are more specific to a certain in-context instruction, including ![prompt](https://img.shields.io/badge/prompt-90EE90), few-shot ![in-context demonstrations](https://img.shields.io/badge/demonstrations-FFB6C1), and CoT ![reasoning](https://img.shields.io/badge/reasoning-9cf).
 
-1. **Reasoning with Language Model Prompting: A Survey.** *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, and Huajun Chen.* <ins>Preprint</ins> 2022. \[[pdf](https://arxiv.org/pdf/2212.09597.pdf)]; \[[paper list](https://github.com/zjunlp/Prompt4ReasoningPapers) ⭐ 1,007 | 🐛 0 | 📅 2025-05-21]. ![reasoning](https://img.shields.io/badge/reasoning-9cf)
+1. **Reasoning with Language Model Prompting: A Survey.** *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, and Huajun Chen.* <ins>Preprint</ins> 2022. \[[pdf](https://arxiv.org/pdf/2212.09597.pdf)]; \[[paper list](https://github.com/zjunlp/Prompt4ReasoningPapers) ⭐ 1,006 | 🐛 0 | 📅 2025-05-21]. ![reasoning](https://img.shields.io/badge/reasoning-9cf)
 
 2. **Towards Reasoning in Large Language Models: A Survey.** *Jie Huang, and Kevin Chen-Chuan Chang.* <ins>Preprint</ins> 2022. \[[pdf](https://arxiv.org/pdf/2212.10403.pdf)]; \[[paper list](https://github.com/jeffhj/LM-reasoning) ⭐ 571 | 🐛 6 | 📅 2023-11-13]. ![reasoning](https://img.shields.io/badge/reasoning-9cf)
 
 3. **A Comprehensive Survey on Instruction Following.** *Renze Lou, Kai Zhang, and Wenpeng Yin.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/abs/2303.10475)]; \[[paper list](https://github.com/RenzeLou/awesome-instruction-learning) ⭐ 512 | 🐛 0 | 🌐 Python | 📅 2024-04-04]. ![comprehensive](https://img.shields.io/badge/comprehensive-FFA07A)
 
-4. **Nature Language Reasoning, A Survey.** *Fei Yu, Hongbo Zhang, and Benyou Wang.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2303.14725.pdf)]; \[[paper list](https://github.com/FreedomIntelligence/ReasoningNLP) ⭐ 198 | 🐛 0 | 📅 2025-04-07]. ![reasoning](https://img.shields.io/badge/reasoning-9cf)
+4. **Nature Language Reasoning, A Survey.** *Fei Yu, Hongbo Zhang, and Benyou Wang.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2303.14725.pdf)]; \[[paper list](https://github.com/FreedomIntelligence/ReasoningNLP) ⭐ 199 | 🐛 0 | 📅 2025-04-07]. ![reasoning](https://img.shields.io/badge/reasoning-9cf)
 
 5. **Learning from Task Instructions.** *Wenpeng Yin, Qinyuan Ye, Pengfei Liu, Xiang Ren, and Hinrich Schütze.* <ins>EMNLP Tutorial</ins> 2023. \[[pdf](https://aclanthology.org/2023.emnlp-tutorial.4.pdf)]. ![comprehensive](https://img.shields.io/badge/comprehensive-FFA07A)
 
@@ -660,7 +660,7 @@ Entailment-oriented instruction regards the task **input** as the **premise**, a
 
 ![plm\_oriented](./resources/PLM_oriented.png)
 
-PLM-oriented instruction (i.e., prompt) aims to construct a cloze-style input to steer pre-trained language models (PLM) for responses. Here, we diaplay several representative works of PLM-oriented instruction learning. For more works, please refer to [this repository](https://github.com/thunlp/PromptPapers) ⭐ 4,324 | 🐛 6 | 📅 2023-07-17 and [this survey](https://dl.acm.org/doi/pdf/10.1145/3560815).
+PLM-oriented instruction (i.e., prompt) aims to construct a cloze-style input to steer pre-trained language models (PLM) for responses. Here, we diaplay several representative works of PLM-oriented instruction learning. For more works, please refer to [this repository](https://github.com/thunlp/PromptPapers) ⭐ 4,325 | 🐛 6 | 📅 2023-07-17 and [this survey](https://dl.acm.org/doi/pdf/10.1145/3560815).
 
 1. **P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks.** *Xiao Liu, Kaixuan Ji, Yicheng Fu, Weng Lam Tam, Zhengxiao Du, Zhilin Yang, and Jie Tang.* <ins>ACL</ins> 2022. \[[pdf](https://arxiv.org/pdf/2110.07602.pdf)]; \[[code](https://github.com/THUDM/P-tuning-v2) ⭐ 2,077 | 🐛 35 | 🌐 Python | 📅 2023-11-16].
 
@@ -682,7 +682,7 @@ PLM-oriented instruction (i.e., prompt) aims to construct a cloze-style input to
 
 10. **KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction.** *Xiang Chen, Ningyu Zhang, Xin Xie, and et al.* <ins>WWW</ins> 2022. \[[pdf](http://128.84.21.203/pdf/2104.07650)]; \[[code](https://github.com/zjunlp/KnowPrompt) ⭐ 207 | 🐛 0 | 🌐 Python | 📅 2023-06-20].
 
-11. **PPT: Pre-trained Prompt Tuning for Few-shot Learning.** *Yuxian Gu, Xu Han, Zhiyuan Liu, and Minlie Huang.* <ins>ACL</ins> 2022. \[[pdf](https://arxiv.org/pdf/2109.04332.pdf)]; \[[code](https://github.com/thu-coai/PPT) ⭐ 110 | 🐛 2 | 🌐 Python | 📅 2022-08-10].
+11. **PPT: Pre-trained Prompt Tuning for Few-shot Learning.** *Yuxian Gu, Xu Han, Zhiyuan Liu, and Minlie Huang.* <ins>ACL</ins> 2022. \[[pdf](https://arxiv.org/pdf/2109.04332.pdf)]; \[[code](https://github.com/thu-coai/PPT) ⭐ 109 | 🐛 2 | 🌐 Python | 📅 2022-08-10].
 
 12. **Learning How to Ask: Querying LMs with Mixtures of Soft Prompts.** *Guanghui Qin and Jason Eisner.* <ins>NAACL</ins> 2021. \[[pdf](https://aclanthology.org/2021.naacl-main.410.pdf)]; \[[code](https://github.com/hiaoxui/soft-prompts) ⭐ 89 | 🐛 1 | 🌐 Python | 📅 2022-09-07].
 
@@ -734,9 +734,9 @@ The model and task scale are found to be important for instruction-based fine-tu
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)].  -->
 
-1. **The Flan Collection: Designing Data and Methods for Effective Instruction Tuning.** *Shayne Longpre, Le Hou, Tu Vu, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2301.13688.pdf)]; \[[code](https://github.com/google-research/FLAN/tree/main/flan/v2) ⭐ 1,567 | 🐛 44 | 🌐 Python | 📅 2026-07-02]; \[[corpus](https://huggingface.co/datasets/SirNeural/flan_v2)].
+1. **The Flan Collection: Designing Data and Methods for Effective Instruction Tuning.** *Shayne Longpre, Le Hou, Tu Vu, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2301.13688.pdf)]; \[[code](https://github.com/google-research/FLAN/tree/main/flan/v2) ⭐ 1,566 | 🐛 44 | 🌐 Python | 📅 2026-07-02]; \[[corpus](https://huggingface.co/datasets/SirNeural/flan_v2)].
 
-2. **Finetuned Language Models are Zero-Shot Learners.** *Jason Wei, Maarten Bosma, Vincent Zhao, and et al.* <ins>ICLR</ins> 2022. \[[pdf](https://openreview.net/pdf?id=gEZrGCozdqR)]; \[[code](https://github.com/google-research/flan) ⭐ 1,567 | 🐛 44 | 🌐 Python | 📅 2026-07-02].
+2. **Finetuned Language Models are Zero-Shot Learners.** *Jason Wei, Maarten Bosma, Vincent Zhao, and et al.* <ins>ICLR</ins> 2022. \[[pdf](https://openreview.net/pdf?id=gEZrGCozdqR)]; \[[code](https://github.com/google-research/flan) ⭐ 1,566 | 🐛 44 | 🌐 Python | 📅 2026-07-02].
 
 3. **The Power of Scale for Parameter-Efficient Prompt Tuning.** *Brian Lester, Rami Al-Rfou, and Noah Constant.* <ins>EMNLP</ins> 2021. \[[pdf](https://aclanthology.org/2021.emnlp-main.243.pdf)]; \[[code](https://github.com/google-research/prompt-tuning) ⚠️ Archived].
 
@@ -766,7 +766,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 1. **Calibrate Before Use: Improving Few-shot Performance of Language Models.** *Zihao Zhao, Eric Wallace, Shi Feng, Dan Klein, and Sameer Singh.* <ins>ICML</ins> 2021. \[[pdf](https://arxiv.org/pdf/2102.09690.pdf)]; \[[code](https://github.com/tonyzhaozh/few-shot-learning) ⭐ 357 | 🐛 4 | 🌐 Python | 📅 2023-09-18].
 
-2. **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?** *Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, and Luke Zettlemoyer.* <ins>EMNLP</ins> 2022. \[[pdf](https://arxiv.org/pdf/2202.12837.pdf)]; \[[code](https://github.com/Alrope123/rethinking-demonstrations) ⭐ 176 | 🐛 3 | 🌐 Python | 📅 2024-07-24].
+2. **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?** *Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, and Luke Zettlemoyer.* <ins>EMNLP</ins> 2022. \[[pdf](https://arxiv.org/pdf/2202.12837.pdf)]; \[[code](https://github.com/Alrope123/rethinking-demonstrations) ⭐ 175 | 🐛 3 | 🌐 Python | 📅 2024-07-24].
 
 3. **Do Prompt-Based Models Really Understand the Meaning of Their Prompts?.** *Albert Webson and Ellie Pavlick.* <ins>NAACL</ins> 2022. \[[pdf](https://aclanthology.org/2022.naacl-main.167.pdf)]; \[[code](https://github.com/awebson/prompt_semantics) ⭐ 84 | 🐛 2 | 🌐 Python | 📅 2022-05-10].
 
@@ -818,7 +818,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 Stop using old-school automatic metrics to evaluate your instruction-tuned system; try more advanced methods to do it comprehensively!
 
-1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,832 | 🐛 72 | 🌐 Python | 📅 2026-08-17].
+1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,833 | 🐛 74 | 🌐 Python | 📅 2026-08-18].
 
 2. **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models.** *Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04757.pdf)]; \[[code](https://github.com/declare-lab/instruct-eval) ⭐ 552 | 🐛 24 | 🌐 Python | 📅 2024-03-10]; \[[leaderboard](https://declare-lab.net/instruct-eval/)].
 
@@ -840,7 +840,7 @@ Negation expressions, such as `do not` and `avoid doing`, are difficult for mode
 
 Papers are focusing on enhancing the complexity of instructions to enhance model competence. More complex data in the mix of instruction data, more competent performance model could achieve.
 
-1. **Wizardlm: Empowering large language models to follow complex instructions.** *Xu, Can and Sun, Qingfeng and Zheng, Kai and Geng, Xiubo and Zhao, Pu and Feng, Jiazhan and Tao, Chongyang and Jiang, Daxin*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2304.12244.pdf)]; \[[code](https://github.com/nlpxucan/WizardLM) ⭐ 9,482 | 🐛 169 | 🌐 Python | 📅 2025-06-07].
+1. **Wizardlm: Empowering large language models to follow complex instructions.** *Xu, Can and Sun, Qingfeng and Zheng, Kai and Geng, Xiubo and Zhao, Pu and Feng, Jiazhan and Tao, Chongyang and Jiang, Daxin*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2304.12244.pdf)]; \[[code](https://github.com/nlpxucan/WizardLM) ⭐ 9,481 | 🐛 169 | 🌐 Python | 📅 2025-06-07].
 
 2. **A Preliminary Study of the Intrinsic Relationship between Complexity and Alignment.** *Zhao, Yingxiu and Yu, Bowen and Hui, Binyuan and Yu, Haiyang and Huang, Fei and Li, Yongbin and Zhang, Nevin L*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2308.05696.pdf)]; \[[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/tree-instruct) ⭐ 1,577 | 🐛 79 | 🌐 Python | 📅 2026-06-10].
 
@@ -1045,4 +1045,4 @@ Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
