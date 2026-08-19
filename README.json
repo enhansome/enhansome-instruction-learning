@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "description": "Find this repository helpful? 😊😊😊\nPlease consider citing our paper. 👇👇👇",
-      "items": [],
-      "title": "🥳 Citation"
-    },
-    {
       "description": "We use the label to denote the papers with a more comprehensive perspective. While some other papers are more specific to a certain in-context instruction, including , few-shot , and CoT .",
       "items": [
         {
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 536490220,
             "language": null,
             "last_commit": "2025-05-21T06:44:22Z",
             "owner": "zjunlp",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 580204419,
             "language": null,
             "last_commit": "2023-11-13T08:44:02Z",
             "owner": "jeffhj",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 604404340,
             "language": "Python",
             "last_commit": "2024-04-04T19:48:35Z",
             "owner": "RenzeLou",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 534238820,
             "language": null,
             "last_commit": "2025-04-07T12:30:09Z",
             "owner": "FreedomIntelligence",
@@ -68,1249 +67,1339 @@
       "title": "2. 🎓 Surveys and Tutorials"
     },
     {
-      "description": "The high-quality dataset is the key factor for successful instruction tuning. Therefore, we put the \"corpora\" section here to emphasize its importance.\nWe carefully design the following table, make it easy to be referred to, and keep it up-to-date. Hope it can contribute to future research of instruction tuning. 🤗\n(Some rows come from Longpre et al., thanks for their great work ❤️.)",
-      "items": [],
-      "title": "3. 📚 Corpora"
-    },
-    {
       "description": "In our paper, we divide the textual instructions into three categories.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Label Verbalization and Entailment for Effective Zero and Few-Shot Relation Extraction. Oscar Sainz, Oier Lopez de Lacalle, Gorka Labaka, Ander Barrena, and Eneko Agirre. EMNLP 2021. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 271374153,
+                "language": "Python",
+                "last_commit": "2024-03-18T16:27:05Z",
+                "owner": "osainz59",
+                "repo": "Ask2Transformers",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adapting Language Models for Zero-shot Learning by Meta-tuning on Dataset and Prompt Collections. Ruiqi Zhong, Kristy Lee, Zheng Zhang, and Dan Klein. Findings of EMNLP 2021. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 400205829,
+                "language": "Python",
+                "last_commit": "2021-09-15T02:43:23Z",
+                "owner": "ruiqi-zhong",
+                "repo": "Meta-tuning",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ExpBERT: Representation Engineering with Natural Language Explanations. Shikhar Murty, Pang Wei Koh, and Percy Liang. ACL 2020. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260517192,
+                "language": "Python",
+                "last_commit": "2020-06-15T00:00:10Z",
+                "owner": "MurtyShikhar",
+                "repo": "ExpBERT",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Incremental Few-shot Text Classification with Multi-round New Classes: Formulation, Dataset and System. Congying Xia, Wenpeng Yin, Yihao Feng, and Philip Yu. NAACL 2021. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 356767001,
+                "language": "Python",
+                "last_commit": "2021-05-28T17:01:06Z",
+                "owner": "congyingxia",
+                "repo": "IncrementalFSTC",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A Universal Discriminator for Zero-Shot Generalization. Haike Xu, Zongyu Lin, Jing Zhou, Yanan Zheng, and Zhilin Yang. ACL 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 529757969,
+                "language": "Python",
+                "last_commit": "2023-06-21T15:20:23Z",
+                "owner": "Rafa-zy",
+                "repo": "UD",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ultra-fine Entity Typing with Indirect Supervision from Natural Language Inference. Bangzheng Li, Wenpeng Yin, and Muhao Chen. TACL 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 457562699,
+                "language": "Python",
+                "last_commit": "2022-08-17T21:44:28Z",
+                "owner": "luka-group",
+                "repo": "lite",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Textual Entailment for Event Argument Extraction: Zero- and Few-Shot with Multi-Source Learning. Oscar Sainz, Itziar Gonzalez-Dios, Oier Lopez de Lacalle, Bonan Min, and Eneko Agirre. Findings of NAACL 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 457562699,
+                "language": "Python",
+                "last_commit": "2022-08-17T21:44:28Z",
+                "owner": "luka-group",
+                "repo": "lite",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenStance: Real-world Zero-shot Stance Detection. Hanzi Xu, Slobodan Vucetic, and Wenpeng Yin. CoNLL 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 549641486,
+                "language": null,
+                "last_commit": "2022-12-07T04:22:48Z",
+                "owner": "xhz0809",
+                "repo": "OpenStance",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ConEntail: An Entailment-based Framework for Universal Zero and Few Shot Classification with Supervised Contrastive Pretraining. Ranran Haoran Zhang, Aysa Xuemo Fan, and Rui Zhang. EACL 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 551095301,
+                "language": "Python",
+                "last_commit": "2023-01-29T23:25:21Z",
+                "owner": "psunlpgroup",
+                "repo": "ConEntail",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "Entailment-oriented instruction regards the task input as the premise, and constructs the task output into the hypothesis. It unifies the conventional classification problems into a textual entailment paradigm.",
+          "node_type": "group",
+          "title": "4.1 Entailment-oriented Instruction"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks. Xiao Liu, Kaixuan Ji, Yicheng Fu, Weng Lam Tam, Zhengxiao Du, Zhilin Yang, and Jie Tang. ACL 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 417157956,
+                "language": "Python",
+                "last_commit": "2023-11-16T04:38:09Z",
+                "owner": "THUDM",
+                "repo": "P-tuning-v2",
+                "stars": 2077
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Few-Shot Text Generation with Natural Language Instructions. Timo Schick and Hinrich Schütze. EMNLP 2021. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253729438,
+                "language": "Python",
+                "last_commit": "2023-06-12T21:28:58Z",
+                "owner": "timoschick",
+                "repo": "pet",
+                "stars": 1623
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "It’s Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners. Timo Schick and Hinrich Schütze. NAACL 2021. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253729438,
+                "language": "Python",
+                "last_commit": "2023-06-12T21:28:58Z",
+                "owner": "timoschick",
+                "repo": "pet",
+                "stars": 1623
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Exploiting Cloze-Questions for Few-Shot Text Classification and Natural Language Inference. Timo Schick and Hinrich Schütze. EACL 2021. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253729438,
+                "language": "Python",
+                "last_commit": "2023-06-12T21:28:58Z",
+                "owner": "timoschick",
+                "repo": "pet",
+                "stars": 1623
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prefix-Tuning: Optimizing Continuous Prompts for Generation. Xiang Lisa Li and Percy Liang. ACL 2021. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 331739884,
+                "language": "Python",
+                "last_commit": "2024-04-26T16:47:52Z",
+                "owner": "XiangLi1999",
+                "repo": "PrefixTuning",
+                "stars": 961
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPT Understands, Too. Xiao Liu, Yanan Zheng, Zhengxiao Du, Ming Ding, Yujie Qian, Zhilin Yang, and Jie Tang. Preprint 2021. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 348953105,
+                "language": "Python",
+                "last_commit": "2022-10-06T12:36:12Z",
+                "owner": "THUDM",
+                "repo": "P-tuning",
+                "stars": 939
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Making Pre-trained Language Models Better Few-shot Learners. Tianyu Gao, Adam Fisch, and Danqi Chen. ACL 2021. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 325793879,
+                "language": "Python",
+                "last_commit": "2022-08-29T20:01:35Z",
+                "owner": "princeton-nlp",
+                "repo": "LM-BFF",
+                "stars": 726
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RLPrompt: Optimizing Discrete Text Prompts with Reinforcement Learning. Mingkai Deng, Jianyu Wang, Cheng-Ping Hsieh, and et al. EMNLP 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 496033295,
+                "language": "Python",
+                "last_commit": "2024-06-06T19:27:30Z",
+                "owner": "mingkaid",
+                "repo": "rl-prompt",
+                "stars": 366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Template-Based Named Entity Recognition Using BART. Leyang Cui, Yu Wu, Jian Liu, Sen Yang, and Yue Zhang. Findings of ACL 2021. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369062941,
+                "language": "Python",
+                "last_commit": "2021-12-22T03:56:38Z",
+                "owner": "Nealcly",
+                "repo": "templateNER",
+                "stars": 212
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction. Xiang Chen, Ningyu Zhang, Xin Xie, and et al. WWW 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 419610254,
+                "language": "Python",
+                "last_commit": "2023-06-20T02:47:56Z",
+                "owner": "zjunlp",
+                "repo": "KnowPrompt",
+                "stars": 207
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PPT: Pre-trained Prompt Tuning for Few-shot Learning. Yuxian Gu, Xu Han, Zhiyuan Liu, and Minlie Huang. ACL 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 466423313,
+                "language": "Python",
+                "last_commit": "2022-08-10T01:53:17Z",
+                "owner": "thu-coai",
+                "repo": "PPT",
+                "stars": 109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning How to Ask: Querying LMs with Mixtures of Soft Prompts. Guanghui Qin and Jason Eisner. NAACL 2021. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 357660293,
+                "language": "Python",
+                "last_commit": "2022-09-07T02:40:11Z",
+                "owner": "hiaoxui",
+                "repo": "soft-prompts",
+                "stars": 89
+              }
+            }
+          ],
+          "description": "PLM-oriented instruction (i.e., prompt) aims to construct a cloze-style input to steer pre-trained language models (PLM) for responses. Here, we diaplay several representative works of PLM-oriented instruction learning. For more works, please refer to this repository and this survey.",
+          "node_type": "group",
+          "title": "4.2 PLM-oriented Instruction"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "InstructABSA: Instruction Learning for Aspect Based Sentiment Analysis. Kevin Scaria, Himanshu Gupta, Saurabh Arjun Sawant, Swaroop Mishra, and Chitta Baral. Preprint 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 537236576,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-07-05T05:22:02Z",
+                "owner": "kevinscaria",
+                "repo": "InstructABSA",
+                "stars": 171
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Small Models are Valuable Plug-ins for Large Language Models. Canwen Xu, Yichong Xu, Shuohang Wang, Yang Liu, Chenguang Zhu, and Julian McAuley. Preprint 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 640959631,
+                "language": "Python",
+                "last_commit": "2023-05-16T21:57:01Z",
+                "owner": "JetRunner",
+                "repo": "SuperICL",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InstructDial: Improving Zero and Few-shot Generalization in Dialogue through Instruction Tuning. Prakhar Gupta, Cathy Jiao, Yi-Ting Yeh, Shikib Mehri, Maxine Eskenazi, and Jeffrey P. Bigham. EMNLP 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 494577000,
+                "language": "Python",
+                "last_commit": "2023-05-06T18:20:58Z",
+                "owner": "prakharguptaz",
+                "repo": "Instructdial",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "In-Context Instruction Learning. Seonghyeon Ye, Hyeonbin Hwang, Sohee Yang, Hyeongu Yun, Yireun Kim, and Minjoon Seo. Preprint 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 607659309,
+                "language": "Python",
+                "last_commit": "2024-09-13T05:19:18Z",
+                "owner": "seonghyeonye",
+                "repo": "TAPP",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models. Archiki Prasad, Peter Hase, Xiang Zhou, and Mohit Bansal. Preprint 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 469536602,
+                "language": "Python",
+                "last_commit": "2023-04-23T12:21:15Z",
+                "owner": "archiki",
+                "repo": "GrIPS",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors. Kai Zhang, Bernal Jiménez Gutiérrez, and Yu Su. Findings of ACL 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 639269285,
+                "language": "Python",
+                "last_commit": "2023-12-22T04:36:07Z",
+                "owner": "OSU-NLP-Group",
+                "repo": "QA4RE",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning to Generate Task-Specific Adapters from Task Description. Qinyuan Ye and Xiang Ren. ACL 2021. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 318406884,
+                "language": "Python",
+                "last_commit": "2021-04-02T04:38:40Z",
+                "owner": "INK-USC",
+                "repo": "hypter",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "How Many Data Samples is an Additional Instruction Worth? Ravsehaj Singh Puri, Swaroop Mishra, Mihir Parmar, and Chitta Baral. Findings of EACL 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 470478366,
+                "language": "Python",
+                "last_commit": "2022-03-24T01:36:57Z",
+                "owner": "Ravsehajsinghpuri",
+                "repo": "Multi-Variant-Instructions",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "Human-oriented instruction is initially designed for human to understand the task and annotate the data, such as the Amazon MTurk Instructions, which provides sufficient information about the task (e.g., detailed definition).",
+          "node_type": "group",
+          "title": "4.3 Human-oriented Instruction"
+        }
+      ],
       "title": "4. 🗂️ Taxonomy"
     },
     {
-      "description": "Entailment-oriented instruction regards the task input as the premise, and constructs the task output into the hypothesis. It unifies the conventional classification problems into a textual entailment paradigm.",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Label Verbalization and Entailment for Effective Zero and Few-Shot Relation Extraction. Oscar Sainz, Oier Lopez de Lacalle, Gorka Labaka, Ander Barrena, and Eneko Agirre. EMNLP 2021. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-18T16:27:05Z",
-            "owner": "osainz59",
-            "repo": "Ask2Transformers",
-            "stars": 152
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The Flan Collection: Designing Data and Methods for Effective Instruction Tuning. Shayne Longpre, Le Hou, Tu Vu, and et al. Preprint 2023. [pdf",
+              "description": "]; [code]; [corpus].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 398647982,
+                "language": "Python",
+                "last_commit": "2026-07-02T11:25:30Z",
+                "owner": "google-research",
+                "repo": "FLAN",
+                "stars": 1566
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Finetuned Language Models are Zero-Shot Learners. Jason Wei, Maarten Bosma, Vincent Zhao, and et al. ICLR 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 398647982,
+                "language": "Python",
+                "last_commit": "2026-07-02T11:25:30Z",
+                "owner": "google-research",
+                "repo": "FLAN",
+                "stars": 1566
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The Power of Scale for Parameter-Efficient Prompt Tuning. Brian Lester, Rami Al-Rfou, and Noah Constant. EMNLP 2021. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 403986458,
+                "language": "Python",
+                "last_commit": "2025-03-06T04:47:38Z",
+                "owner": "google-research",
+                "repo": "prompt-tuning",
+                "stars": 700
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Multitask Prompted Training Enables Zero-Shot Task Generalization. Victor Sanh, Albert Webson, Colin Raffel, and et al. ICLR 2022. [pdf",
+              "description": "]; [checkpoint]; [corpus].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 437985376,
+                "language": "Python",
+                "last_commit": "2022-11-05T11:29:45Z",
+                "owner": "bigscience-workshop",
+                "repo": "t-zero",
+                "stars": 463
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Exploring the Benefits of Training Expert Language Models over Instruction Tuning. Joel Jang, Seungone Kim, Seonghyeon Ye, and et al. Preprint 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 596371828,
+                "language": "Python",
+                "last_commit": "2023-04-26T04:50:40Z",
+                "owner": "joeljang",
+                "repo": "ELM",
+                "stars": 98
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zemi: Learning Zero-Shot Semi-Parametric Language Models from Multiple Tasks. Zhenhailong Wang, Xiaoman Pan, Dian Yu, Dong Yu, Jianshu Chen, and Heng Ji. Preprint 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 524782589,
+                "language": "Python",
+                "last_commit": "2023-05-03T16:33:24Z",
+                "owner": "MikeWangWZHL",
+                "repo": "Zemi",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization. Yuxian Gu, Pei Ke, Xiaoyan Zhu, and Minlie Huang. EMNLP 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 547029613,
+                "language": "Python",
+                "last_commit": "2023-06-17T02:41:06Z",
+                "owner": "thu-coai",
+                "repo": "UDIT",
+                "stars": 7
+              }
+            }
+          ],
+          "description": "The model and task scale are found to be important for instruction-based fine-tuning. Basically, the larger model scale brings more benefits to the generalization, and so does the task scale. However, some works raised objections (e.g., Jang et al. and Wang et al.).",
+          "node_type": "group",
+          "title": "5.1 Scale"
         },
         {
-          "node_type": "item",
-          "title": "Adapting Language Models for Zero-shot Learning by Meta-tuning on Dataset and Prompt Collections. Ruiqi Zhong, Kristy Lee, Zheng Zhang, and Dan Klein. Findings of EMNLP 2021. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-09-15T02:43:23Z",
-            "owner": "ruiqi-zhong",
-            "repo": "Meta-tuning",
-            "stars": 52
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Calibrate Before Use: Improving Few-shot Performance of Language Models. Zihao Zhao, Eric Wallace, Shi Feng, Dan Klein, and Sameer Singh. ICML 2021. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 339974526,
+                "language": "Python",
+                "last_commit": "2023-09-18T19:16:09Z",
+                "owner": "tonyzhaozh",
+                "repo": "few-shot-learning",
+                "stars": 357
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rethinking the Role of Demonstrations: What Makes In-Context Learning Work? Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, and Luke Zettlemoyer. EMNLP 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 463423737,
+                "language": "Python",
+                "last_commit": "2024-07-24T15:47:01Z",
+                "owner": "Alrope123",
+                "repo": "rethinking-demonstrations",
+                "stars": 175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Do Prompt-Based Models Really Understand the Meaning of Their Prompts?. Albert Webson and Ellie Pavlick. NAACL 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 400012697,
+                "language": "Python",
+                "last_commit": "2022-05-10T22:50:14Z",
+                "owner": "awebson",
+                "repo": "prompt_semantics",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning. Xinyi Wang, Wanrong Zhu, Michael Saxon, Mark Steyvers, and William Yang Wang. Preprint 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 593486017,
+                "language": "Python",
+                "last_commit": "2024-03-20T15:38:26Z",
+                "owner": "WANGXinyiLinda",
+                "repo": "concept-based-demonstration-selection",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "​​What learning algorithm is in-context learning? Investigations with linear models. Ekin Akyürek, Dale Schuurmans, Jacob Andreas, Tengyu Ma, and Denny Zhou. ICLR 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 559409009,
+                "language": null,
+                "last_commit": "2022-10-29T04:37:45Z",
+                "owner": "ekinakyurek",
+                "repo": "google-research",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "What Makes Good In-Context Examples for GPT-3? Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin, and Weizhu Chen. ACL Workshop 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 480216991,
+                "language": "Python",
+                "last_commit": "2023-04-08T17:39:58Z",
+                "owner": "jiachangliu",
+                "repo": "KATEGPT3",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "What In-Context Learning \"Learns\" In-Context: Disentangling Task Recognition and Task Learning. Jane Pan, Tianyu Gao, Howard Chen, and Danqi Chen. Findings of ACL 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 642367711,
+                "language": "Python",
+                "last_commit": "2023-07-09T05:30:15Z",
+                "owner": "princeton-nlp",
+                "repo": "WhatICLLearns",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "REV: Information-Theoretic Evaluation of Free-Text Rationales. Hanjie Chen, Faeze Brahman, Xiang Ren, and et al. ACL 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 584213716,
+                "language": "Python",
+                "last_commit": "2023-08-11T04:02:11Z",
+                "owner": "HanjieChen",
+                "repo": "REV",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prompt Waywardness: The Curious Case of Discretized Interpretation of Continuous Prompts. Daniel Khashabi, Xinxi Lyu, Sewon Min, and et al. NAACL 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 484884073,
+                "language": "Python",
+                "last_commit": "2022-04-27T01:11:44Z",
+                "owner": "Alrope123",
+                "repo": "prompt-waywardness",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reframing Instructional Prompts to GPTk’s Language. Swaroop Mishra, Daniel Khashabi, Chitta Baral, Yejin Choi, and Hannaneh Hajishirzi. Findings of ACL 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 407285715,
+                "language": "Python",
+                "last_commit": "2022-05-20T16:11:54Z",
+                "owner": "allenai",
+                "repo": "reframing",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Interpretability at Scale: Identifying Causal Mechanisms in Alpaca. Zhengxuan Wu, Atticus Geiger, Christopher Potts, and Noah D. Goodman. Preprint 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 741787897,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-01-11T07:50:02Z",
+                "owner": "frankaging",
+                "repo": "align-transformers",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "We exhibit works that focus on the interpretability and reliability of instruction learning, i.e., explaining when and why instruction can take effect.",
+          "node_type": "group",
+          "title": "5.2 Explanability"
         },
         {
-          "node_type": "item",
-          "title": "ExpBERT: Representation Engineering with Natural Language Explanations. Shikhar Murty, Pang Wei Koh, and Percy Liang. ACL 2020. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-06-15T00:00:10Z",
-            "owner": "MurtyShikhar",
-            "repo": "ExpBERT",
-            "stars": 30
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models. Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten Holz, and Mario Fritz. Preprint 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 603706708,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-07-17T14:03:25Z",
+                "owner": "greshake",
+                "repo": "llm-security",
+                "stars": 2128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Poisoning Language Models During Instruction Tuning. Alexander Wan, Eric Wallace, Sheng Shen, and Dan Klein. ICML 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 596359939,
+                "language": "Python",
+                "last_commit": "2024-05-30T09:46:41Z",
+                "owner": "AlexWan0",
+                "repo": "Poisoning-Instruction-Tuned-Models",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning from Task Descriptions. Orion Weller, Nicholas Lourie, Matt Gardner, and Matthew E. Peters. EMNLP 2020. [pdf",
+              "description": "]; [code]; [corpus].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 299672417,
+                "language": "HTML",
+                "last_commit": "2021-03-15T19:11:53Z",
+                "owner": "allenai",
+                "repo": "zest",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "5.3 Robustness and Safety"
         },
         {
-          "node_type": "item",
-          "title": "Incremental Few-shot Text Classification with Multi-round New Classes: Formulation, Dataset and System. Congying Xia, Wenpeng Yin, Yihao Feng, and Philip Yu. NAACL 2021. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-05-28T17:01:06Z",
-            "owner": "congyingxia",
-            "repo": "IncrementalFSTC",
-            "stars": 20
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources. Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al. NeurIPS Datasets and Benchmarks 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 651622038,
+                "language": "Python",
+                "last_commit": "2026-08-19T08:20:53Z",
+                "owner": "allenai",
+                "repo": "open-instruct",
+                "stars": 3833
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models. Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria. Preprint 2023. [pdf",
+              "description": "]; [code]; [leaderboard].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620479896,
+                "language": "Python",
+                "last_commit": "2024-03-10T05:00:00Z",
+                "owner": "declare-lab",
+                "repo": "instruct-eval",
+                "stars": 552
+              }
+            }
+          ],
+          "description": "Stop using old-school automatic metrics to evaluate your instruction-tuned system; try more advanced methods to do it comprehensively!",
+          "node_type": "group",
+          "title": "5.4 Evaluation"
         },
         {
-          "node_type": "item",
-          "title": "A Universal Discriminator for Zero-Shot Generalization. Haike Xu, Zongyu Lin, Jing Zhou, Yanan Zheng, and Zhilin Yang. ACL 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-21T15:20:23Z",
-            "owner": "Rafa-zy",
-            "repo": "UD",
-            "stars": 18
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Wizardlm: Empowering large language models to follow complex instructions. Xu, Can and Sun, Qingfeng and Zheng, Kai and Geng, Xiubo and Zhao, Pu and Feng, Jiazhan and Tao, Chongyang and Jiang, Daxin. Prepint 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 631580207,
+                "language": "Python",
+                "last_commit": "2025-06-07T01:35:05Z",
+                "owner": "nlpxucan",
+                "repo": "WizardLM",
+                "stars": 9482
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A Preliminary Study of the Intrinsic Relationship between Complexity and Alignment. Zhao, Yingxiu and Yu, Bowen and Hui, Binyuan and Yu, Haiyang and Huang, Fei and Li, Yongbin and Zhang, Nevin L. Prepint 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 514217147,
+                "language": "Python",
+                "last_commit": "2026-06-10T11:18:20Z",
+                "owner": "AlibabaResearch",
+                "repo": "DAMO-ConvAI",
+                "stars": 1577
+              }
+            }
+          ],
+          "description": "Papers are focusing on enhancing the complexity of instructions to enhance model competence. More complex data in the mix of instruction data, more competent performance model could achieve.",
+          "node_type": "group",
+          "title": "5.6 Complexity"
         },
         {
-          "node_type": "item",
-          "title": "Ultra-fine Entity Typing with Indirect Supervision from Natural Language Inference. Bangzheng Li, Wenpeng Yin, and Muhao Chen. TACL 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-08-17T21:44:28Z",
-            "owner": "luka-group",
-            "repo": "lite",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Textual Entailment for Event Argument Extraction: Zero- and Few-Shot with Multi-Source Learning. Oscar Sainz, Itziar Gonzalez-Dios, Oier Lopez de Lacalle, Bonan Min, and Eneko Agirre. Findings of NAACL 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-08-17T21:44:28Z",
-            "owner": "luka-group",
-            "repo": "lite",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenStance: Real-world Zero-shot Stance Detection. Hanzi Xu, Slobodan Vucetic, and Wenpeng Yin. CoNLL 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-12-07T04:22:48Z",
-            "owner": "xhz0809",
-            "repo": "OpenStance",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ConEntail: An Entailment-based Framework for Universal Zero and Few Shot Classification with Supervised Contrastive Pretraining. Ranran Haoran Zhang, Aysa Xuemo Fan, and Rui Zhang. EACL 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-01-29T23:25:21Z",
-            "owner": "psunlpgroup",
-            "repo": "ConEntail",
-            "stars": 2
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning. Haokun Liu, Derek Tam, Mohammed Muqeeth, Jay Mohta, Tenghao Huang, Mohit Bansal, and Colin Raffel. NeurIPS 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 491315012,
+                "language": "Python",
+                "last_commit": "2023-09-06T19:13:57Z",
+                "owner": "r-three",
+                "repo": "t-few",
+                "stars": 460
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Instruction Tuned Models are Quick Learners. Himanshu Gupta, Saurabh Arjun Sawant, Swaroop Mishra, et al. Preprint 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 575997079,
+                "language": "Python",
+                "last_commit": "2023-10-16T07:54:31Z",
+                "owner": "srsawant34",
+                "repo": "efficient_instruction_learning",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Don't Blame the Annotator: Bias Already Starts in the Annotation Instructions. Mihir Parmar, Swaroop Mishra, Mor Geva, and Chitta Baral. EACL 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 487225285,
+                "language": null,
+                "last_commit": "2023-02-03T07:28:37Z",
+                "owner": "Mihir3009",
+                "repo": "instruction-bias",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "5.7 Other Papers"
         }
       ],
-      "title": "4.1 Entailment-oriented Instruction"
-    },
-    {
-      "description": "PLM-oriented instruction (i.e., prompt) aims to construct a cloze-style input to steer pre-trained language models (PLM) for responses. Here, we diaplay several representative works of PLM-oriented instruction learning. For more works, please refer to this repository and this survey.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks. Xiao Liu, Kaixuan Ji, Yicheng Fu, Weng Lam Tam, Zhengxiao Du, Zhilin Yang, and Jie Tang. ACL 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-11-16T04:38:09Z",
-            "owner": "THUDM",
-            "repo": "P-tuning-v2",
-            "stars": 2077
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Few-Shot Text Generation with Natural Language Instructions. Timo Schick and Hinrich Schütze. EMNLP 2021. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-12T21:28:58Z",
-            "owner": "timoschick",
-            "repo": "pet",
-            "stars": 1623
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "It’s Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners. Timo Schick and Hinrich Schütze. NAACL 2021. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-12T21:28:58Z",
-            "owner": "timoschick",
-            "repo": "pet",
-            "stars": 1623
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Exploiting Cloze-Questions for Few-Shot Text Classification and Natural Language Inference. Timo Schick and Hinrich Schütze. EACL 2021. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-12T21:28:58Z",
-            "owner": "timoschick",
-            "repo": "pet",
-            "stars": 1623
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Prefix-Tuning: Optimizing Continuous Prompts for Generation. Xiang Lisa Li and Percy Liang. ACL 2021. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-26T16:47:52Z",
-            "owner": "XiangLi1999",
-            "repo": "PrefixTuning",
-            "stars": 961
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GPT Understands, Too. Xiao Liu, Yanan Zheng, Zhengxiao Du, Ming Ding, Yujie Qian, Zhilin Yang, and Jie Tang. Preprint 2021. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-10-06T12:36:12Z",
-            "owner": "THUDM",
-            "repo": "P-tuning",
-            "stars": 939
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Making Pre-trained Language Models Better Few-shot Learners. Tianyu Gao, Adam Fisch, and Danqi Chen. ACL 2021. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-08-29T20:01:35Z",
-            "owner": "princeton-nlp",
-            "repo": "LM-BFF",
-            "stars": 727
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RLPrompt: Optimizing Discrete Text Prompts with Reinforcement Learning. Mingkai Deng, Jianyu Wang, Cheng-Ping Hsieh, and et al. EMNLP 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-06T19:27:30Z",
-            "owner": "mingkaid",
-            "repo": "rl-prompt",
-            "stars": 366
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Template-Based Named Entity Recognition Using BART. Leyang Cui, Yu Wu, Jian Liu, Sen Yang, and Yue Zhang. Findings of ACL 2021. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-12-22T03:56:38Z",
-            "owner": "Nealcly",
-            "repo": "templateNER",
-            "stars": 212
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction. Xiang Chen, Ningyu Zhang, Xin Xie, and et al. WWW 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-20T02:47:56Z",
-            "owner": "zjunlp",
-            "repo": "KnowPrompt",
-            "stars": 207
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PPT: Pre-trained Prompt Tuning for Few-shot Learning. Yuxian Gu, Xu Han, Zhiyuan Liu, and Minlie Huang. ACL 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-08-10T01:53:17Z",
-            "owner": "thu-coai",
-            "repo": "PPT",
-            "stars": 109
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Learning How to Ask: Querying LMs with Mixtures of Soft Prompts. Guanghui Qin and Jason Eisner. NAACL 2021. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-07T02:40:11Z",
-            "owner": "hiaoxui",
-            "repo": "soft-prompts",
-            "stars": 89
-          }
-        }
-      ],
-      "title": "4.2 PLM-oriented Instruction"
-    },
-    {
-      "description": "Human-oriented instruction is initially designed for human to understand the task and annotate the data, such as the Amazon MTurk Instructions, which provides sufficient information about the task (e.g., detailed definition).",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "InstructABSA: Instruction Learning for Aspect Based Sentiment Analysis. Kevin Scaria, Himanshu Gupta, Saurabh Arjun Sawant, Swaroop Mishra, and Chitta Baral. Preprint 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-07-05T05:22:02Z",
-            "owner": "kevinscaria",
-            "repo": "InstructABSA",
-            "stars": 171
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Small Models are Valuable Plug-ins for Large Language Models. Canwen Xu, Yichong Xu, Shuohang Wang, Yang Liu, Chenguang Zhu, and Julian McAuley. Preprint 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-16T21:57:01Z",
-            "owner": "JetRunner",
-            "repo": "SuperICL",
-            "stars": 130
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "InstructDial: Improving Zero and Few-shot Generalization in Dialogue through Instruction Tuning. Prakhar Gupta, Cathy Jiao, Yi-Ting Yeh, Shikib Mehri, Maxine Eskenazi, and Jeffrey P. Bigham. EMNLP 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-06T18:20:58Z",
-            "owner": "prakharguptaz",
-            "repo": "Instructdial",
-            "stars": 101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "In-Context Instruction Learning. Seonghyeon Ye, Hyeonbin Hwang, Sohee Yang, Hyeongu Yun, Yireun Kim, and Minjoon Seo. Preprint 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-13T05:19:18Z",
-            "owner": "seonghyeonye",
-            "repo": "TAPP",
-            "stars": 79
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models. Archiki Prasad, Peter Hase, Xiang Zhou, and Mohit Bansal. Preprint 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-04-23T12:21:15Z",
-            "owner": "archiki",
-            "repo": "GrIPS",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors. Kai Zhang, Bernal Jiménez Gutiérrez, and Yu Su. Findings of ACL 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-22T04:36:07Z",
-            "owner": "OSU-NLP-Group",
-            "repo": "QA4RE",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Learning to Generate Task-Specific Adapters from Task Description. Qinyuan Ye and Xiang Ren. ACL 2021. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-04-02T04:38:40Z",
-            "owner": "INK-USC",
-            "repo": "hypter",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "How Many Data Samples is an Additional Instruction Worth? Ravsehaj Singh Puri, Swaroop Mishra, Mihir Parmar, and Chitta Baral. Findings of EACL 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-03-24T01:36:57Z",
-            "owner": "Ravsehajsinghpuri",
-            "repo": "Multi-Variant-Instructions",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "4.3 Human-oriented Instruction"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "5. 📊 Analyses"
     },
     {
-      "description": "The model and task scale are found to be important for instruction-based fine-tuning. Basically, the larger model scale brings more benefits to the generalization, and so does the task scale. However, some works raised objections (e.g., Jang et al. and Wang et al.).",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "The Flan Collection: Designing Data and Methods for Effective Instruction Tuning. Shayne Longpre, Le Hou, Tu Vu, and et al. Preprint 2023. [pdf",
-          "description": "]; [code]; [corpus].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-02T11:25:30Z",
-            "owner": "google-research",
-            "repo": "FLAN",
-            "stars": 1566
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EditEval: An Instruction-Based Benchmark for Text Improvements. Jane Dwivedi-Yu, Timo Schick, Zhengbao Jiang, and et al. Preprint 2022. [pdf",
+              "description": "]; [code]; [website].",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 542093732,
+                "language": "Python",
+                "last_commit": "2022-11-26T20:03:29Z",
+                "owner": "facebookresearch",
+                "repo": "EditEval",
+                "stars": 142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Communicating Natural Programs to Humans and Machines. Sam Acquaviva, Yewen Pu, Marta Kryven, and et al. NeurIPS Workshop 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 334748446,
+                "language": "JavaScript",
+                "last_commit": "2026-03-24T01:47:47Z",
+                "owner": "samacqua",
+                "repo": "LARC",
+                "stars": 100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Interactive Task Learning from GUI-Grounded Natural Language Instructions and Demonstrations. Toby Jia-Jun Li, Tom Mitchell, and Brad Myers. ACL Demo 2020. [pdf",
+              "description": "]; [code]; [video].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60534182,
+                "language": "Java",
+                "last_commit": "2022-04-06T16:45:58Z",
+                "owner": "tobyli",
+                "repo": "Sugilite_development",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Multi-Modal Interactive Task Learning from Demonstrations and Natural Language Instructions. Toby Jia-Jun Li. UIST 2020. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60534182,
+                "language": "Java",
+                "last_commit": "2022-04-06T16:45:58Z",
+                "owner": "tobyli",
+                "repo": "Sugilite_development",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Help me write a poem: Instruction Tuning as a Vehicle for Collaborative Poetry Writing. Tuhin Chakrabarty, Vishakh Padmakumar, and He He. EMNLP 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 446648992,
+                "language": "Python",
+                "last_commit": "2023-09-04T18:39:10Z",
+                "owner": "vishakhpk",
+                "repo": "creative-instructions",
+                "stars": 11
+              }
+            }
+          ],
+          "description": "Instructions are used in various human-computer interaction (HCI) tasks, such as virtual assistants, chatbots, etc.",
+          "node_type": "group",
+          "title": "6.1 Human-Computer Interaction"
         },
         {
-          "node_type": "item",
-          "title": "Finetuned Language Models are Zero-Shot Learners. Jason Wei, Maarten Bosma, Vincent Zhao, and et al. ICLR 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-02T11:25:30Z",
-            "owner": "google-research",
-            "repo": "FLAN",
-            "stars": 1566
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Training Classifiers with Natural Language Explanations. Braden Hancock, Paroma Varma, Stephanie Wang, Martin Bringmann, Percy Liang, and Christopher Ré. ACL 2018. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132089709,
+                "language": "Python",
+                "last_commit": "2019-06-24T16:43:59Z",
+                "owner": "HazyResearch",
+                "repo": "babble",
+                "stars": 146
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prompt Consistency for Zero-Shot Task Generalization. Chunting Zhou, Junxian He, Xuezhe Ma, Taylor Berg-Kirkpatrick, and Graham Neubig. Findings of EMNLP 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 420587788,
+                "language": "Python",
+                "last_commit": "2022-10-15T06:06:42Z",
+                "owner": "violet-zct",
+                "repo": "swarm-distillation-zero-shot",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Teaching Machine Comprehension with Compositional Explanations. Qinyuan Ye, Xiao Huang, Elizabeth Boschee, and Xiang Ren. Findings of EMNLP 2020. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260653359,
+                "language": "Python",
+                "last_commit": "2020-12-12T21:09:46Z",
+                "owner": "INK-USC",
+                "repo": "mrc-explanation",
+                "stars": 10
+              }
+            }
+          ],
+          "description": "Some instructions (e.g., label explanations) are also be used for automatic annotation (i.e., data augmentation), or for enriching feature.",
+          "node_type": "group",
+          "title": "6.2 Data and Feature Augmentation"
         },
         {
-          "node_type": "item",
-          "title": "The Power of Scale for Parameter-Efficient Prompt Tuning. Brian Lester, Rami Al-Rfou, and Noah Constant. EMNLP 2021. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2025-03-06T04:47:38Z",
-            "owner": "google-research",
-            "repo": "prompt-tuning",
-            "stars": 700
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Multitask Prompted Training Enables Zero-Shot Task Generalization. Victor Sanh, Albert Webson, Colin Raffel, and et al. ICLR 2022. [pdf",
-          "description": "]; [checkpoint]; [corpus].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-11-05T11:29:45Z",
-            "owner": "bigscience-workshop",
-            "repo": "t-zero",
-            "stars": 463
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Exploring the Benefits of Training Expert Language Models over Instruction Tuning. Joel Jang, Seungone Kim, Seonghyeon Ye, and et al. Preprint 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-04-26T04:50:40Z",
-            "owner": "joeljang",
-            "repo": "ELM",
-            "stars": 98
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zemi: Learning Zero-Shot Semi-Parametric Language Models from Multiple Tasks. Zhenhailong Wang, Xiaoman Pan, Dian Yu, Dong Yu, Jianshu Chen, and Heng Ji. Preprint 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-03T16:33:24Z",
-            "owner": "MikeWangWZHL",
-            "repo": "Zemi",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization. Yuxian Gu, Pei Ke, Xiaoyan Zhu, and Minlie Huang. EMNLP 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-17T02:41:06Z",
-            "owner": "thu-coai",
-            "repo": "UDIT",
-            "stars": 7
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Few-shot Learning with Multilingual Language Models. Xi Victoria Lin, Todor Mihaylov, Mikel Artetxe, and et al. EMNLP 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 101782647,
+                "language": "Python",
+                "last_commit": "2025-09-30T11:16:06Z",
+                "owner": "facebookresearch",
+                "repo": "fairseq",
+                "stars": 32236
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models. Tianbao Xie, Chen Henry Wu, Peng Shi, and et al. EMNLP 2022. [pdf",
+              "description": "]; [code]; [website].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 438187736,
+                "language": "Python",
+                "last_commit": "2023-08-22T07:18:00Z",
+                "owner": "xlang-ai",
+                "repo": "UnifiedSKG",
+                "stars": 566
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPTScore: Evaluate as You Desire. Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, and Pengfei Liu. Preprint 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 598407732,
+                "language": "Python",
+                "last_commit": "2023-02-21T14:55:41Z",
+                "owner": "jinlanfu",
+                "repo": "GPTScore",
+                "stars": 258
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Task-aware Retrieval with Instructions. Akari Asai, Timo Schick, Patrick Lewis, and et al. Preprint 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 573125269,
+                "language": "Python",
+                "last_commit": "2023-10-04T05:12:42Z",
+                "owner": "facebookresearch",
+                "repo": "tart",
+                "stars": 168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "In-Context Learning for Few-Shot Dialogue State Tracking. Yushi Hu, Chia-Hsuan Lee, Tianbao Xie, Tao Yu, Noah A. Smith, and Mari Ostendorf. Findings of EMNLP 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 470475976,
+                "language": "Python",
+                "last_commit": "2023-09-24T04:03:18Z",
+                "owner": "Yushi-Hu",
+                "repo": "IC-DST",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "In-BoXBART: Get Instructions into Biomedical Multi-Task Learning . Mihir Parmar, Swaroop Mishra, Mirali Purohit, Man Luo, M. Hassan Murad, and Chitta Baral. Findings of NAACL 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 481463204,
+                "language": "Python",
+                "last_commit": "2022-08-23T06:18:02Z",
+                "owner": "Mihir3009",
+                "repo": "In-BoXBART",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "6.4 Other Papers"
         }
       ],
-      "title": "5.1 Scale"
-    },
-    {
-      "description": "We exhibit works that focus on the interpretability and reliability of instruction learning, i.e., explaining when and why instruction can take effect.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Calibrate Before Use: Improving Few-shot Performance of Language Models. Zihao Zhao, Eric Wallace, Shi Feng, Dan Klein, and Sameer Singh. ICML 2021. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-09-18T19:16:09Z",
-            "owner": "tonyzhaozh",
-            "repo": "few-shot-learning",
-            "stars": 357
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rethinking the Role of Demonstrations: What Makes In-Context Learning Work? Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, and Luke Zettlemoyer. EMNLP 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-24T15:47:01Z",
-            "owner": "Alrope123",
-            "repo": "rethinking-demonstrations",
-            "stars": 175
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Do Prompt-Based Models Really Understand the Meaning of Their Prompts?. Albert Webson and Ellie Pavlick. NAACL 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-05-10T22:50:14Z",
-            "owner": "awebson",
-            "repo": "prompt_semantics",
-            "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning. Xinyi Wang, Wanrong Zhu, Michael Saxon, Mark Steyvers, and William Yang Wang. Preprint 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-20T15:38:26Z",
-            "owner": "WANGXinyiLinda",
-            "repo": "concept-based-demonstration-selection",
-            "stars": 76
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "​​What learning algorithm is in-context learning? Investigations with linear models. Ekin Akyürek, Dale Schuurmans, Jacob Andreas, Tengyu Ma, and Denny Zhou. ICLR 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-10-29T04:37:45Z",
-            "owner": "ekinakyurek",
-            "repo": "google-research",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "What Makes Good In-Context Examples for GPT-3? Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin, and Weizhu Chen. ACL Workshop 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-04-08T17:39:58Z",
-            "owner": "jiachangliu",
-            "repo": "KATEGPT3",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "What In-Context Learning \"Learns\" In-Context: Disentangling Task Recognition and Task Learning. Jane Pan, Tianyu Gao, Howard Chen, and Danqi Chen. Findings of ACL 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-09T05:30:15Z",
-            "owner": "princeton-nlp",
-            "repo": "WhatICLLearns",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "REV: Information-Theoretic Evaluation of Free-Text Rationales. Hanjie Chen, Faeze Brahman, Xiang Ren, and et al. ACL 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-08-11T04:02:11Z",
-            "owner": "HanjieChen",
-            "repo": "REV",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Prompt Waywardness: The Curious Case of Discretized Interpretation of Continuous Prompts. Daniel Khashabi, Xinxi Lyu, Sewon Min, and et al. NAACL 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-04-27T01:11:44Z",
-            "owner": "Alrope123",
-            "repo": "prompt-waywardness",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Reframing Instructional Prompts to GPTk’s Language. Swaroop Mishra, Daniel Khashabi, Chitta Baral, Yejin Choi, and Hannaneh Hajishirzi. Findings of ACL 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-05-20T16:11:54Z",
-            "owner": "allenai",
-            "repo": "reframing",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Interpretability at Scale: Identifying Causal Mechanisms in Alpaca. Zhengxuan Wu, Atticus Geiger, Christopher Potts, and Noah D. Goodman. Preprint 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-01-11T07:50:02Z",
-            "owner": "frankaging",
-            "repo": "align-transformers",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "5.2 Explanability"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models. Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten Holz, and Mario Fritz. Preprint 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-07-17T14:03:25Z",
-            "owner": "greshake",
-            "repo": "llm-security",
-            "stars": 2128
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Poisoning Language Models During Instruction Tuning. Alexander Wan, Eric Wallace, Sheng Shen, and Dan Klein. ICML 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-30T09:46:41Z",
-            "owner": "AlexWan0",
-            "repo": "Poisoning-Instruction-Tuned-Models",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Learning from Task Descriptions. Orion Weller, Nicholas Lourie, Matt Gardner, and Matthew E. Peters. EMNLP 2020. [pdf",
-          "description": "]; [code]; [corpus].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2021-03-15T19:11:53Z",
-            "owner": "allenai",
-            "repo": "zest",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "5.3 Robustness and Safety"
-    },
-    {
-      "description": "Stop using old-school automatic metrics to evaluate your instruction-tuned system; try more advanced methods to do it comprehensively!",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources. Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al. NeurIPS Datasets and Benchmarks 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T20:58:40Z",
-            "owner": "allenai",
-            "repo": "open-instruct",
-            "stars": 3833
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models. Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria. Preprint 2023. [pdf",
-          "description": "]; [code]; [leaderboard].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-10T05:00:00Z",
-            "owner": "declare-lab",
-            "repo": "instruct-eval",
-            "stars": 552
-          }
-        }
-      ],
-      "title": "5.4 Evaluation"
-    },
-    {
-      "description": "Papers are focusing on enhancing the complexity of instructions to enhance model competence. More complex data in the mix of instruction data, more competent performance model could achieve.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Wizardlm: Empowering large language models to follow complex instructions. Xu, Can and Sun, Qingfeng and Zheng, Kai and Geng, Xiubo and Zhao, Pu and Feng, Jiazhan and Tao, Chongyang and Jiang, Daxin. Prepint 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-07T01:35:05Z",
-            "owner": "nlpxucan",
-            "repo": "WizardLM",
-            "stars": 9481
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A Preliminary Study of the Intrinsic Relationship between Complexity and Alignment. Zhao, Yingxiu and Yu, Bowen and Hui, Binyuan and Yu, Haiyang and Huang, Fei and Li, Yongbin and Zhang, Nevin L. Prepint 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-10T11:18:20Z",
-            "owner": "AlibabaResearch",
-            "repo": "DAMO-ConvAI",
-            "stars": 1577
-          }
-        }
-      ],
-      "title": "5.6 Complexity"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning. Haokun Liu, Derek Tam, Mohammed Muqeeth, Jay Mohta, Tenghao Huang, Mohit Bansal, and Colin Raffel. NeurIPS 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-09-06T19:13:57Z",
-            "owner": "r-three",
-            "repo": "t-few",
-            "stars": 460
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Instruction Tuned Models are Quick Learners. Himanshu Gupta, Saurabh Arjun Sawant, Swaroop Mishra, et al. Preprint 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-16T07:54:31Z",
-            "owner": "srsawant34",
-            "repo": "efficient_instruction_learning",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Don't Blame the Annotator: Bias Already Starts in the Annotation Instructions. Mihir Parmar, Swaroop Mishra, Mor Geva, and Chitta Baral. EACL 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-02-03T07:28:37Z",
-            "owner": "Mihir3009",
-            "repo": "instruction-bias",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "5.7 Other Papers"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "6. 🤖 Applications"
     },
     {
-      "description": "Instructions are used in various human-computer interaction (HCI) tasks, such as virtual assistants, chatbots, etc.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "EditEval: An Instruction-Based Benchmark for Text Improvements. Jane Dwivedi-Yu, Timo Schick, Zhengbao Jiang, and et al. Preprint 2022. [pdf",
-          "description": "]; [code]; [website].",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-11-26T20:03:29Z",
-            "owner": "facebookresearch",
-            "repo": "EditEval",
-            "stars": 142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Communicating Natural Programs to Humans and Machines. Sam Acquaviva, Yewen Pu, Marta Kryven, and et al. NeurIPS Workshop 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-24T01:47:47Z",
-            "owner": "samacqua",
-            "repo": "LARC",
-            "stars": 100
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Interactive Task Learning from GUI-Grounded Natural Language Instructions and Demonstrations. Toby Jia-Jun Li, Tom Mitchell, and Brad Myers. ACL Demo 2020. [pdf",
-          "description": "]; [code]; [video].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-04-06T16:45:58Z",
-            "owner": "tobyli",
-            "repo": "Sugilite_development",
-            "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Multi-Modal Interactive Task Learning from Demonstrations and Natural Language Instructions. Toby Jia-Jun Li. UIST 2020. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-04-06T16:45:58Z",
-            "owner": "tobyli",
-            "repo": "Sugilite_development",
-            "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Help me write a poem: Instruction Tuning as a Vehicle for Collaborative Poetry Writing. Tuhin Chakrabarty, Vishakh Padmakumar, and He He. EMNLP 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-09-04T18:39:10Z",
-            "owner": "vishakhpk",
-            "repo": "creative-instructions",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "6.1 Human-Computer Interaction"
-    },
-    {
-      "description": "Some instructions (e.g., label explanations) are also be used for automatic annotation (i.e., data augmentation), or for enriching feature.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Training Classifiers with Natural Language Explanations. Braden Hancock, Paroma Varma, Stephanie Wang, Martin Bringmann, Percy Liang, and Christopher Ré. ACL 2018. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-06-24T16:43:59Z",
-            "owner": "HazyResearch",
-            "repo": "babble",
-            "stars": 146
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Prompt Consistency for Zero-Shot Task Generalization. Chunting Zhou, Junxian He, Xuezhe Ma, Taylor Berg-Kirkpatrick, and Graham Neubig. Findings of EMNLP 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-10-15T06:06:42Z",
-            "owner": "violet-zct",
-            "repo": "swarm-distillation-zero-shot",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Teaching Machine Comprehension with Compositional Explanations. Qinyuan Ye, Xiao Huang, Elizabeth Boschee, and Xiang Ren. Findings of EMNLP 2020. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-12-12T21:09:46Z",
-            "owner": "INK-USC",
-            "repo": "mrc-explanation",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "6.2 Data and Feature Augmentation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Few-shot Learning with Multilingual Language Models. Xi Victoria Lin, Todor Mihaylov, Mikel Artetxe, and et al. EMNLP 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2025-09-30T11:16:06Z",
-            "owner": "facebookresearch",
-            "repo": "fairseq",
-            "stars": 32236
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models. Tianbao Xie, Chen Henry Wu, Peng Shi, and et al. EMNLP 2022. [pdf",
-          "description": "]; [code]; [website].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-08-22T07:18:00Z",
-            "owner": "xlang-ai",
-            "repo": "UnifiedSKG",
-            "stars": 566
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GPTScore: Evaluate as You Desire. Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, and Pengfei Liu. Preprint 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-02-21T14:55:41Z",
-            "owner": "jinlanfu",
-            "repo": "GPTScore",
-            "stars": 258
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Task-aware Retrieval with Instructions. Akari Asai, Timo Schick, Patrick Lewis, and et al. Preprint 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-10-04T05:12:42Z",
-            "owner": "facebookresearch",
-            "repo": "tart",
-            "stars": 168
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "In-Context Learning for Few-Shot Dialogue State Tracking. Yushi Hu, Chia-Hsuan Lee, Tianbao Xie, Tao Yu, Noah A. Smith, and Mari Ostendorf. Findings of EMNLP 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-09-24T04:03:18Z",
-            "owner": "Yushi-Hu",
-            "repo": "IC-DST",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "In-BoXBART: Get Instructions into Biomedical Multi-Task Learning . Mihir Parmar, Swaroop Mishra, Mirali Purohit, Man Luo, M. Hassan Murad, and Chitta Baral. Findings of NAACL 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-08-23T06:18:02Z",
-            "owner": "Mihir3009",
-            "repo": "In-BoXBART",
-            "stars": 15
-          }
-        }
-      ],
-      "title": "6.4 Other Papers"
-    },
-    {
       "description": "We also share some other awesome papers that might inspire the future work.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Guess the Instruction! Flipped Learning Makes Language Models Stronger Zero-Shot Learners. Seonghyeon Ye, Doyoung Kim, Joel Jang, Joongbo Shin, and Minjoon Seo. Preprint 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 546725743,
+                "language": "Python",
+                "last_commit": "2025-06-28T13:21:47Z",
+                "owner": "seonghyeonye",
+                "repo": "Flipped-Learning",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Instruction Induction: From Few Examples to Natural Language Task Descriptions. Or Honovich, Uri Shaham, Samuel R. Bowman, and Omer Levy. Preprint 2022. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 495007514,
+                "language": "Python",
+                "last_commit": "2022-06-27T15:51:34Z",
+                "owner": "orhonovich",
+                "repo": "instruction-induction",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning to Decompose and Organize Complex Tasks. Yi Zhang, Sujay Kumar Jauhar, Julia Kiseleva, Ryen White, and Dan Roth. NAACL 2021. [pdf",
+              "description": "]; [corpus].",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 332138065,
+                "language": null,
+                "last_commit": "2023-06-12T18:15:31Z",
+                "owner": "microsoft",
+                "repo": "MSComplexTasks",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "7.1 Instruction Induction"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection. Biyang Guo, Xin Zhang, Ziyuan Wang, and et al. Preprint 2023. [pdf",
+              "description": "]; [corpus].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 586171281,
+                "language": "Python",
+                "last_commit": "2023-12-01T16:03:51Z",
+                "owner": "Hello-SimpleAI",
+                "repo": "chatgpt-comparison-detection",
+                "stars": 1433
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective. Jindong Wang, Xixu Hu, Wenxin Hou, and et al. Preprint 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 554730813,
+                "language": "Python",
+                "last_commit": "2024-07-12T10:53:01Z",
+                "owner": "microsoft",
+                "repo": "robustlearn",
+                "stars": 508
+              }
+            }
+          ],
+          "description": "Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no official paper for ChatGPT, we share some frontier works that can provide deep insights into ChatGPT.",
+          "node_type": "group",
+          "title": "7.2 ChatGPT-related Papers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback. Yuntao Bai, Andy Jones, Kamal Ndousse, and et al. Preprint 2022. [pdf",
+              "description": "]; [corpus].",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 480101360,
+                "language": null,
+                "last_commit": "2025-06-17T15:43:37Z",
+                "owner": "anthropics",
+                "repo": "hh-rlhf",
+                "stars": 1856
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision. Zhiqing Sun, Yikang Shen, Qinhong Zhou, and et al. Preprint 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 635924825,
+                "language": "Python",
+                "last_commit": "2025-09-18T00:08:16Z",
+                "owner": "IBM",
+                "repo": "Dromedary",
+                "stars": 1139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Constitutional AI: Harmlessness from AI Feedback. Yuntao Bai, Saurav Kadavath, Sandipan Kundu, and et al. Preprint 2022. [pdf",
+              "description": "]; [corpus].",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 551205916,
+                "language": null,
+                "last_commit": "2022-12-21T21:05:34Z",
+                "owner": "anthropics",
+                "repo": "ConstitutionalHarmlessnessPaper",
+                "stars": 267
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chain of Hindsight Aligns Language Models with Feedback. Hao Liu, Carmelo Sferrazza, and Pieter Abbeel. Preprint 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 603929923,
+                "language": "Python",
+                "last_commit": "2023-09-30T22:36:47Z",
+                "owner": "haoliuhl",
+                "repo": "chain-of-hindsight",
+                "stars": 228
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "7.3 Human Feedback vs. Model Feedback"
+        }
+      ],
       "title": "7. 📖 Extended Reading"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Guess the Instruction! Flipped Learning Makes Language Models Stronger Zero-Shot Learners. Seonghyeon Ye, Doyoung Kim, Joel Jang, Joongbo Shin, and Minjoon Seo. Preprint 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-28T13:21:47Z",
-            "owner": "seonghyeonye",
-            "repo": "Flipped-Learning",
-            "stars": 117
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Instruction Induction: From Few Examples to Natural Language Task Descriptions. Or Honovich, Uri Shaham, Samuel R. Bowman, and Omer Levy. Preprint 2022. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-06-27T15:51:34Z",
-            "owner": "orhonovich",
-            "repo": "instruction-induction",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Learning to Decompose and Organize Complex Tasks. Yi Zhang, Sujay Kumar Jauhar, Julia Kiseleva, Ryen White, and Dan Roth. NAACL 2021. [pdf",
-          "description": "]; [corpus].",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2023-06-12T18:15:31Z",
-            "owner": "microsoft",
-            "repo": "MSComplexTasks",
-            "stars": 18
-          }
-        }
-      ],
-      "title": "7.1 Instruction Induction"
-    },
-    {
-      "description": "Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no official paper for ChatGPT, we share some frontier works that can provide deep insights into ChatGPT.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection. Biyang Guo, Xin Zhang, Ziyuan Wang, and et al. Preprint 2023. [pdf",
-          "description": "]; [corpus].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-01T16:03:51Z",
-            "owner": "Hello-SimpleAI",
-            "repo": "chatgpt-comparison-detection",
-            "stars": 1433
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective. Jindong Wang, Xixu Hu, Wenxin Hou, and et al. Preprint 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-12T10:53:01Z",
-            "owner": "microsoft",
-            "repo": "robustlearn",
-            "stars": 508
-          }
-        }
-      ],
-      "title": "7.2 ChatGPT-related Papers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback. Yuntao Bai, Andy Jones, Kamal Ndousse, and et al. Preprint 2022. [pdf",
-          "description": "]; [corpus].",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2025-06-17T15:43:37Z",
-            "owner": "anthropics",
-            "repo": "hh-rlhf",
-            "stars": 1856
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision. Zhiqing Sun, Yikang Shen, Qinhong Zhou, and et al. Preprint 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-18T00:08:16Z",
-            "owner": "IBM",
-            "repo": "Dromedary",
-            "stars": 1139
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Constitutional AI: Harmlessness from AI Feedback. Yuntao Bai, Saurav Kadavath, Sandipan Kundu, and et al. Preprint 2022. [pdf",
-          "description": "]; [corpus].",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2022-12-21T21:05:34Z",
-            "owner": "anthropics",
-            "repo": "ConstitutionalHarmlessnessPaper",
-            "stars": 267
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chain of Hindsight Aligns Language Models with Feedback. Hao Liu, Carmelo Sferrazza, and Pieter Abbeel. Preprint 2023. [pdf",
-          "description": "]; [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-09-30T22:36:47Z",
-            "owner": "haoliuhl",
-            "repo": "chain-of-hindsight",
-            "stars": 228
-          }
-        }
-      ],
-      "title": "7.3 Human Feedback vs. Model Feedback"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "⭐ Star History"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:10:41.708Z",
+    "last_updated": "2026-08-19T12:36:52.804Z",
     "original_repository": "RenzeLou/awesome-instruction-learning",
+    "original_repository_id": 604404340,
     "original_repository_sha": "c0ac59b44275f16cbc90ebb69441e5dc03de9835",
     "enhanced_repository": "enhansome/enhansome-instruction-learning",
     "enhanced_repository_description": null,
