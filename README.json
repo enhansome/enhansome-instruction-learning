@@ -878,7 +878,7 @@
                 "archived": false,
                 "id": 651622038,
                 "language": "Python",
-                "last_commit": "2026-08-19T08:20:53Z",
+                "last_commit": "2026-08-19T22:12:49Z",
                 "owner": "allenai",
                 "repo": "open-instruct",
                 "stars": 3833
@@ -1397,7 +1397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:36:52.804Z",
+    "last_updated": "2026-08-19T22:12:50.558Z",
     "original_repository": "RenzeLou/awesome-instruction-learning",
     "original_repository_id": 604404340,
     "original_repository_sha": "c0ac59b44275f16cbc90ebb69441e5dc03de9835",
