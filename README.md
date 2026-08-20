@@ -152,7 +152,7 @@ We use the label ![comprehensive](https://img.shields.io/badge/comprehensive-FFA
 
 1. **Reasoning with Language Model Prompting: A Survey.** *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, and Huajun Chen.* <ins>Preprint</ins> 2022. \[[pdf](https://arxiv.org/pdf/2212.09597.pdf)]; \[[paper list](https://github.com/zjunlp/Prompt4ReasoningPapers) ⭐ 1,006 | 🐛 0 | 📅 2025-05-21]. ![reasoning](https://img.shields.io/badge/reasoning-9cf)
 
-2. **Towards Reasoning in Large Language Models: A Survey.** *Jie Huang, and Kevin Chen-Chuan Chang.* <ins>Preprint</ins> 2022. \[[pdf](https://arxiv.org/pdf/2212.10403.pdf)]; \[[paper list](https://github.com/jeffhj/LM-reasoning) ⭐ 571 | 🐛 6 | 📅 2023-11-13]. ![reasoning](https://img.shields.io/badge/reasoning-9cf)
+2. **Towards Reasoning in Large Language Models: A Survey.** *Jie Huang, and Kevin Chen-Chuan Chang.* <ins>Preprint</ins> 2022. \[[pdf](https://arxiv.org/pdf/2212.10403.pdf)]; \[[paper list](https://github.com/jeffhj/LM-reasoning) ⭐ 570 | 🐛 6 | 📅 2023-11-13]. ![reasoning](https://img.shields.io/badge/reasoning-9cf)
 
 3. **A Comprehensive Survey on Instruction Following.** *Renze Lou, Kai Zhang, and Wenpeng Yin.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/abs/2303.10475)]; \[[paper list](https://github.com/RenzeLou/awesome-instruction-learning) ⭐ 512 | 🐛 0 | 🌐 Python | 📅 2024-04-04]. ![comprehensive](https://img.shields.io/badge/comprehensive-FFA07A)
 
@@ -660,7 +660,7 @@ Entailment-oriented instruction regards the task **input** as the **premise**, a
 
 ![plm\_oriented](./resources/PLM_oriented.png)
 
-PLM-oriented instruction (i.e., prompt) aims to construct a cloze-style input to steer pre-trained language models (PLM) for responses. Here, we diaplay several representative works of PLM-oriented instruction learning. For more works, please refer to [this repository](https://github.com/thunlp/PromptPapers) ⭐ 4,325 | 🐛 6 | 📅 2023-07-17 and [this survey](https://dl.acm.org/doi/pdf/10.1145/3560815).
+PLM-oriented instruction (i.e., prompt) aims to construct a cloze-style input to steer pre-trained language models (PLM) for responses. Here, we diaplay several representative works of PLM-oriented instruction learning. For more works, please refer to [this repository](https://github.com/thunlp/PromptPapers) ⭐ 4,324 | 🐛 6 | 📅 2023-07-17 and [this survey](https://dl.acm.org/doi/pdf/10.1145/3560815).
 
 1. **P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks.** *Xiao Liu, Kaixuan Ji, Yicheng Fu, Weng Lam Tam, Zhengxiao Du, Zhilin Yang, and Jie Tang.* <ins>ACL</ins> 2022. \[[pdf](https://arxiv.org/pdf/2110.07602.pdf)]; \[[code](https://github.com/THUDM/P-tuning-v2) ⭐ 2,077 | 🐛 35 | 🌐 Python | 📅 2023-11-16].
 
@@ -700,7 +700,7 @@ PLM-oriented instruction (i.e., prompt) aims to construct a cloze-style input to
 
 Human-oriented instruction is initially designed for human to understand the task and annotate the data, such as the [Amazon MTurk](https://www.mturk.com/) Instructions, which provides sufficient information about the task (e.g., detailed definition).
 
-1. **InstructABSA: Instruction Learning for Aspect Based Sentiment Analysis.** *Kevin Scaria, Himanshu Gupta, Saurabh Arjun Sawant, Swaroop Mishra, and Chitta Baral.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.08624.pdf)]; \[[code](https://github.com/kevinscaria/InstructABSA) ⭐ 171 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2024-07-05].
+1. **InstructABSA: Instruction Learning for Aspect Based Sentiment Analysis.** *Kevin Scaria, Himanshu Gupta, Saurabh Arjun Sawant, Swaroop Mishra, and Chitta Baral.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.08624.pdf)]; \[[code](https://github.com/kevinscaria/InstructABSA) ⭐ 169 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2024-07-05].
 
 2. **Small Models are Valuable Plug-ins for Large Language Models.** *Canwen Xu, Yichong Xu, Shuohang Wang, Yang Liu, Chenguang Zhu, and Julian McAuley.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2305.08848.pdf)]; \[[code](https://github.com/JetRunner/SuperICL) ⭐ 130 | 🐛 0 | 🌐 Python | 📅 2023-05-16].
 
@@ -740,7 +740,7 @@ The model and task scale are found to be important for instruction-based fine-tu
 
 3. **The Power of Scale for Parameter-Efficient Prompt Tuning.** *Brian Lester, Rami Al-Rfou, and Noah Constant.* <ins>EMNLP</ins> 2021. \[[pdf](https://aclanthology.org/2021.emnlp-main.243.pdf)]; \[[code](https://github.com/google-research/prompt-tuning) ⚠️ Archived].
 
-4. **Multitask Prompted Training Enables Zero-Shot Task Generalization.** *Victor Sanh, Albert Webson, Colin Raffel, and et al.* <ins>ICLR</ins> 2022. \[[pdf](https://openreview.net/pdf?id=9Vrb9D0WI4)]; \[[checkpoint](https://github.com/bigscience-workshop/t-zero) ⭐ 463 | 🐛 10 | 🌐 Python | 📅 2022-11-05]; \[[corpus](https://github.com/bigscience-workshop/promptsource) ⭐ 3,029 | 🐛 43 | 🌐 Python | 📅 2023-10-23].
+4. **Multitask Prompted Training Enables Zero-Shot Task Generalization.** *Victor Sanh, Albert Webson, Colin Raffel, and et al.* <ins>ICLR</ins> 2022. \[[pdf](https://openreview.net/pdf?id=9Vrb9D0WI4)]; \[[checkpoint](https://github.com/bigscience-workshop/t-zero) ⭐ 463 | 🐛 10 | 🌐 Python | 📅 2022-11-05]; \[[corpus](https://github.com/bigscience-workshop/promptsource) ⭐ 3,030 | 🐛 43 | 🌐 Python | 📅 2023-10-23].
 
 5. **Exploring the Benefits of Training Expert Language Models over Instruction Tuning.** *Joel Jang, Seungone Kim, Seonghyeon Ye, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.03202.pdf)]; \[[code](https://github.com/joeljang/ELM) ⭐ 98 | 🐛 3 | 🌐 Python | 📅 2023-04-26].
 
@@ -818,7 +818,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 Stop using old-school automatic metrics to evaluate your instruction-tuned system; try more advanced methods to do it comprehensively!
 
-1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,833 | 🐛 78 | 🌐 Python | 📅 2026-08-19].
+1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,836 | 🐛 78 | 🌐 Python | 📅 2026-08-20].
 
 2. **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models.** *Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04757.pdf)]; \[[code](https://github.com/declare-lab/instruct-eval) ⭐ 552 | 🐛 24 | 🌐 Python | 📅 2024-03-10]; \[[leaderboard](https://declare-lab.net/instruct-eval/)].
 
@@ -842,7 +842,7 @@ Papers are focusing on enhancing the complexity of instructions to enhance model
 
 1. **Wizardlm: Empowering large language models to follow complex instructions.** *Xu, Can and Sun, Qingfeng and Zheng, Kai and Geng, Xiubo and Zhao, Pu and Feng, Jiazhan and Tao, Chongyang and Jiang, Daxin*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2304.12244.pdf)]; \[[code](https://github.com/nlpxucan/WizardLM) ⭐ 9,482 | 🐛 169 | 🌐 Python | 📅 2025-06-07].
 
-2. **A Preliminary Study of the Intrinsic Relationship between Complexity and Alignment.** *Zhao, Yingxiu and Yu, Bowen and Hui, Binyuan and Yu, Haiyang and Huang, Fei and Li, Yongbin and Zhang, Nevin L*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2308.05696.pdf)]; \[[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/tree-instruct) ⭐ 1,577 | 🐛 79 | 🌐 Python | 📅 2026-06-10].
+2. **A Preliminary Study of the Intrinsic Relationship between Complexity and Alignment.** *Zhao, Yingxiu and Yu, Bowen and Hui, Binyuan and Yu, Haiyang and Huang, Fei and Li, Yongbin and Zhang, Nevin L*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2308.05696.pdf)]; \[[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/tree-instruct) ⭐ 1,578 | 🐛 79 | 🌐 Python | 📅 2026-06-10].
 
 3. **Orca: Progressive learning from complex explanation traces of gpt-4.** *Mukherjee, Subhabrata and Mitra, Arindam and Jawahar, Ganesh and Agarwal, Sahaj and Palangi, Hamid and Awadallah, Ahmed*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.02707.pdf)].
 
@@ -987,7 +987,7 @@ We also share some other awesome papers that might inspire the future work.
 
 Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no official paper for ChatGPT, we share some frontier works that can provide deep insights into ChatGPT.
 
-1. **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection.** *Biyang Guo, Xin Zhang, Ziyuan Wang, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2301.07597.pdf)]; \[[corpus](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) ⭐ 1,433 | 🐛 26 | 🌐 Python | 📅 2023-12-01].
+1. **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection.** *Biyang Guo, Xin Zhang, Ziyuan Wang, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2301.07597.pdf)]; \[[corpus](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) ⭐ 1,435 | 🐛 26 | 🌐 Python | 📅 2023-12-01].
 
 2. **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective.** *Jindong Wang, Xixu Hu, Wenxin Hou, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.12095.pdf)]; \[[code](https://github.com/microsoft/robustlearn) ⭐ 508 | 🐛 10 | 🌐 Python | 📅 2024-07-12].
 
@@ -1005,7 +1005,7 @@ Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no of
 
 1. **Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.** *Yuntao Bai, Andy Jones, Kamal Ndousse, and et al.* <ins>Preprint</ins> 2022. \[[pdf](https://arxiv.org/pdf/2204.05862.pdf)]; \[[corpus](https://github.com/anthropics/hh-rlhf) ⚠️ Archived].
 
-2. **Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision.** *Zhiqing Sun, Yikang Shen, Qinhong Zhou, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2305.03047.pdf)]; \[[code](https://github.com/IBM/Dromedary) ⭐ 1,139 | 🐛 4 | 🌐 Python | 📅 2025-09-18].
+2. **Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision.** *Zhiqing Sun, Yikang Shen, Qinhong Zhou, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2305.03047.pdf)]; \[[code](https://github.com/IBM/Dromedary) ⭐ 1,137 | 🐛 4 | 🌐 Python | 📅 2025-09-18].
 
 3. **Constitutional AI: Harmlessness from AI Feedback.** *Yuntao Bai, Saurav Kadavath, Sandipan Kundu, and et al.* <ins>Preprint</ins> 2022. \[[pdf](https://arxiv.org/pdf/2212.08073.pdf)]; \[[corpus](https://github.com/anthropics/ConstitutionalHarmlessnessPaper) ⚠️ Archived].
 
@@ -1045,4 +1045,4 @@ Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

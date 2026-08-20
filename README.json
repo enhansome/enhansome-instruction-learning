@@ -30,7 +30,7 @@
             "last_commit": "2023-11-13T08:44:02Z",
             "owner": "jeffhj",
             "repo": "LM-reasoning",
-            "stars": 571
+            "stars": 570
           }
         },
         {
@@ -412,7 +412,7 @@
                 "last_commit": "2024-07-05T05:22:02Z",
                 "owner": "kevinscaria",
                 "repo": "InstructABSA",
-                "stars": 171
+                "stars": 169
               }
             },
             {
@@ -878,10 +878,10 @@
                 "archived": false,
                 "id": 651622038,
                 "language": "Python",
-                "last_commit": "2026-08-19T22:12:49Z",
+                "last_commit": "2026-08-20T22:14:12Z",
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3833
+                "stars": 3836
               }
             },
             {
@@ -933,7 +933,7 @@
                 "last_commit": "2026-06-10T11:18:20Z",
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1577
+                "stars": 1578
               }
             }
           ],
@@ -1147,7 +1147,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32236
+                "stars": 32233
               }
             },
             {
@@ -1302,7 +1302,7 @@
                 "last_commit": "2023-12-01T16:03:51Z",
                 "owner": "Hello-SimpleAI",
                 "repo": "chatgpt-comparison-detection",
-                "stars": 1433
+                "stars": 1435
               }
             },
             {
@@ -1354,7 +1354,7 @@
                 "last_commit": "2025-09-18T00:08:16Z",
                 "owner": "IBM",
                 "repo": "Dromedary",
-                "stars": 1139
+                "stars": 1137
               }
             },
             {
@@ -1397,7 +1397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T22:12:50.558Z",
+    "last_updated": "2026-08-20T22:15:08.325Z",
     "original_repository": "RenzeLou/awesome-instruction-learning",
     "original_repository_id": 604404340,
     "original_repository_sha": "c0ac59b44275f16cbc90ebb69441e5dc03de9835",
