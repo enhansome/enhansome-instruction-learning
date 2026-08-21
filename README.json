@@ -240,7 +240,7 @@
                 "last_commit": "2023-06-12T21:28:58Z",
                 "owner": "timoschick",
                 "repo": "pet",
-                "stars": 1623
+                "stars": 1622
               }
             },
             {
@@ -255,7 +255,7 @@
                 "last_commit": "2023-06-12T21:28:58Z",
                 "owner": "timoschick",
                 "repo": "pet",
-                "stars": 1623
+                "stars": 1622
               }
             },
             {
@@ -270,7 +270,7 @@
                 "last_commit": "2023-06-12T21:28:58Z",
                 "owner": "timoschick",
                 "repo": "pet",
-                "stars": 1623
+                "stars": 1622
               }
             },
             {
@@ -412,7 +412,7 @@
                 "last_commit": "2024-07-05T05:22:02Z",
                 "owner": "kevinscaria",
                 "repo": "InstructABSA",
-                "stars": 169
+                "stars": 170
               }
             },
             {
@@ -427,7 +427,7 @@
                 "last_commit": "2023-05-16T21:57:01Z",
                 "owner": "JetRunner",
                 "repo": "SuperICL",
-                "stars": 130
+                "stars": 131
               }
             },
             {
@@ -575,7 +575,7 @@
                 "last_commit": "2025-03-06T04:47:38Z",
                 "owner": "google-research",
                 "repo": "prompt-tuning",
-                "stars": 700
+                "stars": 699
               }
             },
             {
@@ -829,7 +829,7 @@
                 "last_commit": "2025-07-17T14:03:25Z",
                 "owner": "greshake",
                 "repo": "llm-security",
-                "stars": 2128
+                "stars": 2129
               }
             },
             {
@@ -878,10 +878,10 @@
                 "archived": false,
                 "id": 651622038,
                 "language": "Python",
-                "last_commit": "2026-08-20T22:14:12Z",
+                "last_commit": "2026-08-21T21:35:09Z",
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3836
+                "stars": 3837
               }
             },
             {
@@ -1302,7 +1302,7 @@
                 "last_commit": "2023-12-01T16:03:51Z",
                 "owner": "Hello-SimpleAI",
                 "repo": "chatgpt-comparison-detection",
-                "stars": 1435
+                "stars": 1436
               }
             },
             {
@@ -1339,7 +1339,7 @@
                 "last_commit": "2025-06-17T15:43:37Z",
                 "owner": "anthropics",
                 "repo": "hh-rlhf",
-                "stars": 1856
+                "stars": 1857
               }
             },
             {
@@ -1397,7 +1397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T22:15:08.325Z",
+    "last_updated": "2026-08-21T22:11:28.816Z",
     "original_repository": "RenzeLou/awesome-instruction-learning",
     "original_repository_id": 604404340,
     "original_repository_sha": "c0ac59b44275f16cbc90ebb69441e5dc03de9835",
