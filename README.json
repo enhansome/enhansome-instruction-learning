@@ -225,7 +225,7 @@
                 "last_commit": "2023-11-16T04:38:09Z",
                 "owner": "THUDM",
                 "repo": "P-tuning-v2",
-                "stars": 2077
+                "stars": 2078
               }
             },
             {
@@ -687,7 +687,7 @@
                 "last_commit": "2022-05-10T22:50:14Z",
                 "owner": "awebson",
                 "repo": "prompt_semantics",
-                "stars": 84
+                "stars": 85
               }
             },
             {
@@ -878,10 +878,10 @@
                 "archived": false,
                 "id": 651622038,
                 "language": "Python",
-                "last_commit": "2026-08-21T21:35:09Z",
+                "last_commit": "2026-08-22T13:33:15Z",
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3837
+                "stars": 3839
               }
             },
             {
@@ -1302,7 +1302,7 @@
                 "last_commit": "2023-12-01T16:03:51Z",
                 "owner": "Hello-SimpleAI",
                 "repo": "chatgpt-comparison-detection",
-                "stars": 1436
+                "stars": 1437
               }
             },
             {
@@ -1397,7 +1397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T22:11:28.816Z",
+    "last_updated": "2026-08-22T22:09:50.846Z",
     "original_repository": "RenzeLou/awesome-instruction-learning",
     "original_repository_id": 604404340,
     "original_repository_sha": "c0ac59b44275f16cbc90ebb69441e5dc03de9835",
