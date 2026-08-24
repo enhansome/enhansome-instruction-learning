@@ -545,7 +545,7 @@
                 "last_commit": "2026-07-02T11:25:30Z",
                 "owner": "google-research",
                 "repo": "FLAN",
-                "stars": 1566
+                "stars": 1567
               }
             },
             {
@@ -560,7 +560,7 @@
                 "last_commit": "2026-07-02T11:25:30Z",
                 "owner": "google-research",
                 "repo": "FLAN",
-                "stars": 1566
+                "stars": 1567
               }
             },
             {
@@ -829,7 +829,7 @@
                 "last_commit": "2025-07-17T14:03:25Z",
                 "owner": "greshake",
                 "repo": "llm-security",
-                "stars": 2129
+                "stars": 2131
               }
             },
             {
@@ -881,7 +881,7 @@
                 "last_commit": "2026-08-22T13:33:15Z",
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3841
+                "stars": 3847
               }
             },
             {
@@ -903,6 +903,28 @@
           "description": "Stop using old-school automatic metrics to evaluate your instruction-tuned system; try more advanced methods to do it comprehensively!",
           "node_type": "group",
           "title": "5.4 Evaluation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Understanding by Understanding Not: Modeling Negation in Language Models. Arian Hosseini, Siva Reddy, Dzmitry Bahdanau, and et al. NAACL 2021. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 229115845,
+                "language": "Python",
+                "last_commit": "2022-08-15T16:04:12Z",
+                "owner": "arianhosseini",
+                "repo": "negation-learning",
+                "stars": 16
+              }
+            }
+          ],
+          "description": "Negation expressions, such as and , are difficult for models to corretly understand and follow.",
+          "node_type": "group",
+          "title": "5.5 Negation"
         },
         {
           "children": [
@@ -1137,6 +1159,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "The Wisdom of Hindsight Makes Language Models Better Instruction Followers. Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, and Joseph E. Gonzalez. Preprint 2023. [pdf",
+              "description": "]; [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 599814648,
+                "language": "Python",
+                "last_commit": "2023-03-18T11:02:52Z",
+                "owner": "tianjunz",
+                "repo": "HIR",
+                "stars": 157
+              }
+            }
+          ],
+          "description": "General-purpose language models are also one of the most attractive applications of instruction learning, e.g., ChatGPT, which can align nicely with human values.",
+          "node_type": "group",
+          "title": "6.3 General-purpose Language Models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Few-shot Learning with Multilingual Language Models. Xi Victoria Lin, Todor Mihaylov, Mikel Artetxe, and et al. EMNLP 2022. [pdf",
               "description": "]; [code].",
               "children": [],
@@ -1147,7 +1191,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32233
+                "stars": 32235
               }
             },
             {
@@ -1302,7 +1346,7 @@
                 "last_commit": "2023-12-01T16:03:51Z",
                 "owner": "Hello-SimpleAI",
                 "repo": "chatgpt-comparison-detection",
-                "stars": 1437
+                "stars": 1440
               }
             },
             {
@@ -1391,13 +1435,35 @@
           "description": null,
           "node_type": "group",
           "title": "7.3 Human Feedback vs. Model Feedback"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Large Language Models Can Be Easily Distracted by Irrelevant Context. Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, and Denny Zhou. Preprint 2023. [pdf",
+              "description": "]; [corpus].",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 601265689,
+                "language": null,
+                "last_commit": "2023-02-13T19:55:04Z",
+                "owner": "google-research-datasets",
+                "repo": "GSM-IC",
+                "stars": 67
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "7.5 Other Papers"
         }
       ],
       "title": "7. 📖 Extended Reading"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:10:16.827Z",
+    "last_updated": "2026-08-24T14:23:26.929Z",
     "original_repository": "RenzeLou/awesome-instruction-learning",
     "original_repository_id": 604404340,
     "original_repository_sha": "c0ac59b44275f16cbc90ebb69441e5dc03de9835",

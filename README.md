@@ -670,7 +670,7 @@ PLM-oriented instruction (i.e., prompt) aims to construct a cloze-style input to
 
 4. **Exploiting Cloze-Questions for Few-Shot Text Classification and Natural Language Inference.** *Timo Schick and Hinrich Schütze.* <ins>EACL</ins> 2021. \[[pdf](https://aclanthology.org/2021.eacl-main.20.pdf)]; \[[code](https://github.com/timoschick/pet) ⭐ 1,622 | 🐛 30 | 🌐 Python | 📅 2023-06-12].
 
-5. **Prefix-Tuning: Optimizing Continuous Prompts for Generation.** *Xiang Lisa Li and Percy Liang.* <ins>ACL</ins> 2021. \[[pdf](https://aclanthology.org/2021.acl-long.353.pdf)]; \[[code](https://github.com/XiangLi1999/PrefixTuning) ⭐ 961 | 🐛 36 | 🌐 Python | 📅 2024-04-26].
+5. **Prefix-Tuning: Optimizing Continuous Prompts for Generation.** *Xiang Lisa Li and Percy Liang.* <ins>ACL</ins> 2021. \[[pdf](https://aclanthology.org/2021.acl-long.353.pdf)]; \[[code](https://github.com/XiangLi1999/PrefixTuning) ⭐ 961 | 🐛 35 | 🌐 Python | 📅 2024-04-26].
 
 6. **GPT Understands, Too.** *Xiao Liu, Yanan Zheng, Zhengxiao Du, Ming Ding, Yujie Qian, Zhilin Yang, and Jie Tang.* <ins>Preprint</ins> 2021. \[[pdf](https://arxiv.org/pdf/2103.10385.pdf)]; \[[code](https://github.com/THUDM/P-tuning) ⭐ 939 | 🐛 16 | 🌐 Python | 📅 2022-10-06].
 
@@ -734,9 +734,9 @@ The model and task scale are found to be important for instruction-based fine-tu
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)].  -->
 
-1. **The Flan Collection: Designing Data and Methods for Effective Instruction Tuning.** *Shayne Longpre, Le Hou, Tu Vu, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2301.13688.pdf)]; \[[code](https://github.com/google-research/FLAN/tree/main/flan/v2) ⭐ 1,566 | 🐛 44 | 🌐 Python | 📅 2026-07-02]; \[[corpus](https://huggingface.co/datasets/SirNeural/flan_v2)].
+1. **The Flan Collection: Designing Data and Methods for Effective Instruction Tuning.** *Shayne Longpre, Le Hou, Tu Vu, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2301.13688.pdf)]; \[[code](https://github.com/google-research/FLAN/tree/main/flan/v2) ⭐ 1,567 | 🐛 44 | 🌐 Python | 📅 2026-07-02]; \[[corpus](https://huggingface.co/datasets/SirNeural/flan_v2)].
 
-2. **Finetuned Language Models are Zero-Shot Learners.** *Jason Wei, Maarten Bosma, Vincent Zhao, and et al.* <ins>ICLR</ins> 2022. \[[pdf](https://openreview.net/pdf?id=gEZrGCozdqR)]; \[[code](https://github.com/google-research/flan) ⭐ 1,566 | 🐛 44 | 🌐 Python | 📅 2026-07-02].
+2. **Finetuned Language Models are Zero-Shot Learners.** *Jason Wei, Maarten Bosma, Vincent Zhao, and et al.* <ins>ICLR</ins> 2022. \[[pdf](https://openreview.net/pdf?id=gEZrGCozdqR)]; \[[code](https://github.com/google-research/flan) ⭐ 1,567 | 🐛 44 | 🌐 Python | 📅 2026-07-02].
 
 3. **The Power of Scale for Parameter-Efficient Prompt Tuning.** *Brian Lester, Rami Al-Rfou, and Noah Constant.* <ins>EMNLP</ins> 2021. \[[pdf](https://aclanthology.org/2021.emnlp-main.243.pdf)]; \[[code](https://github.com/google-research/prompt-tuning) ⚠️ Archived].
 
@@ -800,7 +800,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
 
-1. **More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models.** *Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten Holz, and Mario Fritz.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.12173.pdf)]; \[[code](https://github.com/greshake/llm-security) ⭐ 2,129 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-07-17].
+1. **More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models.** *Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten Holz, and Mario Fritz.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.12173.pdf)]; \[[code](https://github.com/greshake/llm-security) ⭐ 2,131 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-07-17].
 
 2. **Poisoning Language Models During Instruction Tuning.** *Alexander Wan, Eric Wallace, Sheng Shen, and Dan Klein.* <ins>ICML</ins> 2023. \[[pdf](https://arxiv.org/pdf/2305.00944.pdf)]; \[[code](https://github.com/AlexWan0/Poisoning-Instruction-Tuned-Models) ⭐ 60 | 🐛 5 | 🌐 Python | 📅 2024-05-30].
 
@@ -818,7 +818,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 Stop using old-school automatic metrics to evaluate your instruction-tuned system; try more advanced methods to do it comprehensively!
 
-1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,841 | 🐛 79 | 🌐 Python | 📅 2026-08-22].
+1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,847 | 🐛 80 | 🌐 Python | 📅 2026-08-22].
 
 2. **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models.** *Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04757.pdf)]; \[[code](https://github.com/declare-lab/instruct-eval) ⭐ 552 | 🐛 24 | 🌐 Python | 📅 2024-03-10]; \[[leaderboard](https://declare-lab.net/instruct-eval/)].
 
@@ -830,9 +830,9 @@ Stop using old-school automatic metrics to evaluate your instruction-tuned syste
 
 Negation expressions, such as `do not` and `avoid doing`, are difficult for models to corretly understand and follow.
 
-1. **Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts.** *Joel Jang, Seonghyeon Ye, and Minjoon Seo.* <ins>ICML Workshop</ins> 2023. \[[pdf](https://proceedings.mlr.press/v203/jang23a/jang23a.pdf)].
+1. **Understanding by Understanding Not: Modeling Negation in Language Models.** *Arian Hosseini, Siva Reddy, Dzmitry Bahdanau, and et al.* <ins>NAACL</ins> 2021. \[[pdf](https://aclanthology.org/2021.naacl-main.102.pdf)]; \[[code](https://github.com/arianhosseini/negation-learning) ⭐ 16 | 🐛 5 | 🌐 Python | 📅 2022-08-15].
 
-2. **Understanding by Understanding Not: Modeling Negation in Language Models.** *Arian Hosseini, Siva Reddy, Dzmitry Bahdanau, and et al.* <ins>NAACL</ins> 2021. \[[pdf](https://aclanthology.org/2021.naacl-main.102.pdf)]; \[[code](https://github.com/arianhosseini/negation-learning) ⭐ 16 | 🐛 5 | 🌐 Python | 📅 2022-08-15].
+2. **Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts.** *Joel Jang, Seonghyeon Ye, and Minjoon Seo.* <ins>ICML Workshop</ins> 2023. \[[pdf](https://proceedings.mlr.press/v203/jang23a/jang23a.pdf)].
 
 ### 5.6 Complexity
 
@@ -937,11 +937,11 @@ Some instructions (e.g., label explanations) are also be used for automatic anno
 
 General-purpose language models are also one of the most attractive applications of instruction learning, e.g., [ChatGPT](https://chat.openai.com/chat), which can align nicely with human values.
 
-1. **Sparks of Artificial General Intelligence: Early experiments with GPT-4.** *Sébastien Bubeck, Varun Chandrasekaran, Ronen Eldan, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2303.12712.pdf)].
+1. **The Wisdom of Hindsight Makes Language Models Better Instruction Followers.** *Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, and Joseph E. Gonzalez.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.05206.pdf)]; \[[code](https://github.com/tianjunz/HIR) ⭐ 157 | 🐛 1 | 🌐 Python | 📅 2023-03-18].
 
-2. **GPT-4 Technical Report.** *OpenAI.* <ins>Preprint</ins> 2023. \[[pdf](https://cdn.openai.com/papers/gpt-4.pdf)]; \[[blog](https://openai.com/research/gpt-4)].
+2. **Sparks of Artificial General Intelligence: Early experiments with GPT-4.** *Sébastien Bubeck, Varun Chandrasekaran, Ronen Eldan, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2303.12712.pdf)].
 
-3. **The Wisdom of Hindsight Makes Language Models Better Instruction Followers.** *Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, and Joseph E. Gonzalez.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.05206.pdf)]; \[[code](https://github.com/tianjunz/HIR) ⭐ 157 | 🐛 1 | 🌐 Python | 📅 2023-03-18].
+3. **GPT-4 Technical Report.** *OpenAI.* <ins>Preprint</ins> 2023. \[[pdf](https://cdn.openai.com/papers/gpt-4.pdf)]; \[[blog](https://openai.com/research/gpt-4)].
 
 4. **Adding Instructions during Pretraining: Effective Way of Controlling Toxicity in Language Models.** *Shrimai Prabhumoye, Mostofa Patwary, Mohammad Shoeybi, and Bryan Catanzaro.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.07388.pdf)].
 
@@ -987,9 +987,9 @@ We also share some other awesome papers that might inspire the future work.
 
 Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no official paper for ChatGPT, we share some frontier works that can provide deep insights into ChatGPT.
 
-1. **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection.** *Biyang Guo, Xin Zhang, Ziyuan Wang, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2301.07597.pdf)]; \[[corpus](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) ⭐ 1,437 | 🐛 26 | 🌐 Python | 📅 2023-12-01].
+1. **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection.** *Biyang Guo, Xin Zhang, Ziyuan Wang, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2301.07597.pdf)]; \[[corpus](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) ⭐ 1,440 | 🐛 26 | 🌐 Python | 📅 2023-12-01].
 
-2. **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective.** *Jindong Wang, Xixu Hu, Wenxin Hou, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.12095.pdf)]; \[[code](https://github.com/microsoft/robustlearn) ⭐ 508 | 🐛 10 | 🌐 Python | 📅 2024-07-12].
+2. **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective.** *Jindong Wang, Xixu Hu, Wenxin Hou, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.12095.pdf)]; \[[code](https://github.com/microsoft/robustlearn) ⭐ 508 | 🐛 11 | 🌐 Python | 📅 2024-07-12].
 
 3. **When do you need Chain-of-Thought Prompting for ChatGPT?** *Jiuhai Chen, Lichang Chen, Heng Huang, and Tianyi Zhou.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2304.03262.pdf)].
 
@@ -1025,11 +1025,11 @@ Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no of
 
 ### 7.5 Other Papers
 
-1. **Navigating the Grey Area: Expressions of Overconfidence and Uncertainty in Language Models.** *Kaitlyn Zhou, Dan Jurafsky, and Tatsunori Hashimoto.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.13439.pdf)].
+1. **Large Language Models Can Be Easily Distracted by Irrelevant Context.** *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, and Denny Zhou.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.00093.pdf)]; \[[corpus](https://github.com/google-research-datasets/GSM-IC) ⚠️ Archived].
 
-2. **The Capacity for Moral Self-Correction in Large Language Models.** *Deep Ganguli, Amanda Askell, Nicholas Schiefer, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.07459.pdf)].
+2. **Navigating the Grey Area: Expressions of Overconfidence and Uncertainty in Language Models.** *Kaitlyn Zhou, Dan Jurafsky, and Tatsunori Hashimoto.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.13439.pdf)].
 
-3. **Large Language Models Can Be Easily Distracted by Irrelevant Context.** *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, and Denny Zhou.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.00093.pdf)]; \[[corpus](https://github.com/google-research-datasets/GSM-IC) ⚠️ Archived].
+3. **The Capacity for Moral Self-Correction in Large Language Models.** *Deep Ganguli, Amanda Askell, Nicholas Schiefer, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.07459.pdf)].
 
 4. **Language Models (Mostly) Know What They Know.** *Saurav Kadavath, Tom Conerly, Amanda Askell, and et al.* <ins>Preprint</ins> 2022. \[[pdf](https://arxiv.org/pdf/2207.05221.pdf)].
 
@@ -1045,4 +1045,4 @@ Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
