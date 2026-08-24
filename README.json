@@ -657,7 +657,7 @@
                 "last_commit": "2023-09-18T19:16:09Z",
                 "owner": "tonyzhaozh",
                 "repo": "few-shot-learning",
-                "stars": 357
+                "stars": 358
               }
             },
             {
@@ -878,10 +878,10 @@
                 "archived": false,
                 "id": 651622038,
                 "language": "Python",
-                "last_commit": "2026-08-22T13:33:15Z",
+                "last_commit": "2026-08-24T20:17:25Z",
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3847
+                "stars": 3848
               }
             },
             {
@@ -1221,7 +1221,7 @@
                 "last_commit": "2023-02-21T14:55:41Z",
                 "owner": "jinlanfu",
                 "repo": "GPTScore",
-                "stars": 258
+                "stars": 259
               }
             },
             {
@@ -1463,7 +1463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:23:26.929Z",
+    "last_updated": "2026-08-24T22:14:10.023Z",
     "original_repository": "RenzeLou/awesome-instruction-learning",
     "original_repository_id": 604404340,
     "original_repository_sha": "c0ac59b44275f16cbc90ebb69441e5dc03de9835",

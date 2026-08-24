@@ -764,7 +764,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
 
-1. **Calibrate Before Use: Improving Few-shot Performance of Language Models.** *Zihao Zhao, Eric Wallace, Shi Feng, Dan Klein, and Sameer Singh.* <ins>ICML</ins> 2021. \[[pdf](https://arxiv.org/pdf/2102.09690.pdf)]; \[[code](https://github.com/tonyzhaozh/few-shot-learning) ⭐ 357 | 🐛 4 | 🌐 Python | 📅 2023-09-18].
+1. **Calibrate Before Use: Improving Few-shot Performance of Language Models.** *Zihao Zhao, Eric Wallace, Shi Feng, Dan Klein, and Sameer Singh.* <ins>ICML</ins> 2021. \[[pdf](https://arxiv.org/pdf/2102.09690.pdf)]; \[[code](https://github.com/tonyzhaozh/few-shot-learning) ⭐ 358 | 🐛 4 | 🌐 Python | 📅 2023-09-18].
 
 2. **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?** *Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, and Luke Zettlemoyer.* <ins>EMNLP</ins> 2022. \[[pdf](https://arxiv.org/pdf/2202.12837.pdf)]; \[[code](https://github.com/Alrope123/rethinking-demonstrations) ⭐ 175 | 🐛 3 | 🌐 Python | 📅 2024-07-24].
 
@@ -818,7 +818,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 Stop using old-school automatic metrics to evaluate your instruction-tuned system; try more advanced methods to do it comprehensively!
 
-1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,847 | 🐛 80 | 🌐 Python | 📅 2026-08-22].
+1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,848 | 🐛 81 | 🌐 Python | 📅 2026-08-24].
 
 2. **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models.** *Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04757.pdf)]; \[[code](https://github.com/declare-lab/instruct-eval) ⭐ 552 | 🐛 24 | 🌐 Python | 📅 2024-03-10]; \[[leaderboard](https://declare-lab.net/instruct-eval/)].
 
@@ -955,7 +955,7 @@ General-purpose language models are also one of the most attractive applications
 
 2. **UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models.** *Tianbao Xie, Chen Henry Wu, Peng Shi, and et al.* <ins>EMNLP</ins> 2022. \[[pdf](https://arxiv.org/pdf/2201.05966.pdf)]; \[[code](https://github.com/HKUNLP/UnifiedSKG) ⭐ 566 | 🐛 4 | 🌐 Python | 📅 2023-08-22]; \[[website](https://unifiedskg.com/)].
 
-3. **GPTScore: Evaluate as You Desire.** *Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, and Pengfei Liu.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.04166.pdf)]; \[[code](https://github.com/jinlanfu/GPTScore) ⭐ 258 | 🐛 5 | 🌐 Python | 📅 2023-02-21].
+3. **GPTScore: Evaluate as You Desire.** *Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, and Pengfei Liu.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.04166.pdf)]; \[[code](https://github.com/jinlanfu/GPTScore) ⭐ 259 | 🐛 5 | 🌐 Python | 📅 2023-02-21].
 
 4. **Task-aware Retrieval with Instructions.** *Akari Asai, Timo Schick, Patrick Lewis, and et al.* <ins>Preprint</ins> 2022. \[[pdf](https://arxiv.org/pdf/2211.09260.pdf)]; \[[code](https://github.com/facebookresearch/tart) ⚠️ Archived].
 
