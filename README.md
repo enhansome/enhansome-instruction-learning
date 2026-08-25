@@ -800,7 +800,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
 
-1. **More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models.** *Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten Holz, and Mario Fritz.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.12173.pdf)]; \[[code](https://github.com/greshake/llm-security) ⭐ 2,131 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-07-17].
+1. **More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models.** *Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten Holz, and Mario Fritz.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.12173.pdf)]; \[[code](https://github.com/greshake/llm-security) ⭐ 2,132 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-07-17].
 
 2. **Poisoning Language Models During Instruction Tuning.** *Alexander Wan, Eric Wallace, Sheng Shen, and Dan Klein.* <ins>ICML</ins> 2023. \[[pdf](https://arxiv.org/pdf/2305.00944.pdf)]; \[[code](https://github.com/AlexWan0/Poisoning-Instruction-Tuned-Models) ⭐ 60 | 🐛 5 | 🌐 Python | 📅 2024-05-30].
 
@@ -840,9 +840,9 @@ Negation expressions, such as `do not` and `avoid doing`, are difficult for mode
 
 Papers are focusing on enhancing the complexity of instructions to enhance model competence. More complex data in the mix of instruction data, more competent performance model could achieve.
 
-1. **Wizardlm: Empowering large language models to follow complex instructions.** *Xu, Can and Sun, Qingfeng and Zheng, Kai and Geng, Xiubo and Zhao, Pu and Feng, Jiazhan and Tao, Chongyang and Jiang, Daxin*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2304.12244.pdf)]; \[[code](https://github.com/nlpxucan/WizardLM) ⭐ 9,484 | 🐛 169 | 🌐 Python | 📅 2025-06-07].
+1. **Wizardlm: Empowering large language models to follow complex instructions.** *Xu, Can and Sun, Qingfeng and Zheng, Kai and Geng, Xiubo and Zhao, Pu and Feng, Jiazhan and Tao, Chongyang and Jiang, Daxin*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2304.12244.pdf)]; \[[code](https://github.com/nlpxucan/WizardLM) ⭐ 9,483 | 🐛 169 | 🌐 Python | 📅 2025-06-07].
 
-2. **A Preliminary Study of the Intrinsic Relationship between Complexity and Alignment.** *Zhao, Yingxiu and Yu, Bowen and Hui, Binyuan and Yu, Haiyang and Huang, Fei and Li, Yongbin and Zhang, Nevin L*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2308.05696.pdf)]; \[[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/tree-instruct) ⭐ 1,578 | 🐛 79 | 🌐 Python | 📅 2026-06-10].
+2. **A Preliminary Study of the Intrinsic Relationship between Complexity and Alignment.** *Zhao, Yingxiu and Yu, Bowen and Hui, Binyuan and Yu, Haiyang and Huang, Fei and Li, Yongbin and Zhang, Nevin L*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2308.05696.pdf)]; \[[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/tree-instruct) ⭐ 1,579 | 🐛 79 | 🌐 Python | 📅 2026-06-10].
 
 3. **Orca: Progressive learning from complex explanation traces of gpt-4.** *Mukherjee, Subhabrata and Mitra, Arindam and Jawahar, Ganesh and Agarwal, Sahaj and Palangi, Hamid and Awadallah, Ahmed*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.02707.pdf)].
 
@@ -1045,4 +1045,4 @@ Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

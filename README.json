@@ -829,7 +829,7 @@
                 "last_commit": "2025-07-17T14:03:25Z",
                 "owner": "greshake",
                 "repo": "llm-security",
-                "stars": 2131
+                "stars": 2132
               }
             },
             {
@@ -940,7 +940,7 @@
                 "last_commit": "2025-06-07T01:35:05Z",
                 "owner": "nlpxucan",
                 "repo": "WizardLM",
-                "stars": 9484
+                "stars": 9483
               }
             },
             {
@@ -955,7 +955,7 @@
                 "last_commit": "2026-06-10T11:18:20Z",
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1578
+                "stars": 1579
               }
             }
           ],
@@ -1463,7 +1463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:14:10.023Z",
+    "last_updated": "2026-08-25T06:17:24.523Z",
     "original_repository": "RenzeLou/awesome-instruction-learning",
     "original_repository_id": 604404340,
     "original_repository_sha": "c0ac59b44275f16cbc90ebb69441e5dc03de9835",
