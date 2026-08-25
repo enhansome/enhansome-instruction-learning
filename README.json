@@ -829,7 +829,7 @@
                 "last_commit": "2025-07-17T14:03:25Z",
                 "owner": "greshake",
                 "repo": "llm-security",
-                "stars": 2132
+                "stars": 2131
               }
             },
             {
@@ -878,7 +878,7 @@
                 "archived": false,
                 "id": 651622038,
                 "language": "Python",
-                "last_commit": "2026-08-24T20:17:25Z",
+                "last_commit": "2026-08-25T20:56:43Z",
                 "owner": "allenai",
                 "repo": "open-instruct",
                 "stars": 3848
@@ -940,7 +940,7 @@
                 "last_commit": "2025-06-07T01:35:05Z",
                 "owner": "nlpxucan",
                 "repo": "WizardLM",
-                "stars": 9483
+                "stars": 9484
               }
             },
             {
@@ -1191,7 +1191,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32235
+                "stars": 32232
               }
             },
             {
@@ -1346,7 +1346,7 @@
                 "last_commit": "2023-12-01T16:03:51Z",
                 "owner": "Hello-SimpleAI",
                 "repo": "chatgpt-comparison-detection",
-                "stars": 1440
+                "stars": 1441
               }
             },
             {
@@ -1383,7 +1383,7 @@
                 "last_commit": "2025-06-17T15:43:37Z",
                 "owner": "anthropics",
                 "repo": "hh-rlhf",
-                "stars": 1857
+                "stars": 1856
               }
             },
             {
@@ -1413,7 +1413,7 @@
                 "last_commit": "2022-12-21T21:05:34Z",
                 "owner": "anthropics",
                 "repo": "ConstitutionalHarmlessnessPaper",
-                "stars": 267
+                "stars": 266
               }
             },
             {
@@ -1463,7 +1463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:17:24.523Z",
+    "last_updated": "2026-08-25T22:14:12.769Z",
     "original_repository": "RenzeLou/awesome-instruction-learning",
     "original_repository_id": 604404340,
     "original_repository_sha": "c0ac59b44275f16cbc90ebb69441e5dc03de9835",
