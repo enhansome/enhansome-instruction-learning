@@ -829,7 +829,7 @@
                 "last_commit": "2025-07-17T14:03:25Z",
                 "owner": "greshake",
                 "repo": "llm-security",
-                "stars": 2131
+                "stars": 2130
               }
             },
             {
@@ -878,10 +878,10 @@
                 "archived": false,
                 "id": 651622038,
                 "language": "Python",
-                "last_commit": "2026-08-25T20:56:43Z",
+                "last_commit": "2026-08-27T02:14:06Z",
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3848
+                "stars": 3849
               }
             },
             {
@@ -940,7 +940,7 @@
                 "last_commit": "2025-06-07T01:35:05Z",
                 "owner": "nlpxucan",
                 "repo": "WizardLM",
-                "stars": 9484
+                "stars": 9483
               }
             },
             {
@@ -955,7 +955,7 @@
                 "last_commit": "2026-06-10T11:18:20Z",
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1579
+                "stars": 1580
               }
             }
           ],
@@ -1191,7 +1191,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32232
+                "stars": 32231
               }
             },
             {
@@ -1346,7 +1346,7 @@
                 "last_commit": "2023-12-01T16:03:51Z",
                 "owner": "Hello-SimpleAI",
                 "repo": "chatgpt-comparison-detection",
-                "stars": 1441
+                "stars": 1443
               }
             },
             {
@@ -1463,7 +1463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:14:12.769Z",
+    "last_updated": "2026-08-27T02:21:28.038Z",
     "original_repository": "RenzeLou/awesome-instruction-learning",
     "original_repository_id": 604404340,
     "original_repository_sha": "c0ac59b44275f16cbc90ebb69441e5dc03de9835",
