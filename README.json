@@ -16,7 +16,8 @@
             "owner": "zjunlp",
             "repo": "Prompt4ReasoningPapers",
             "stars": 1006
-          }
+          },
+          "first_seen": "2026-08-28T05:51:39.097Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "jeffhj",
             "repo": "LM-reasoning",
             "stars": 570
-          }
+          },
+          "first_seen": "2026-08-28T05:51:39.097Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "RenzeLou",
             "repo": "awesome-instruction-learning",
             "stars": 512
-          }
+          },
+          "first_seen": "2026-08-28T05:51:39.097Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "FreedomIntelligence",
             "repo": "ReasoningNLP",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-28T05:51:39.097Z"
         }
       ],
       "title": "2. 🎓 Surveys and Tutorials"
@@ -84,7 +88,8 @@
                 "owner": "osainz59",
                 "repo": "Ask2Transformers",
                 "stars": 152
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "ruiqi-zhong",
                 "repo": "Meta-tuning",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "MurtyShikhar",
                 "repo": "ExpBERT",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "congyingxia",
                 "repo": "IncrementalFSTC",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "Rafa-zy",
                 "repo": "UD",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "luka-group",
                 "repo": "lite",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "luka-group",
                 "repo": "lite",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "xhz0809",
                 "repo": "OpenStance",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "psunlpgroup",
                 "repo": "ConEntail",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             }
           ],
           "description": "Entailment-oriented instruction regards the task input as the premise, and constructs the task output into the hypothesis. It unifies the conventional classification problems into a textual entailment paradigm.",
@@ -226,7 +239,8 @@
                 "owner": "THUDM",
                 "repo": "P-tuning-v2",
                 "stars": 2078
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -241,7 +255,8 @@
                 "owner": "timoschick",
                 "repo": "pet",
                 "stars": 1622
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -256,7 +271,8 @@
                 "owner": "timoschick",
                 "repo": "pet",
                 "stars": 1622
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -271,7 +287,8 @@
                 "owner": "timoschick",
                 "repo": "pet",
                 "stars": 1622
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -286,7 +303,8 @@
                 "owner": "XiangLi1999",
                 "repo": "PrefixTuning",
                 "stars": 961
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -301,7 +319,8 @@
                 "owner": "THUDM",
                 "repo": "P-tuning",
                 "stars": 939
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -316,7 +335,8 @@
                 "owner": "princeton-nlp",
                 "repo": "LM-BFF",
                 "stars": 726
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -331,7 +351,8 @@
                 "owner": "mingkaid",
                 "repo": "rl-prompt",
                 "stars": 366
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -346,7 +367,8 @@
                 "owner": "Nealcly",
                 "repo": "templateNER",
                 "stars": 212
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -361,7 +383,8 @@
                 "owner": "zjunlp",
                 "repo": "KnowPrompt",
                 "stars": 207
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -376,7 +399,8 @@
                 "owner": "thu-coai",
                 "repo": "PPT",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -391,7 +415,8 @@
                 "owner": "hiaoxui",
                 "repo": "soft-prompts",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             }
           ],
           "description": "PLM-oriented instruction (i.e., prompt) aims to construct a cloze-style input to steer pre-trained language models (PLM) for responses. Here, we diaplay several representative works of PLM-oriented instruction learning. For more works, please refer to this repository and this survey.",
@@ -413,7 +438,8 @@
                 "owner": "kevinscaria",
                 "repo": "InstructABSA",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -428,7 +454,8 @@
                 "owner": "JetRunner",
                 "repo": "SuperICL",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -443,7 +470,8 @@
                 "owner": "prakharguptaz",
                 "repo": "Instructdial",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -458,7 +486,8 @@
                 "owner": "seonghyeonye",
                 "repo": "TAPP",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -473,7 +502,8 @@
                 "owner": "archiki",
                 "repo": "GrIPS",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -488,7 +518,8 @@
                 "owner": "OSU-NLP-Group",
                 "repo": "QA4RE",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -503,7 +534,8 @@
                 "owner": "INK-USC",
                 "repo": "hypter",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -518,7 +550,8 @@
                 "owner": "Ravsehajsinghpuri",
                 "repo": "Multi-Variant-Instructions",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             }
           ],
           "description": "Human-oriented instruction is initially designed for human to understand the task and annotate the data, such as the Amazon MTurk Instructions, which provides sufficient information about the task (e.g., detailed definition).",
@@ -546,7 +579,8 @@
                 "owner": "google-research",
                 "repo": "FLAN",
                 "stars": 1567
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -561,7 +595,8 @@
                 "owner": "google-research",
                 "repo": "FLAN",
                 "stars": 1567
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -576,7 +611,8 @@
                 "owner": "google-research",
                 "repo": "prompt-tuning",
                 "stars": 699
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -591,7 +627,8 @@
                 "owner": "bigscience-workshop",
                 "repo": "t-zero",
                 "stars": 463
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -606,7 +643,8 @@
                 "owner": "joeljang",
                 "repo": "ELM",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -621,7 +659,8 @@
                 "owner": "MikeWangWZHL",
                 "repo": "Zemi",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -636,7 +675,8 @@
                 "owner": "thu-coai",
                 "repo": "UDIT",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             }
           ],
           "description": "The model and task scale are found to be important for instruction-based fine-tuning. Basically, the larger model scale brings more benefits to the generalization, and so does the task scale. However, some works raised objections (e.g., Jang et al. and Wang et al.).",
@@ -658,7 +698,8 @@
                 "owner": "tonyzhaozh",
                 "repo": "few-shot-learning",
                 "stars": 358
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -673,7 +714,8 @@
                 "owner": "Alrope123",
                 "repo": "rethinking-demonstrations",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -688,7 +730,8 @@
                 "owner": "awebson",
                 "repo": "prompt_semantics",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -703,7 +746,8 @@
                 "owner": "WANGXinyiLinda",
                 "repo": "concept-based-demonstration-selection",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -718,7 +762,8 @@
                 "owner": "ekinakyurek",
                 "repo": "google-research",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -733,7 +778,8 @@
                 "owner": "jiachangliu",
                 "repo": "KATEGPT3",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -748,7 +794,8 @@
                 "owner": "princeton-nlp",
                 "repo": "WhatICLLearns",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -763,7 +810,8 @@
                 "owner": "HanjieChen",
                 "repo": "REV",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -778,7 +826,8 @@
                 "owner": "Alrope123",
                 "repo": "prompt-waywardness",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -793,7 +842,8 @@
                 "owner": "allenai",
                 "repo": "reframing",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -808,7 +858,8 @@
                 "owner": "frankaging",
                 "repo": "align-transformers",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             }
           ],
           "description": "We exhibit works that focus on the interpretability and reliability of instruction learning, i.e., explaining when and why instruction can take effect.",
@@ -830,7 +881,8 @@
                 "owner": "greshake",
                 "repo": "llm-security",
                 "stars": 2130
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -845,7 +897,8 @@
                 "owner": "AlexWan0",
                 "repo": "Poisoning-Instruction-Tuned-Models",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -860,7 +913,8 @@
                 "owner": "allenai",
                 "repo": "zest",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             }
           ],
           "description": null,
@@ -878,11 +932,12 @@
                 "archived": false,
                 "id": 651622038,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:12:44Z",
+                "last_commit": "2026-08-27T13:17:40Z",
                 "owner": "allenai",
                 "repo": "open-instruct",
                 "stars": 3850
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -897,7 +952,8 @@
                 "owner": "declare-lab",
                 "repo": "instruct-eval",
                 "stars": 552
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             }
           ],
           "description": "Stop using old-school automatic metrics to evaluate your instruction-tuned system; try more advanced methods to do it comprehensively!",
@@ -919,7 +975,8 @@
                 "owner": "arianhosseini",
                 "repo": "negation-learning",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             }
           ],
           "description": "Negation expressions, such as and , are difficult for models to corretly understand and follow.",
@@ -940,8 +997,9 @@
                 "last_commit": "2025-06-07T01:35:05Z",
                 "owner": "nlpxucan",
                 "repo": "WizardLM",
-                "stars": 9483
-              }
+                "stars": 9482
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -956,7 +1014,8 @@
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
                 "stars": 1580
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             }
           ],
           "description": "Papers are focusing on enhancing the complexity of instructions to enhance model competence. More complex data in the mix of instruction data, more competent performance model could achieve.",
@@ -978,7 +1037,8 @@
                 "owner": "r-three",
                 "repo": "t-few",
                 "stars": 460
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -993,7 +1053,8 @@
                 "owner": "srsawant34",
                 "repo": "efficient_instruction_learning",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -1008,7 +1069,8 @@
                 "owner": "Mihir3009",
                 "repo": "instruction-bias",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             }
           ],
           "description": null,
@@ -1036,7 +1098,8 @@
                 "owner": "facebookresearch",
                 "repo": "EditEval",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -1051,7 +1114,8 @@
                 "owner": "samacqua",
                 "repo": "LARC",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -1066,7 +1130,8 @@
                 "owner": "tobyli",
                 "repo": "Sugilite_development",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -1081,7 +1146,8 @@
                 "owner": "tobyli",
                 "repo": "Sugilite_development",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -1096,7 +1162,8 @@
                 "owner": "vishakhpk",
                 "repo": "creative-instructions",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             }
           ],
           "description": "Instructions are used in various human-computer interaction (HCI) tasks, such as virtual assistants, chatbots, etc.",
@@ -1118,7 +1185,8 @@
                 "owner": "HazyResearch",
                 "repo": "babble",
                 "stars": 146
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -1133,7 +1201,8 @@
                 "owner": "violet-zct",
                 "repo": "swarm-distillation-zero-shot",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -1148,7 +1217,8 @@
                 "owner": "INK-USC",
                 "repo": "mrc-explanation",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             }
           ],
           "description": "Some instructions (e.g., label explanations) are also be used for automatic annotation (i.e., data augmentation), or for enriching feature.",
@@ -1170,7 +1240,8 @@
                 "owner": "tianjunz",
                 "repo": "HIR",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             }
           ],
           "description": "General-purpose language models are also one of the most attractive applications of instruction learning, e.g., ChatGPT, which can align nicely with human values.",
@@ -1191,8 +1262,9 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32231
-              }
+                "stars": 32232
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -1207,7 +1279,8 @@
                 "owner": "xlang-ai",
                 "repo": "UnifiedSKG",
                 "stars": 566
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -1222,7 +1295,8 @@
                 "owner": "jinlanfu",
                 "repo": "GPTScore",
                 "stars": 259
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -1237,7 +1311,8 @@
                 "owner": "facebookresearch",
                 "repo": "tart",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -1252,7 +1327,8 @@
                 "owner": "Yushi-Hu",
                 "repo": "IC-DST",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -1267,7 +1343,8 @@
                 "owner": "Mihir3009",
                 "repo": "In-BoXBART",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             }
           ],
           "description": null,
@@ -1295,7 +1372,8 @@
                 "owner": "seonghyeonye",
                 "repo": "Flipped-Learning",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -1310,7 +1388,8 @@
                 "owner": "orhonovich",
                 "repo": "instruction-induction",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -1325,7 +1404,8 @@
                 "owner": "microsoft",
                 "repo": "MSComplexTasks",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             }
           ],
           "description": null,
@@ -1346,8 +1426,9 @@
                 "last_commit": "2023-12-01T16:03:51Z",
                 "owner": "Hello-SimpleAI",
                 "repo": "chatgpt-comparison-detection",
-                "stars": 1443
-              }
+                "stars": 1445
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -1362,7 +1443,8 @@
                 "owner": "microsoft",
                 "repo": "robustlearn",
                 "stars": 508
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             }
           ],
           "description": "Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no official paper for ChatGPT, we share some frontier works that can provide deep insights into ChatGPT.",
@@ -1384,7 +1466,8 @@
                 "owner": "anthropics",
                 "repo": "hh-rlhf",
                 "stars": 1856
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -1399,7 +1482,8 @@
                 "owner": "IBM",
                 "repo": "Dromedary",
                 "stars": 1137
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -1414,7 +1498,8 @@
                 "owner": "anthropics",
                 "repo": "ConstitutionalHarmlessnessPaper",
                 "stars": 266
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             },
             {
               "node_type": "item",
@@ -1429,7 +1514,8 @@
                 "owner": "haoliuhl",
                 "repo": "chain-of-hindsight",
                 "stars": 228
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             }
           ],
           "description": null,
@@ -1451,7 +1537,8 @@
                 "owner": "google-research-datasets",
                 "repo": "GSM-IC",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T05:51:39.097Z"
             }
           ],
           "description": null,
@@ -1463,7 +1550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:43:24.466Z",
+    "last_updated": "2026-08-28T05:51:39.097Z",
     "original_repository_info": {
       "archived": false,
       "id": 604404340,
