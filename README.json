@@ -880,7 +880,7 @@
                 "last_commit": "2025-07-17T14:03:25Z",
                 "owner": "greshake",
                 "repo": "llm-security",
-                "stars": 2130
+                "stars": 2132
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -932,10 +932,10 @@
                 "archived": false,
                 "id": 651622038,
                 "language": "Python",
-                "last_commit": "2026-08-27T13:17:40Z",
+                "last_commit": "2026-08-28T20:05:25Z",
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3850
+                "stars": 3852
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -1550,7 +1550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:51:39.097Z",
+    "last_updated": "2026-08-29T03:24:38.970Z",
     "original_repository_info": {
       "archived": false,
       "id": 604404340,
