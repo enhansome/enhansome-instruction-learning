@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL 2023] Reasoning with Language Model Prompting: A Survey",
+            "homepage": null,
             "id": 536490220,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-05-21T06:44:22Z",
+            "open_issues": 0,
             "owner": "zjunlp",
             "repo": "Prompt4ReasoningPapers",
-            "stars": 1006
+            "stars": 1006,
+            "topics": [
+              "arithmetic-reasoning",
+              "artificial-intelligence",
+              "awsome-list",
+              "chain-of-thought",
+              "chatgpt",
+              "commonsense-reasoning",
+              "datasets",
+              "gpt-3",
+              "language-models",
+              "large-language-models",
+              "llm",
+              "logical-reasoning",
+              "natural-language-processing",
+              "nlp",
+              "paper-list",
+              "prompt",
+              "prompt-engineering",
+              "reasoning",
+              "survey",
+              "symbolic-reasoning"
+            ]
           },
           "first_seen": "2026-08-28T05:51:39.097Z"
         },
@@ -26,12 +52,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains a collection of papers and resources on Reasoning in Large Language Models.",
+            "homepage": null,
             "id": 580204419,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-11-13T08:44:02Z",
+            "open_issues": 6,
             "owner": "jeffhj",
             "repo": "LM-reasoning",
-            "stars": 570
+            "stars": 570,
+            "topics": [
+              "artificial-intelligence",
+              "awesome-list",
+              "chain-of-thought",
+              "chatgpt",
+              "deductive-reasoning",
+              "gpt-3",
+              "human-intelligence",
+              "in-context-learning",
+              "language-modeling",
+              "language-models",
+              "large-language-models",
+              "llm",
+              "natural-language-processing",
+              "paper-list",
+              "prompt-engineering",
+              "prompt-learning",
+              "reasoning"
+            ]
           },
           "first_seen": "2026-08-28T05:51:39.097Z"
         },
@@ -42,12 +91,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
+            "homepage": "https://arxiv.org/abs/2303.10475",
             "id": 604404340,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-04T19:48:35Z",
+            "open_issues": 0,
             "owner": "RenzeLou",
             "repo": "awesome-instruction-learning",
-            "stars": 512
+            "stars": 512,
+            "topics": [
+              "awesome-list",
+              "datasets",
+              "in-context-learning",
+              "instruction",
+              "instruction-learning",
+              "instruction-tuning",
+              "large-language-models",
+              "paper-list",
+              "pretrained-language-model",
+              "prompt",
+              "survey"
+            ]
           },
           "first_seen": "2026-08-28T05:51:39.097Z"
         },
@@ -58,12 +124,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "paper list on reasoning in NLP",
+            "homepage": null,
             "id": 534238820,
             "language": null,
+            "license": null,
             "last_commit": "2025-04-07T12:30:09Z",
+            "open_issues": 0,
             "owner": "FreedomIntelligence",
             "repo": "ReasoningNLP",
-            "stars": 199
+            "stars": 199,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:51:39.097Z"
         }
@@ -82,12 +153,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Framework for Textual Entailment based Zero Shot text classification",
+                "homepage": "https://osainz59.github.io/Ask2Transformers/",
                 "id": 271374153,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-18T16:27:05Z",
+                "open_issues": 1,
                 "owner": "osainz59",
                 "repo": "Ask2Transformers",
-                "stars": 152
+                "stars": 152,
+                "topics": [
+                  "deep-learning",
+                  "mnli",
+                  "natural-language-processing",
+                  "nlp",
+                  "nlp-tool",
+                  "nlp-tools",
+                  "pytorch",
+                  "relation-extraction",
+                  "text-classification",
+                  "topic-classification",
+                  "topic-modeling",
+                  "transformers",
+                  "zero-shot"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -98,12 +188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EMNLP 2021 Adapting Language Models for Zero-shot Learning by Meta-tuning on Dataset and Prompt Collections",
+                "homepage": null,
                 "id": 400205829,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-09-15T02:43:23Z",
+                "open_issues": 0,
                 "owner": "ruiqi-zhong",
                 "repo": "Meta-tuning",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -114,12 +209,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for our ACL '20 paper \"Representation Engineering with Natural Language Explanations\"",
+                "homepage": null,
                 "id": 260517192,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-06-15T00:00:10Z",
+                "open_issues": 1,
                 "owner": "MurtyShikhar",
                 "repo": "ExpBERT",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "bert",
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -130,12 +233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Incremental Few-shot Text Classification with Multi-round New Classes: Formulation, Dataset and System. NAACL 2021. https://arxiv.org/abs/2104.11882",
+                "homepage": null,
                 "id": 356767001,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-05-28T17:01:06Z",
+                "open_issues": 1,
                 "owner": "congyingxia",
                 "repo": "IncrementalFSTC",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -146,12 +254,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Universal Discriminator for Zero-Shot Generalization",
+                "homepage": null,
                 "id": 529757969,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-21T15:20:23Z",
+                "open_issues": 1,
                 "owner": "Rafa-zy",
                 "repo": "UD",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -162,12 +275,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the repository for the resources in TACL 2022 Paper \"Ultra-fine Entity Typing with Indirect Supervision from Natural Language Inference\".",
+                "homepage": null,
                 "id": 457562699,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-08-17T21:44:28Z",
+                "open_issues": 2,
                 "owner": "luka-group",
                 "repo": "lite",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -178,12 +296,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the repository for the resources in TACL 2022 Paper \"Ultra-fine Entity Typing with Indirect Supervision from Natural Language Inference\".",
+                "homepage": null,
                 "id": 457562699,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-08-17T21:44:28Z",
+                "open_issues": 2,
                 "owner": "luka-group",
                 "repo": "lite",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -194,12 +317,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 549641486,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-12-07T04:22:48Z",
+                "open_issues": 0,
                 "owner": "xhz0809",
                 "repo": "OpenStance",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -210,12 +338,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ConEntail: An Entailment-based Framework for Universal Zero and Few Shot Classification with Supervised Contrastive Pretraining",
+                "homepage": null,
                 "id": 551095301,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-01-29T23:25:21Z",
+                "open_issues": 0,
                 "owner": "psunlpgroup",
                 "repo": "ConEntail",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "contrastive-learning",
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             }
@@ -233,12 +369,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An optimized deep prompt tuning strategy comparable to fine-tuning across scales and tasks",
+                "homepage": null,
                 "id": 417157956,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-16T04:38:09Z",
+                "open_issues": 35,
                 "owner": "THUDM",
                 "repo": "P-tuning-v2",
-                "stars": 2078
+                "stars": 2078,
+                "topics": [
+                  "natural-language-processing",
+                  "p-tuning",
+                  "parameter-efficient-learning",
+                  "pretrained-language-model",
+                  "prompt-tuning"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -249,12 +396,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the code for \"Exploiting Cloze Questions for Few-Shot Text Classification and Natural Language Inference\"",
+                "homepage": "https://arxiv.org/abs/2001.07676",
                 "id": 253729438,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-12T21:28:58Z",
+                "open_issues": 30,
                 "owner": "timoschick",
                 "repo": "pet",
-                "stars": 1622
+                "stars": 1622,
+                "topics": [
+                  "machine-learning",
+                  "nlp",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -265,12 +421,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the code for \"Exploiting Cloze Questions for Few-Shot Text Classification and Natural Language Inference\"",
+                "homepage": "https://arxiv.org/abs/2001.07676",
                 "id": 253729438,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-12T21:28:58Z",
+                "open_issues": 30,
                 "owner": "timoschick",
                 "repo": "pet",
-                "stars": 1622
+                "stars": 1622,
+                "topics": [
+                  "machine-learning",
+                  "nlp",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -281,12 +446,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the code for \"Exploiting Cloze Questions for Few-Shot Text Classification and Natural Language Inference\"",
+                "homepage": "https://arxiv.org/abs/2001.07676",
                 "id": 253729438,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-12T21:28:58Z",
+                "open_issues": 30,
                 "owner": "timoschick",
                 "repo": "pet",
-                "stars": 1622
+                "stars": 1622,
+                "topics": [
+                  "machine-learning",
+                  "nlp",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -297,12 +471,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prefix-Tuning: Optimizing Continuous Prompts for Generation",
+                "homepage": null,
                 "id": 331739884,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-26T16:47:52Z",
+                "open_issues": 35,
                 "owner": "XiangLi1999",
                 "repo": "PrefixTuning",
-                "stars": 961
+                "stars": 961,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -313,12 +492,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A novel method to tune language models. Codes and datasets for paper ``GPT understands, too''.",
+                "homepage": null,
                 "id": 348953105,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-06T12:36:12Z",
+                "open_issues": 16,
                 "owner": "THUDM",
                 "repo": "P-tuning",
-                "stars": 939
+                "stars": 939,
+                "topics": [
+                  "few-shot-learning",
+                  "natural-language-processing",
+                  "p-tuning",
+                  "parameter-efficient-learning",
+                  "pre-trained-language-models",
+                  "prompt-tuning"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -329,12 +520,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 2021] LM-BFF: Better Few-shot Fine-tuning of Language Models https://arxiv.org/abs/2012.15723",
+                "homepage": null,
                 "id": 325793879,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-08-29T20:01:35Z",
+                "open_issues": 7,
                 "owner": "princeton-nlp",
                 "repo": "LM-BFF",
-                "stars": 726
+                "stars": 726,
+                "topics": [
+                  "few-shot-learning",
+                  "language-models",
+                  "lm-bff"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -345,12 +545,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Accompanying repo for the RLPrompt paper",
+                "homepage": null,
                 "id": 496033295,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-06T19:27:30Z",
+                "open_issues": 7,
                 "owner": "mingkaid",
                 "repo": "rl-prompt",
-                "stars": 366
+                "stars": 366,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -361,12 +566,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for template-based NER",
+                "homepage": null,
                 "id": 369062941,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-12-22T03:56:38Z",
+                "open_issues": 16,
                 "owner": "Nealcly",
                 "repo": "templateNER",
-                "stars": 212
+                "stars": 212,
+                "topics": [
+                  "few-shot-learning",
+                  "named-entity-recognition",
+                  "prompt",
+                  "sequence-labeling",
+                  "template"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -377,12 +593,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[WWW 2022] KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction",
+                "homepage": null,
                 "id": 419610254,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-20T02:47:56Z",
+                "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "KnowPrompt",
-                "stars": 207
+                "stars": 207,
+                "topics": [
+                  "dataset",
+                  "dialogre",
+                  "few-shot-learning",
+                  "knowledge-informed-prompt-learning",
+                  "knowprompt",
+                  "prompt",
+                  "prompt-learning",
+                  "prompt-tuning",
+                  "pytorch",
+                  "re",
+                  "relation-extraction",
+                  "semeval",
+                  "tacred",
+                  "text-classification"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -393,12 +629,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Code for \"PPT: Pre-trained Prompt Tuning for Few-shot Learning\". ACL 2022",
+                "homepage": null,
                 "id": 466423313,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-08-10T01:53:17Z",
+                "open_issues": 2,
                 "owner": "thu-coai",
                 "repo": "PPT",
-                "stars": 109
+                "stars": 109,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -409,12 +650,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 357660293,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-09-07T02:40:11Z",
+                "open_issues": 1,
                 "owner": "hiaoxui",
                 "repo": "soft-prompts",
-                "stars": 89
+                "stars": 89,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             }
@@ -432,12 +678,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Instructional learning for Aspect Based Sentiment Analysis [NAACL-2024]",
+                "homepage": "https://aclanthology.org/2024.naacl-short.63/",
                 "id": 537236576,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-07-05T05:22:02Z",
+                "open_issues": 8,
                 "owner": "kevinscaria",
                 "repo": "InstructABSA",
-                "stars": 170
+                "stars": 170,
+                "topics": [
+                  "aspect-based-sentiment-analysis",
+                  "aspect-term-extraction",
+                  "aspect-term-polarity-co-extraction",
+                  "large-language-models",
+                  "machine-learning",
+                  "sentiment-analysis",
+                  "tk-instruct"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -448,12 +707,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"Small Models are Valuable Plug-ins for Large Language Models\"",
+                "homepage": "https://arxiv.org/abs/2305.08848",
                 "id": 640959631,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-16T21:57:01Z",
+                "open_issues": 0,
                 "owner": "JetRunner",
                 "repo": "SuperICL",
-                "stars": 131
+                "stars": 131,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -464,12 +728,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper Code for the paper InstructDial: Improving Zero and Few-shot Generalization in Dialogue through Instruction Tuning",
+                "homepage": null,
                 "id": 494577000,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-06T18:20:58Z",
+                "open_issues": 3,
                 "owner": "prakharguptaz",
                 "repo": "Instructdial",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "dialogue",
+                  "dialogue-generation",
+                  "dialogue-system",
+                  "dialogue-understanding",
+                  "few-shot-learning",
+                  "multitask-learning",
+                  "zero-shot-learning"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -480,12 +757,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2024] Investigating the Effectiveness of Task-Agnostic Prefix Prompt for Instruction Following",
+                "homepage": "https://arxiv.org/abs/2302.14691",
                 "id": 607659309,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-13T05:19:18Z",
+                "open_issues": 1,
                 "owner": "seonghyeonye",
                 "repo": "TAPP",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "deep-learning",
+                  "large-language-models",
+                  "nlp",
+                  "prompt"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -496,12 +783,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for our paper: \"GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models\"",
+                "homepage": null,
                 "id": 469536602,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-04-23T12:21:15Z",
+                "open_issues": 2,
                 "owner": "archiki",
                 "repo": "GrIPS",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -512,12 +804,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL'23 Findings] \"Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors\"",
+                "homepage": null,
                 "id": 639269285,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-12-22T04:36:07Z",
+                "open_issues": 0,
                 "owner": "OSU-NLP-Group",
                 "repo": "QA4RE",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "instruction-tuning",
+                  "large-language-models",
+                  "relation-extraction",
+                  "zero-shot-learning"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -528,12 +830,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zero-shot Learning by Generating Task-specific Adapters",
+                "homepage": null,
                 "id": 318406884,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-04-02T04:38:40Z",
+                "open_issues": 0,
                 "owner": "INK-USC",
                 "repo": "hypter",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -544,12 +851,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 470478366,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-03-24T01:36:57Z",
+                "open_issues": 1,
                 "owner": "Ravsehajsinghpuri",
                 "repo": "Multi-Variant-Instructions",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             }
@@ -573,12 +885,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 398647982,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-02T11:25:30Z",
+                "open_issues": 44,
                 "owner": "google-research",
                 "repo": "FLAN",
-                "stars": 1567
+                "stars": 1567,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -589,12 +906,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 398647982,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-02T11:25:30Z",
+                "open_issues": 44,
                 "owner": "google-research",
                 "repo": "FLAN",
-                "stars": 1567
+                "stars": 1567,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -605,12 +927,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Original Implementation of Prompt Tuning from Lester, et al, 2021",
+                "homepage": null,
                 "id": 403986458,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-06T04:47:38Z",
+                "open_issues": 13,
                 "owner": "google-research",
                 "repo": "prompt-tuning",
-                "stars": 699
+                "stars": 699,
+                "topics": [
+                  "flax",
+                  "jax",
+                  "language-model",
+                  "machine-learning",
+                  "nlp",
+                  "prompt-tuning"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -621,12 +955,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reproduce results and replicate training fo T0 (Multitask Prompted Training Enables Zero-Shot Task Generalization)",
+                "homepage": null,
                 "id": 437985376,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-05T11:29:45Z",
+                "open_issues": 10,
                 "owner": "bigscience-workshop",
                 "repo": "t-zero",
-                "stars": 463
+                "stars": 463,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -637,12 +976,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2023] Exploring the Benefits of Training Expert Language Models over Instruction Tuning",
+                "homepage": null,
                 "id": 596371828,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-26T04:50:40Z",
+                "open_issues": 3,
                 "owner": "joeljang",
                 "repo": "ELM",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -653,12 +997,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo for \"Zemi: Learning Zero-Shot Semi-Parametric Language Models from Multiple Tasks\" ACL 2023 Findings ",
+                "homepage": "https://arxiv.org/abs/2210.00185",
                 "id": 524782589,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-05-03T16:33:24Z",
+                "open_issues": 0,
                 "owner": "MikeWangWZHL",
                 "repo": "Zemi",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "language-model",
+                  "multitask-learning",
+                  "semi-parametric-modeling",
+                  "zero-shot"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -669,12 +1023,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Code for EMNLP2022 Paper: \"Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization\"",
+                "homepage": null,
                 "id": 547029613,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-17T02:41:06Z",
+                "open_issues": 0,
                 "owner": "thu-coai",
                 "repo": "UDIT",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             }
@@ -692,12 +1051,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Few-shot Learning of GPT-3",
+                "homepage": null,
                 "id": 339974526,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-18T19:16:09Z",
+                "open_issues": 4,
                 "owner": "tonyzhaozh",
                 "repo": "few-shot-learning",
-                "stars": 358
+                "stars": 358,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -708,12 +1072,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 463423737,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-24T15:47:01Z",
+                "open_issues": 3,
                 "owner": "Alrope123",
                 "repo": "rethinking-demonstrations",
-                "stars": 175
+                "stars": 175,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -724,12 +1093,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository accompanies our paper “Do Prompt-Based Models Really Understand the Meaning of Their Prompts?”",
+                "homepage": null,
                 "id": 400012697,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-10T22:50:14Z",
+                "open_issues": 2,
                 "owner": "awebson",
                 "repo": "prompt_semantics",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -740,12 +1114,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Offical code of the paper Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning.",
+                "homepage": null,
                 "id": 593486017,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-20T15:38:26Z",
+                "open_issues": 2,
                 "owner": "WANGXinyiLinda",
                 "repo": "concept-based-demonstration-selection",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "deep-learning",
+                  "large-language-models",
+                  "machine-learning",
+                  "prompting"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -756,12 +1140,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Research",
+                "homepage": "https://research.google",
                 "id": 559409009,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-29T04:37:45Z",
+                "open_issues": 0,
                 "owner": "ekinakyurek",
                 "repo": "google-research",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -772,12 +1161,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 480216991,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-04-08T17:39:58Z",
+                "open_issues": 4,
                 "owner": "jiachangliu",
                 "repo": "KATEGPT3",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -788,12 +1182,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 2023 Findings] What In-Context Learning “Learns” In-Context: Disentangling Task Recognition and Task Learning",
+                "homepage": "https://arxiv.org/abs/2305.09731",
                 "id": 642367711,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-09T05:30:15Z",
+                "open_issues": 0,
                 "owner": "princeton-nlp",
                 "repo": "WhatICLLearns",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -804,12 +1203,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper \"REV: Information-Theoretic Evaluation of Free-Text Rationales\"",
+                "homepage": null,
                 "id": 584213716,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-08-11T04:02:11Z",
+                "open_issues": 0,
                 "owner": "HanjieChen",
                 "repo": "REV",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -820,12 +1224,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 484884073,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-04-27T01:11:44Z",
+                "open_issues": 0,
                 "owner": "Alrope123",
                 "repo": "prompt-waywardness",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -836,12 +1245,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 407285715,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-05-20T16:11:54Z",
+                "open_issues": 0,
                 "owner": "allenai",
                 "repo": "reframing",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -852,12 +1266,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This is an old library. Try pyvene instead!",
+                "homepage": "https://github.com/stanfordnlp/pyvene",
                 "id": 741787897,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-01-11T07:50:02Z",
+                "open_issues": 0,
                 "owner": "frankaging",
                 "repo": "align-transformers",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             }
@@ -875,12 +1294,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "New ways of breaking app-integrated LLMs ",
+                "homepage": null,
                 "id": 603706708,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-07-17T14:03:25Z",
+                "open_issues": 1,
                 "owner": "greshake",
                 "repo": "llm-security",
-                "stars": 2132
+                "stars": 2132,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -891,12 +1315,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 596359939,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-30T09:46:41Z",
+                "open_issues": 5,
                 "owner": "AlexWan0",
                 "repo": "Poisoning-Instruction-Tuned-Models",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -907,12 +1336,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and dataset \"ZEST\" from \"Learning from task descriptions\", Weller et al, EMNLP 2020",
+                "homepage": null,
                 "id": 299672417,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-15T19:11:53Z",
+                "open_issues": 1,
                 "owner": "allenai",
                 "repo": "zest",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             }
@@ -930,12 +1364,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AllenAI's post-training codebase",
+                "homepage": "https://allenai.github.io/open-instruct/",
                 "id": 651622038,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:05:25Z",
+                "open_issues": 90,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3852
+                "stars": 3852,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -946,12 +1385,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains code to quantitatively evaluate instruction-tuned models such as Alpaca and Flan-T5 on held-out tasks. ",
+                "homepage": "https://declare-lab.github.io/instruct-eval/",
                 "id": 620479896,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-10T05:00:00Z",
+                "open_issues": 24,
                 "owner": "declare-lab",
                 "repo": "instruct-eval",
-                "stars": 552
+                "stars": 552,
+                "topics": [
+                  "instruct-tuning",
+                  "llm"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             }
@@ -969,12 +1416,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "code for our paper \"Understanding by Understanding Not: Modeling Negation in Language Models\"",
+                "homepage": null,
                 "id": 229115845,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-08-15T16:04:12Z",
+                "open_issues": 5,
                 "owner": "arianhosseini",
                 "repo": "negation-learning",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "bert",
+                  "language-model",
+                  "negation",
+                  "pretrained-language-model",
+                  "pytorch",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             }
@@ -992,12 +1451,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath",
+                "homepage": null,
                 "id": 631580207,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-07T01:35:05Z",
+                "open_issues": 169,
                 "owner": "nlpxucan",
                 "repo": "WizardLM",
-                "stars": 9482
+                "stars": 9482,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -1008,12 +1472,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DAMO-ConvAI: The official repository which contains the codebase for Alibaba DAMO Conversational AI.",
+                "homepage": null,
                 "id": 514217147,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-10T11:18:20Z",
+                "open_issues": 79,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1580
+                "stars": 1580,
+                "topics": [
+                  "conversational-ai",
+                  "deep-learning",
+                  "dialog",
+                  "natural-language-processing"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             }
@@ -1031,12 +1505,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for T-Few from \"Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning\"",
+                "homepage": null,
                 "id": 491315012,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-09-06T19:13:57Z",
+                "open_issues": 15,
                 "owner": "r-three",
                 "repo": "t-few",
-                "stars": 460
+                "stars": 460,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -1047,12 +1526,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code base for the paper \"Instruction Tuned Models are Quick Learners\".",
+                "homepage": null,
                 "id": 575997079,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-16T07:54:31Z",
+                "open_issues": 0,
                 "owner": "srsawant34",
                 "repo": "efficient_instruction_learning",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "data-efficiency",
+                  "data-efficient-learning",
+                  "deepspeed",
+                  "finetuning",
+                  "huggingface",
+                  "instruction-learning",
+                  "instruction-tuning",
+                  "instructions",
+                  "machine-learning",
+                  "seq2seq",
+                  "super-natural-instructions",
+                  "t5",
+                  "tk-instruct",
+                  "transformer",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -1063,12 +1563,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 487225285,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-03T07:28:37Z",
+                "open_issues": 0,
                 "owner": "Mihir3009",
                 "repo": "instruction-bias",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             }
@@ -1092,12 +1597,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An instruction-based benchmark for text improvements.",
+                "homepage": null,
                 "id": 542093732,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2022-11-26T20:03:29Z",
+                "open_issues": 2,
                 "owner": "facebookresearch",
                 "repo": "EditEval",
-                "stars": 142
+                "stars": 142,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -1108,12 +1618,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Language-annotated Abstraction and Reasoning Corpus",
+                "homepage": "https://samacquaviva.com/LARC/explore/",
                 "id": 334748446,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-24T01:47:47Z",
+                "open_issues": 0,
                 "owner": "samacqua",
                 "repo": "LARC",
-                "stars": 100
+                "stars": 100,
+                "topics": [
+                  "arc"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -1124,12 +1641,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SUGILITE is a new programming-by-demonstration (PBD) system that enables users to create automation on smartphones. SUGILITE uses Android’s accessibility API to support automating arbitrary tasks in any Android app (or even across multiple apps). When the user gives verbal commands that SUGILITE does not know how to execute, the user can demonstrate by directly manipulating the regular apps’ user interface. By leveraging the verbal instructions, the demonstrated procedures, and the apps’ UI hierarchy structures, SUGILITE can automatically generalize the script from the recorded actions, so SUGILITE learns how to perform tasks with different variations and parameters from a single demonstration. Extensive error handling and context checking support forking the script when new situations are encountered, and provide robustness if the apps change their user interface. Our lab study suggests that users with little or no programming knowledge can successfully automate smartphone tasks using SUGILITE.",
+                "homepage": null,
                 "id": 60534182,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2022-04-06T16:45:58Z",
+                "open_issues": 18,
                 "owner": "tobyli",
                 "repo": "Sugilite_development",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -1140,12 +1662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SUGILITE is a new programming-by-demonstration (PBD) system that enables users to create automation on smartphones. SUGILITE uses Android’s accessibility API to support automating arbitrary tasks in any Android app (or even across multiple apps). When the user gives verbal commands that SUGILITE does not know how to execute, the user can demonstrate by directly manipulating the regular apps’ user interface. By leveraging the verbal instructions, the demonstrated procedures, and the apps’ UI hierarchy structures, SUGILITE can automatically generalize the script from the recorded actions, so SUGILITE learns how to perform tasks with different variations and parameters from a single demonstration. Extensive error handling and context checking support forking the script when new situations are encountered, and provide robustness if the apps change their user interface. Our lab study suggests that users with little or no programming knowledge can successfully automate smartphone tasks using SUGILITE.",
+                "homepage": null,
                 "id": 60534182,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2022-04-06T16:45:58Z",
+                "open_issues": 18,
                 "owner": "tobyli",
                 "repo": "Sugilite_development",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -1156,12 +1683,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Creative Instructions Project",
+                "homepage": null,
                 "id": 446648992,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-09-04T18:39:10Z",
+                "open_issues": 0,
                 "owner": "vishakhpk",
                 "repo": "creative-instructions",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             }
@@ -1179,12 +1711,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A system for generating training labels via natural language explanations",
+                "homepage": null,
                 "id": 132089709,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-06-24T16:43:59Z",
+                "open_issues": 0,
                 "owner": "HazyResearch",
                 "repo": "babble",
-                "stars": 146
+                "stars": 146,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -1195,12 +1732,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 420587788,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-15T06:06:42Z",
+                "open_issues": 0,
                 "owner": "violet-zct",
                 "repo": "swarm-distillation-zero-shot",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -1211,12 +1753,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source Code for \"Teaching Machine Comprehension with Compositional Explanations\" (Findings of EMNLP 2020)",
+                "homepage": "http://inklab.usc.edu/mrc-explanation-project/",
                 "id": 260653359,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-12-12T21:09:46Z",
+                "open_issues": 0,
                 "owner": "INK-USC",
                 "repo": "mrc-explanation",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "emnlp2020",
+                  "machine-reading-comprehension",
+                  "question-answering",
+                  "reading-comprehension"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             }
@@ -1234,12 +1786,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 599814648,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-18T11:02:52Z",
+                "open_issues": 1,
                 "owner": "tianjunz",
                 "repo": "HIR",
-                "stars": 157
+                "stars": 157,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             }
@@ -1257,12 +1814,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+                "homepage": null,
                 "id": 101782647,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-30T11:16:06Z",
+                "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32232
+                "stars": 32232,
+                "topics": [
+                  "artificial-intelligence",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -1273,12 +1839,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[EMNLP 2022] Unifying and multi-tasking structured knowledge grounding with language models",
+                "homepage": "https://arxiv.org/abs/2201.05966",
                 "id": 438187736,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-22T07:18:00Z",
+                "open_issues": 4,
                 "owner": "xlang-ai",
                 "repo": "UnifiedSKG",
-                "stars": 566
+                "stars": 566,
+                "topics": [
+                  "data-to-text",
+                  "fact-verification",
+                  "huggingface-datasets",
+                  "huggingface-transformers",
+                  "multi-task-learning",
+                  "natural-language-processing",
+                  "nlp",
+                  "prompt-learning",
+                  "pytorch",
+                  "question-answering",
+                  "semantic-parsing",
+                  "structured-knowledge-grounding",
+                  "text-generation"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -1289,12 +1874,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source Code of Paper \"GPTScore: Evaluate as You Desire\"",
+                "homepage": null,
                 "id": 598407732,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-02-21T14:55:41Z",
+                "open_issues": 5,
                 "owner": "jinlanfu",
                 "repo": "GPTScore",
-                "stars": 259
+                "stars": 259,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -1305,12 +1895,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Code and model release for the paper \"Task-aware Retrieval with Instructions\" by Asai et al.",
+                "homepage": null,
                 "id": 573125269,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-10-04T05:12:42Z",
+                "open_issues": 9,
                 "owner": "facebookresearch",
                 "repo": "tart",
-                "stars": 168
+                "stars": 168,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -1321,12 +1916,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code base of In-Context Learning for Dialogue State tracking",
+                "homepage": null,
                 "id": 470475976,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-09-24T04:03:18Z",
+                "open_issues": 2,
                 "owner": "Yushi-Hu",
                 "repo": "IC-DST",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -1337,12 +1937,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "In-BoXBART: Get Instructions into Biomedical Multi-task Learning",
+                "homepage": null,
                 "id": 481463204,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-08-23T06:18:02Z",
+                "open_issues": 0,
                 "owner": "Mihir3009",
                 "repo": "In-BoXBART",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             }
@@ -1366,12 +1971,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2023] Guess the Instruction! Flipped Learning Makes Language Models Stronger Zero-Shot Learners",
+                "homepage": "https://arxiv.org/abs/2210.02969",
                 "id": 546725743,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-28T13:21:47Z",
+                "open_issues": 1,
                 "owner": "seonghyeonye",
                 "repo": "Flipped-Learning",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "deep-learning",
+                  "large-language-models",
+                  "nlp",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -1382,12 +1997,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 495007514,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-06-27T15:51:34Z",
+                "open_issues": 1,
                 "owner": "orhonovich",
                 "repo": "instruction-induction",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -1398,12 +2018,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Microsoft Complex Tasks Dataset",
+                "homepage": null,
                 "id": 332138065,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-06-12T18:15:31Z",
+                "open_issues": 1,
                 "owner": "microsoft",
                 "repo": "MSComplexTasks",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             }
@@ -1421,12 +2046,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥",
+                "homepage": "https://arxiv.org/abs/2301.07597",
                 "id": 586171281,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-12-01T16:03:51Z",
+                "open_issues": 26,
                 "owner": "Hello-SimpleAI",
                 "repo": "chatgpt-comparison-detection",
-                "stars": 1445
+                "stars": 1445,
+                "topics": [
+                  "ai",
+                  "chatbot",
+                  "chatgpt",
+                  "dataset",
+                  "deep-learning",
+                  "gpt-3",
+                  "gpt2",
+                  "gpt3",
+                  "machine-learning",
+                  "ml",
+                  "nlp",
+                  "openai",
+                  "python",
+                  "text-classification"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -1437,12 +2082,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Robust machine learning for responsible AI",
+                "homepage": "http://aka.ms/roblearn",
                 "id": 554730813,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-12T10:53:01Z",
+                "open_issues": 11,
                 "owner": "microsoft",
                 "repo": "robustlearn",
-                "stars": 508
+                "stars": 508,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             }
@@ -1460,12 +2110,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Human preference data for \"Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback\"",
+                "homepage": "https://arxiv.org/abs/2204.05862",
                 "id": 480101360,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-06-17T15:43:37Z",
+                "open_issues": 0,
                 "owner": "anthropics",
                 "repo": "hh-rlhf",
-                "stars": 1856
+                "stars": 1856,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -1476,12 +2131,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dromedary: towards helpful, ethical and reliable LLMs.",
+                "homepage": null,
                 "id": 635924825,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-09-18T00:08:16Z",
+                "open_issues": 4,
                 "owner": "IBM",
                 "repo": "Dromedary",
-                "stars": 1137
+                "stars": 1137,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -1492,12 +2152,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 551205916,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-12-21T21:05:34Z",
+                "open_issues": 0,
                 "owner": "anthropics",
                 "repo": "ConstitutionalHarmlessnessPaper",
-                "stars": 266
+                "stars": 266,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             },
@@ -1508,12 +2173,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple next-token-prediction for RLHF",
+                "homepage": null,
                 "id": 603929923,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-30T22:36:47Z",
+                "open_issues": 3,
                 "owner": "haoliuhl",
                 "repo": "chain-of-hindsight",
-                "stars": 228
+                "stars": 228,
+                "topics": [
+                  "large-language-models",
+                  "learning-from-human-feedback",
+                  "rlhf"
+                ]
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             }
@@ -1531,12 +2205,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Grade-School Math with Irrelevant Context (GSM-IC) benchmark is an arithmetic reasoning dataset built upon GSM8K, by adding irrelevant sentences in problem descriptions. GSM-IC is constructed to evaluate the distractibility of language models.",
+                "homepage": null,
                 "id": 601265689,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-02-13T19:55:04Z",
+                "open_issues": 1,
                 "owner": "google-research-datasets",
                 "repo": "GSM-IC",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
             }
@@ -1550,15 +2229,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:24:38.970Z",
+    "last_updated": "2026-08-29T04:45:52.685Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
+      "homepage": "https://arxiv.org/abs/2303.10475",
       "id": 604404340,
       "language": "Python",
+      "license": "MIT",
       "last_commit": "2024-04-04T19:48:35Z",
+      "open_issues": 0,
       "owner": "RenzeLou",
       "repo": "awesome-instruction-learning",
-      "stars": 512
+      "stars": 512,
+      "topics": [
+        "awesome-list",
+        "datasets",
+        "in-context-learning",
+        "instruction",
+        "instruction-learning",
+        "instruction-tuning",
+        "large-language-models",
+        "paper-list",
+        "pretrained-language-model",
+        "prompt",
+        "survey"
+      ]
     },
     "original_repository_sha": "c0ac59b44275f16cbc90ebb69441e5dc03de9835",
     "enhanced_repository": "enhansome/enhansome-instruction-learning",
