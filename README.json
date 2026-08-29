@@ -16,10 +16,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-05-21T06:44:22Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "zjunlp",
             "repo": "Prompt4ReasoningPapers",
-            "stars": 1006,
+            "stars": 1007,
             "topics": [
               "arithmetic-reasoning",
               "artificial-intelligence",
@@ -1369,11 +1369,11 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T20:05:25Z",
-                "open_issues": 90,
+                "last_commit": "2026-08-29T21:40:02Z",
+                "open_issues": 92,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3852,
+                "stars": 3854,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1823,7 +1823,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32232,
+                "stars": 32231,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2229,7 +2229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:45:52.685Z",
+    "last_updated": "2026-08-29T23:40:17.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
