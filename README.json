@@ -100,7 +100,7 @@
             "open_issues": 0,
             "owner": "RenzeLou",
             "repo": "awesome-instruction-learning",
-            "stars": 512,
+            "stars": 511,
             "topics": [
               "awesome-list",
               "datasets",
@@ -1149,7 +1149,7 @@
                 "open_issues": 0,
                 "owner": "ekinakyurek",
                 "repo": "google-research",
-                "stars": 47,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1303,7 +1303,7 @@
                 "open_issues": 1,
                 "owner": "greshake",
                 "repo": "llm-security",
-                "stars": 2132,
+                "stars": 2133,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1369,8 +1369,8 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T18:45:55Z",
-                "open_issues": 93,
+                "last_commit": "2026-09-01T00:36:19Z",
+                "open_issues": 99,
                 "owner": "allenai",
                 "repo": "open-instruct",
                 "stars": 3854,
@@ -1481,7 +1481,7 @@
                 "open_issues": 79,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1581,
+                "stars": 1588,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -1823,7 +1823,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32229,
+                "stars": 32228,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2055,7 +2055,7 @@
                 "open_issues": 26,
                 "owner": "Hello-SimpleAI",
                 "repo": "chatgpt-comparison-detection",
-                "stars": 1446,
+                "stars": 1447,
                 "topics": [
                   "ai",
                   "chatbot",
@@ -2229,7 +2229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T00:00:02.158Z",
+    "last_updated": "2026-09-01T00:52:13.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
@@ -2241,7 +2241,7 @@
       "open_issues": 0,
       "owner": "RenzeLou",
       "repo": "awesome-instruction-learning",
-      "stars": 512,
+      "stars": 511,
       "topics": [
         "awesome-list",
         "datasets",
