@@ -480,7 +480,7 @@
                 "open_issues": 36,
                 "owner": "XiangLi1999",
                 "repo": "PrefixTuning",
-                "stars": 959,
+                "stars": 960,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1369,11 +1369,11 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T00:00:51Z",
+                "last_commit": "2026-09-15T23:47:48Z",
                 "open_issues": 109,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3865,
+                "stars": 3868,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1460,7 +1460,7 @@
                 "open_issues": 169,
                 "owner": "nlpxucan",
                 "repo": "WizardLM",
-                "stars": 9480,
+                "stars": 9479,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1477,11 +1477,11 @@
                 "id": 514217147,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-06-10T11:18:20Z",
+                "last_commit": "2026-09-15T07:18:45Z",
                 "open_issues": 80,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1595,
+                "stars": 1596,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -1823,7 +1823,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32227,
+                "stars": 32226,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2229,7 +2229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T00:03:29.467Z",
+    "last_updated": "2026-09-15T23:47:51.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
