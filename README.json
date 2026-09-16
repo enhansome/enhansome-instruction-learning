@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "Prompt4ReasoningPapers",
-            "stars": 1007,
+            "stars": 1008,
             "topics": [
               "arithmetic-reasoning",
               "artificial-intelligence",
@@ -378,7 +378,7 @@
                 "open_issues": 35,
                 "owner": "THUDM",
                 "repo": "P-tuning-v2",
-                "stars": 2076,
+                "stars": 2077,
                 "topics": [
                   "natural-language-processing",
                   "p-tuning",
@@ -638,7 +638,7 @@
                 "open_issues": 2,
                 "owner": "thu-coai",
                 "repo": "PPT",
-                "stars": 109,
+                "stars": 110,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -894,7 +894,7 @@
                 "open_issues": 44,
                 "owner": "google-research",
                 "repo": "FLAN",
-                "stars": 1568,
+                "stars": 1570,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -915,7 +915,7 @@
                 "open_issues": 44,
                 "owner": "google-research",
                 "repo": "FLAN",
-                "stars": 1568,
+                "stars": 1570,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1081,7 +1081,7 @@
                 "open_issues": 3,
                 "owner": "Alrope123",
                 "repo": "rethinking-demonstrations",
-                "stars": 175,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1303,7 +1303,7 @@
                 "open_issues": 1,
                 "owner": "greshake",
                 "repo": "llm-security",
-                "stars": 2136,
+                "stars": 2137,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1369,11 +1369,11 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T23:47:48Z",
-                "open_issues": 109,
+                "last_commit": "2026-09-16T23:54:01Z",
+                "open_issues": 106,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3868,
+                "stars": 3870,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1460,7 +1460,7 @@
                 "open_issues": 169,
                 "owner": "nlpxucan",
                 "repo": "WizardLM",
-                "stars": 9479,
+                "stars": 9478,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1481,7 +1481,7 @@
                 "open_issues": 80,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1596,
+                "stars": 1599,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -1823,7 +1823,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32226,
+                "stars": 32224,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2140,7 +2140,7 @@
                 "open_issues": 4,
                 "owner": "IBM",
                 "repo": "Dromedary",
-                "stars": 1137,
+                "stars": 1136,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2229,7 +2229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T23:47:51.384Z",
+    "last_updated": "2026-09-16T23:56:52.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
