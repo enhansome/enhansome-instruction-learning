@@ -1369,11 +1369,11 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T23:09:04Z",
-                "open_issues": 110,
+                "last_commit": "2026-09-19T21:01:49Z",
+                "open_issues": 112,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3872,
+                "stars": 3873,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1823,7 +1823,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32222,
+                "stars": 32223,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2229,7 +2229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T23:43:41.905Z",
+    "last_updated": "2026-09-19T23:44:05.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
