@@ -800,7 +800,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
 
-1. **More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models.** *Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten Holz, and Mario Fritz.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.12173.pdf)]; \[[code](https://github.com/greshake/llm-security) ⭐ 2,137 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-07-17].
+1. **More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models.** *Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten Holz, and Mario Fritz.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.12173.pdf)]; \[[code](https://github.com/greshake/llm-security) ⭐ 2,138 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-07-17].
 
 2. **Poisoning Language Models During Instruction Tuning.** *Alexander Wan, Eric Wallace, Sheng Shen, and Dan Klein.* <ins>ICML</ins> 2023. \[[pdf](https://arxiv.org/pdf/2305.00944.pdf)]; \[[code](https://github.com/AlexWan0/Poisoning-Instruction-Tuned-Models) ⭐ 60 | 🐛 5 | 🌐 Python | 📅 2024-05-30].
 
@@ -818,7 +818,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 Stop using old-school automatic metrics to evaluate your instruction-tuned system; try more advanced methods to do it comprehensively!
 
-1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,873 | 🐛 112 | 🌐 Python | 📅 2026-09-19].
+1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,874 | 🐛 116 | 🌐 Python | 📅 2026-09-20].
 
 2. **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models.** *Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04757.pdf)]; \[[code](https://github.com/declare-lab/instruct-eval) ⭐ 553 | 🐛 24 | 🌐 Python | 📅 2024-03-10]; \[[leaderboard](https://declare-lab.net/instruct-eval/)].
 
@@ -987,7 +987,7 @@ We also share some other awesome papers that might inspire the future work.
 
 Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no official paper for ChatGPT, we share some frontier works that can provide deep insights into ChatGPT.
 
-1. **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection.** *Biyang Guo, Xin Zhang, Ziyuan Wang, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2301.07597.pdf)]; \[[corpus](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) ⭐ 1,461 | 🐛 26 | 🌐 Python | 📅 2023-12-01].
+1. **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection.** *Biyang Guo, Xin Zhang, Ziyuan Wang, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2301.07597.pdf)]; \[[corpus](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) ⭐ 1,462 | 🐛 26 | 🌐 Python | 📅 2023-12-01].
 
 2. **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective.** *Jindong Wang, Xixu Hu, Wenxin Hou, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.12095.pdf)]; \[[code](https://github.com/microsoft/robustlearn) ⭐ 509 | 🐛 11 | 🌐 Python | 📅 2024-07-12].
 
@@ -1045,4 +1045,4 @@ Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
