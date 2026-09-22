@@ -1303,7 +1303,7 @@
                 "open_issues": 1,
                 "owner": "greshake",
                 "repo": "llm-security",
-                "stars": 2138,
+                "stars": 2140,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1369,11 +1369,11 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T23:27:56Z",
-                "open_issues": 116,
+                "last_commit": "2026-09-22T00:01:29Z",
+                "open_issues": 120,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3874,
+                "stars": 3875,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1478,7 +1478,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-15T07:18:45Z",
-                "open_issues": 81,
+                "open_issues": 82,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
                 "stars": 1600,
@@ -2229,7 +2229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T23:39:53.821Z",
+    "last_updated": "2026-09-22T00:20:40.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
