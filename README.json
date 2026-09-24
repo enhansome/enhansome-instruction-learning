@@ -529,7 +529,7 @@
                 "open_issues": 7,
                 "owner": "princeton-nlp",
                 "repo": "LM-BFF",
-                "stars": 726,
+                "stars": 727,
                 "topics": [
                   "few-shot-learning",
                   "language-models",
@@ -1369,11 +1369,11 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T20:59:13Z",
-                "open_issues": 118,
+                "last_commit": "2026-09-23T23:17:23Z",
+                "open_issues": 119,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3875,
+                "stars": 3876,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1460,7 +1460,7 @@
                 "open_issues": 169,
                 "owner": "nlpxucan",
                 "repo": "WizardLM",
-                "stars": 9479,
+                "stars": 9480,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1823,7 +1823,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32222,
+                "stars": 32223,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2055,7 +2055,7 @@
                 "open_issues": 26,
                 "owner": "Hello-SimpleAI",
                 "repo": "chatgpt-comparison-detection",
-                "stars": 1465,
+                "stars": 1468,
                 "topics": [
                   "ai",
                   "chatbot",
@@ -2229,7 +2229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T23:54:01.065Z",
+    "last_updated": "2026-09-24T00:05:26.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
