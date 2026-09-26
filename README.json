@@ -378,7 +378,7 @@
                 "open_issues": 35,
                 "owner": "THUDM",
                 "repo": "P-tuning-v2",
-                "stars": 2079,
+                "stars": 2080,
                 "topics": [
                   "natural-language-processing",
                   "p-tuning",
@@ -1369,11 +1369,11 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T23:57:32Z",
-                "open_issues": 120,
+                "last_commit": "2026-09-25T22:35:02Z",
+                "open_issues": 118,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3878,
+                "stars": 3879,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1823,7 +1823,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32220,
+                "stars": 32219,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2229,7 +2229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T00:07:04.447Z",
+    "last_updated": "2026-09-26T00:13:52.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
