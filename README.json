@@ -1303,7 +1303,7 @@
                 "open_issues": 1,
                 "owner": "greshake",
                 "repo": "llm-security",
-                "stars": 2143,
+                "stars": 2144,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1369,8 +1369,8 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T20:35:09Z",
-                "open_issues": 123,
+                "last_commit": "2026-09-30T00:49:17Z",
+                "open_issues": 122,
                 "owner": "allenai",
                 "repo": "open-instruct",
                 "stars": 3881,
@@ -1823,7 +1823,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32218,
+                "stars": 32220,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2091,7 +2091,7 @@
                 "open_issues": 11,
                 "owner": "microsoft",
                 "repo": "robustlearn",
-                "stars": 509,
+                "stars": 510,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2229,7 +2229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T01:20:13.788Z",
+    "last_updated": "2026-09-30T00:49:52.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
