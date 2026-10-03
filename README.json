@@ -86,39 +86,6 @@
         },
         {
           "node_type": "item",
-          "title": "A Comprehensive Survey on Instruction Following. Renze Lou, Kai Zhang, and Wenpeng Yin. Preprint 2023. [pdf",
-          "description": "]; [paper list].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
-            "homepage": "https://arxiv.org/abs/2303.10475",
-            "id": 604404340,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2024-04-04T19:48:35Z",
-            "open_issues": 0,
-            "owner": "RenzeLou",
-            "repo": "awesome-instruction-learning",
-            "stars": 512,
-            "topics": [
-              "awesome-list",
-              "datasets",
-              "in-context-learning",
-              "instruction",
-              "instruction-learning",
-              "instruction-tuning",
-              "large-language-models",
-              "paper-list",
-              "pretrained-language-model",
-              "prompt",
-              "survey"
-            ]
-          },
-          "first_seen": "2026-08-28T05:51:39.097Z"
-        },
-        {
-          "node_type": "item",
           "title": "Nature Language Reasoning, A Survey. Fei Yu, Hongbo Zhang, and Benyou Wang. Preprint 2023. [pdf",
           "description": "]; [paper list].",
           "children": [],
@@ -1369,11 +1336,11 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T21:36:48Z",
-                "open_issues": 120,
+                "last_commit": "2026-10-03T01:09:47Z",
+                "open_issues": 125,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3879,
+                "stars": 3880,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2229,7 +2196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:47:54.834Z",
+    "last_updated": "2026-10-03T04:56:17.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",

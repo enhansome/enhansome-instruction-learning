@@ -46,7 +46,7 @@ This repository is currently maintained by <ins>[Renze Lou](https://renzelou.git
 
 <!-- **<font color='red'>Work still in progress</font>**  🚀, **we appreciate any suggestions and contributions** ❤️. -->
 
-If you have any suggestions or find any missed papers, feel free to [reach out](https://outlook.office.com/mail/deeplink/compose?mailtouri=mailto%3Amarionojump0722%40gmail.com) or submit a [pull request](https://github.com/RenzeLou/awesome-instruction-learning/pulls) ⭐ 512 | 🐛 0 | 🌐 Python | 📅 2024-04-04:
+If you have any suggestions or find any missed papers, feel free to [reach out](https://outlook.office.com/mail/deeplink/compose?mailtouri=mailto%3Amarionojump0722%40gmail.com) or submit a [pull request](https://github.com/RenzeLou/awesome-instruction-learning/pulls):
 
 1. Use following markdown format.
 
@@ -154,9 +154,9 @@ We use the label ![comprehensive](https://img.shields.io/badge/comprehensive-FFA
 
 2. **Towards Reasoning in Large Language Models: A Survey.** *Jie Huang, and Kevin Chen-Chuan Chang.* <ins>Preprint</ins> 2022. \[[pdf](https://arxiv.org/pdf/2212.10403.pdf)]; \[[paper list](https://github.com/jeffhj/LM-reasoning) ⭐ 570 | 🐛 6 | 📅 2023-11-13]. ![reasoning](https://img.shields.io/badge/reasoning-9cf)
 
-3. **A Comprehensive Survey on Instruction Following.** *Renze Lou, Kai Zhang, and Wenpeng Yin.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/abs/2303.10475)]; \[[paper list](https://github.com/RenzeLou/awesome-instruction-learning) ⭐ 512 | 🐛 0 | 🌐 Python | 📅 2024-04-04]. ![comprehensive](https://img.shields.io/badge/comprehensive-FFA07A)
+3. **Nature Language Reasoning, A Survey.** *Fei Yu, Hongbo Zhang, and Benyou Wang.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2303.14725.pdf)]; \[[paper list](https://github.com/FreedomIntelligence/ReasoningNLP) ⭐ 199 | 🐛 0 | 📅 2025-04-07]. ![reasoning](https://img.shields.io/badge/reasoning-9cf)
 
-4. **Nature Language Reasoning, A Survey.** *Fei Yu, Hongbo Zhang, and Benyou Wang.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2303.14725.pdf)]; \[[paper list](https://github.com/FreedomIntelligence/ReasoningNLP) ⭐ 199 | 🐛 0 | 📅 2025-04-07]. ![reasoning](https://img.shields.io/badge/reasoning-9cf)
+4. **A Comprehensive Survey on Instruction Following.** *Renze Lou, Kai Zhang, and Wenpeng Yin.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/abs/2303.10475)]; \[[paper list](https://github.com/RenzeLou/awesome-instruction-learning)]. ![comprehensive](https://img.shields.io/badge/comprehensive-FFA07A)
 
 5. **Learning from Task Instructions.** *Wenpeng Yin, Qinyuan Ye, Pengfei Liu, Xiang Ren, and Hinrich Schütze.* <ins>EMNLP Tutorial</ins> 2023. \[[pdf](https://aclanthology.org/2023.emnlp-tutorial.4.pdf)]. ![comprehensive](https://img.shields.io/badge/comprehensive-FFA07A)
 
@@ -818,7 +818,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 Stop using old-school automatic metrics to evaluate your instruction-tuned system; try more advanced methods to do it comprehensively!
 
-1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,879 | 🐛 120 | 🌐 Python | 📅 2026-10-02].
+1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,880 | 🐛 125 | 🌐 Python | 📅 2026-10-03].
 
 2. **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models.** *Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04757.pdf)]; \[[code](https://github.com/declare-lab/instruct-eval) ⭐ 553 | 🐛 25 | 🌐 Python | 📅 2024-03-10]; \[[leaderboard](https://declare-lab.net/instruct-eval/)].
 
