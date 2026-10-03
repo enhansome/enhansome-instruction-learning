@@ -734,9 +734,9 @@ The model and task scale are found to be important for instruction-based fine-tu
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)].  -->
 
-1. **The Flan Collection: Designing Data and Methods for Effective Instruction Tuning.** *Shayne Longpre, Le Hou, Tu Vu, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2301.13688.pdf)]; \[[code](https://github.com/google-research/FLAN/tree/main/flan/v2) ⭐ 1,572 | 🐛 44 | 🌐 Python | 📅 2026-07-02]; \[[corpus](https://huggingface.co/datasets/SirNeural/flan_v2)].
+1. **The Flan Collection: Designing Data and Methods for Effective Instruction Tuning.** *Shayne Longpre, Le Hou, Tu Vu, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2301.13688.pdf)]; \[[code](https://github.com/google-research/FLAN/tree/main/flan/v2) ⭐ 1,573 | 🐛 44 | 🌐 Python | 📅 2026-07-02]; \[[corpus](https://huggingface.co/datasets/SirNeural/flan_v2)].
 
-2. **Finetuned Language Models are Zero-Shot Learners.** *Jason Wei, Maarten Bosma, Vincent Zhao, and et al.* <ins>ICLR</ins> 2022. \[[pdf](https://openreview.net/pdf?id=gEZrGCozdqR)]; \[[code](https://github.com/google-research/flan) ⭐ 1,572 | 🐛 44 | 🌐 Python | 📅 2026-07-02].
+2. **Finetuned Language Models are Zero-Shot Learners.** *Jason Wei, Maarten Bosma, Vincent Zhao, and et al.* <ins>ICLR</ins> 2022. \[[pdf](https://openreview.net/pdf?id=gEZrGCozdqR)]; \[[code](https://github.com/google-research/flan) ⭐ 1,573 | 🐛 44 | 🌐 Python | 📅 2026-07-02].
 
 3. **The Power of Scale for Parameter-Efficient Prompt Tuning.** *Brian Lester, Rami Al-Rfou, and Noah Constant.* <ins>EMNLP</ins> 2021. \[[pdf](https://aclanthology.org/2021.emnlp-main.243.pdf)]; \[[code](https://github.com/google-research/prompt-tuning) ⚠️ Archived].
 
@@ -818,7 +818,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 Stop using old-school automatic metrics to evaluate your instruction-tuned system; try more advanced methods to do it comprehensively!
 
-1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,881 | 🐛 119 | 🌐 Python | 📅 2026-10-01].
+1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,879 | 🐛 120 | 🌐 Python | 📅 2026-10-02].
 
 2. **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models.** *Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04757.pdf)]; \[[code](https://github.com/declare-lab/instruct-eval) ⭐ 553 | 🐛 25 | 🌐 Python | 📅 2024-03-10]; \[[leaderboard](https://declare-lab.net/instruct-eval/)].
 
@@ -1045,4 +1045,4 @@ Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
