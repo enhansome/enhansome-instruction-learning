@@ -1340,7 +1340,7 @@
                 "open_issues": 125,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3880,
+                "stars": 3881,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1445,7 +1445,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-15T07:18:45Z",
-                "open_issues": 82,
+                "open_issues": 83,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
                 "stars": 1603,
@@ -1790,7 +1790,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32214,
+                "stars": 32213,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1994,7 +1994,7 @@
                 "open_issues": 1,
                 "owner": "microsoft",
                 "repo": "MSComplexTasks",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2022,7 +2022,7 @@
                 "open_issues": 26,
                 "owner": "Hello-SimpleAI",
                 "repo": "chatgpt-comparison-detection",
-                "stars": 1472,
+                "stars": 1473,
                 "topics": [
                   "ai",
                   "chatbot",
@@ -2086,7 +2086,7 @@
                 "open_issues": 0,
                 "owner": "anthropics",
                 "repo": "hh-rlhf",
-                "stars": 1856,
+                "stars": 1855,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2196,7 +2196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:56:17.883Z",
+    "last_updated": "2026-10-04T00:12:29.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
