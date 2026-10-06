@@ -670,9 +670,9 @@ PLM-oriented instruction (i.e., prompt) aims to construct a cloze-style input to
 
 4. **Exploiting Cloze-Questions for Few-Shot Text Classification and Natural Language Inference.** *Timo Schick and Hinrich Schütze.* <ins>EACL</ins> 2021. \[[pdf](https://aclanthology.org/2021.eacl-main.20.pdf)]; \[[code](https://github.com/timoschick/pet) ⭐ 1,623 | 🐛 30 | 🌐 Python | 📅 2023-06-12].
 
-5. **Prefix-Tuning: Optimizing Continuous Prompts for Generation.** *Xiang Lisa Li and Percy Liang.* <ins>ACL</ins> 2021. \[[pdf](https://aclanthology.org/2021.acl-long.353.pdf)]; \[[code](https://github.com/XiangLi1999/PrefixTuning) ⭐ 961 | 🐛 36 | 🌐 Python | 📅 2024-04-26].
+5. **Prefix-Tuning: Optimizing Continuous Prompts for Generation.** *Xiang Lisa Li and Percy Liang.* <ins>ACL</ins> 2021. \[[pdf](https://aclanthology.org/2021.acl-long.353.pdf)]; \[[code](https://github.com/XiangLi1999/PrefixTuning) ⭐ 960 | 🐛 36 | 🌐 Python | 📅 2024-04-26].
 
-6. **GPT Understands, Too.** *Xiao Liu, Yanan Zheng, Zhengxiao Du, Ming Ding, Yujie Qian, Zhilin Yang, and Jie Tang.* <ins>Preprint</ins> 2021. \[[pdf](https://arxiv.org/pdf/2103.10385.pdf)]; \[[code](https://github.com/THUDM/P-tuning) ⭐ 939 | 🐛 16 | 🌐 Python | 📅 2022-10-06].
+6. **GPT Understands, Too.** *Xiao Liu, Yanan Zheng, Zhengxiao Du, Ming Ding, Yujie Qian, Zhilin Yang, and Jie Tang.* <ins>Preprint</ins> 2021. \[[pdf](https://arxiv.org/pdf/2103.10385.pdf)]; \[[code](https://github.com/THUDM/P-tuning) ⭐ 938 | 🐛 16 | 🌐 Python | 📅 2022-10-06].
 
 7. **Making Pre-trained Language Models Better Few-shot Learners.** *Tianyu Gao, Adam Fisch, and Danqi Chen.* <ins>ACL</ins> 2021. \[[pdf](https://aclanthology.org/2021.acl-long.295.pdf)]; \[[code](https://github.com/princeton-nlp/LM-BFF) ⭐ 727 | 🐛 7 | 🌐 Python | 📅 2022-08-29].
 
@@ -818,7 +818,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 Stop using old-school automatic metrics to evaluate your instruction-tuned system; try more advanced methods to do it comprehensively!
 
-1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,883 | 🐛 123 | 🌐 Python | 📅 2026-10-06].
+1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,884 | 🐛 124 | 🌐 Python | 📅 2026-10-06].
 
 2. **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models.** *Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04757.pdf)]; \[[code](https://github.com/declare-lab/instruct-eval) ⭐ 553 | 🐛 25 | 🌐 Python | 📅 2024-03-10]; \[[leaderboard](https://declare-lab.net/instruct-eval/)].
 
@@ -989,7 +989,7 @@ Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no of
 
 1. **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection.** *Biyang Guo, Xin Zhang, Ziyuan Wang, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2301.07597.pdf)]; \[[corpus](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) ⭐ 1,475 | 🐛 26 | 🌐 Python | 📅 2023-12-01].
 
-2. **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective.** *Jindong Wang, Xixu Hu, Wenxin Hou, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.12095.pdf)]; \[[code](https://github.com/microsoft/robustlearn) ⭐ 509 | 🐛 11 | 🌐 Python | 📅 2024-07-12].
+2. **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective.** *Jindong Wang, Xixu Hu, Wenxin Hou, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.12095.pdf)]; \[[code](https://github.com/microsoft/robustlearn) ⭐ 510 | 🐛 11 | 🌐 Python | 📅 2024-07-12].
 
 3. **When do you need Chain-of-Thought Prompting for ChatGPT?** *Jiuhai Chen, Lichang Chen, Heng Huang, and Tianyi Zhou.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2304.03262.pdf)].
 

@@ -447,7 +447,7 @@
                 "open_issues": 36,
                 "owner": "XiangLi1999",
                 "repo": "PrefixTuning",
-                "stars": 961,
+                "stars": 960,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -468,7 +468,7 @@
                 "open_issues": 16,
                 "owner": "THUDM",
                 "repo": "P-tuning",
-                "stars": 939,
+                "stars": 938,
                 "topics": [
                   "few-shot-learning",
                   "natural-language-processing",
@@ -1336,11 +1336,11 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T01:32:40Z",
-                "open_issues": 123,
+                "last_commit": "2026-10-06T03:59:24Z",
+                "open_issues": 124,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3883,
+                "stars": 3884,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2058,7 +2058,7 @@
                 "open_issues": 11,
                 "owner": "microsoft",
                 "repo": "robustlearn",
-                "stars": 509,
+                "stars": 510,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2196,7 +2196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:58:02.813Z",
+    "last_updated": "2026-10-06T10:47:52.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
