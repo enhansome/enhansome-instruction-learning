@@ -764,7 +764,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
 
-1. **Calibrate Before Use: Improving Few-shot Performance of Language Models.** *Zihao Zhao, Eric Wallace, Shi Feng, Dan Klein, and Sameer Singh.* <ins>ICML</ins> 2021. \[[pdf](https://arxiv.org/pdf/2102.09690.pdf)]; \[[code](https://github.com/tonyzhaozh/few-shot-learning) ⭐ 359 | 🐛 4 | 🌐 Python | 📅 2023-09-18].
+1. **Calibrate Before Use: Improving Few-shot Performance of Language Models.** *Zihao Zhao, Eric Wallace, Shi Feng, Dan Klein, and Sameer Singh.* <ins>ICML</ins> 2021. \[[pdf](https://arxiv.org/pdf/2102.09690.pdf)]; \[[code](https://github.com/tonyzhaozh/few-shot-learning) ⭐ 360 | 🐛 4 | 🌐 Python | 📅 2023-09-18].
 
 2. **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?** *Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, and Luke Zettlemoyer.* <ins>EMNLP</ins> 2022. \[[pdf](https://arxiv.org/pdf/2202.12837.pdf)]; \[[code](https://github.com/Alrope123/rethinking-demonstrations) ⭐ 176 | 🐛 3 | 🌐 Python | 📅 2024-07-24].
 
@@ -818,7 +818,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 Stop using old-school automatic metrics to evaluate your instruction-tuned system; try more advanced methods to do it comprehensively!
 
-1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,885 | 🐛 124 | 🌐 Python | 📅 2026-10-06].
+1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,884 | 🐛 127 | 🌐 Python | 📅 2026-10-07].
 
 2. **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models.** *Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04757.pdf)]; \[[code](https://github.com/declare-lab/instruct-eval) ⭐ 553 | 🐛 25 | 🌐 Python | 📅 2024-03-10]; \[[leaderboard](https://declare-lab.net/instruct-eval/)].
 
@@ -840,7 +840,7 @@ Negation expressions, such as `do not` and `avoid doing`, are difficult for mode
 
 Papers are focusing on enhancing the complexity of instructions to enhance model competence. More complex data in the mix of instruction data, more competent performance model could achieve.
 
-1. **Wizardlm: Empowering large language models to follow complex instructions.** *Xu, Can and Sun, Qingfeng and Zheng, Kai and Geng, Xiubo and Zhao, Pu and Feng, Jiazhan and Tao, Chongyang and Jiang, Daxin*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2304.12244.pdf)]; \[[code](https://github.com/nlpxucan/WizardLM) ⭐ 9,480 | 🐛 169 | 🌐 Python | 📅 2025-06-07].
+1. **Wizardlm: Empowering large language models to follow complex instructions.** *Xu, Can and Sun, Qingfeng and Zheng, Kai and Geng, Xiubo and Zhao, Pu and Feng, Jiazhan and Tao, Chongyang and Jiang, Daxin*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2304.12244.pdf)]; \[[code](https://github.com/nlpxucan/WizardLM) ⭐ 9,479 | 🐛 169 | 🌐 Python | 📅 2025-06-07].
 
 2. **A Preliminary Study of the Intrinsic Relationship between Complexity and Alignment.** *Zhao, Yingxiu and Yu, Bowen and Hui, Binyuan and Yu, Haiyang and Huang, Fei and Li, Yongbin and Zhang, Nevin L*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2308.05696.pdf)]; \[[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/tree-instruct) ⭐ 1,605 | 🐛 83 | 🌐 Python | 📅 2026-09-15].
 
@@ -1045,4 +1045,4 @@ Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
