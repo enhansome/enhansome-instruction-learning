@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "Prompt4ReasoningPapers",
-            "stars": 1008,
+            "stars": 1009,
             "topics": [
               "arithmetic-reasoning",
               "artificial-intelligence",
@@ -342,7 +342,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2023-11-16T04:38:09Z",
-                "open_issues": 36,
+                "open_issues": 35,
                 "owner": "THUDM",
                 "repo": "P-tuning-v2",
                 "stars": 2077,
@@ -1270,7 +1270,7 @@
                 "open_issues": 1,
                 "owner": "greshake",
                 "repo": "llm-security",
-                "stars": 2149,
+                "stars": 2150,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1336,11 +1336,11 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T04:03:53Z",
-                "open_issues": 131,
+                "last_commit": "2026-10-09T21:25:56Z",
+                "open_issues": 133,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3888,
+                "stars": 3890,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1790,7 +1790,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32211,
+                "stars": 32207,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2022,7 +2022,7 @@
                 "open_issues": 26,
                 "owner": "Hello-SimpleAI",
                 "repo": "chatgpt-comparison-detection",
-                "stars": 1475,
+                "stars": 1476,
                 "topics": [
                   "ai",
                   "chatbot",
@@ -2196,7 +2196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T01:31:47.997Z",
+    "last_updated": "2026-10-10T01:22:43.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
