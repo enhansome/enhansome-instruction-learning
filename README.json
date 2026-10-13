@@ -468,7 +468,7 @@
                 "open_issues": 16,
                 "owner": "THUDM",
                 "repo": "P-tuning",
-                "stars": 938,
+                "stars": 939,
                 "topics": [
                   "few-shot-learning",
                   "natural-language-processing",
@@ -861,7 +861,7 @@
                 "open_issues": 44,
                 "owner": "google-research",
                 "repo": "FLAN",
-                "stars": 1575,
+                "stars": 1574,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -882,7 +882,7 @@
                 "open_issues": 44,
                 "owner": "google-research",
                 "repo": "FLAN",
-                "stars": 1575,
+                "stars": 1574,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1270,7 +1270,7 @@
                 "open_issues": 1,
                 "owner": "greshake",
                 "repo": "llm-security",
-                "stars": 2150,
+                "stars": 2149,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1337,10 +1337,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-11T23:31:57Z",
-                "open_issues": 140,
+                "open_issues": 142,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3895,
+                "stars": 3896,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1427,7 +1427,7 @@
                 "open_issues": 169,
                 "owner": "nlpxucan",
                 "repo": "WizardLM",
-                "stars": 9478,
+                "stars": 9477,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1790,7 +1790,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32207,
+                "stars": 32208,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2022,7 +2022,7 @@
                 "open_issues": 26,
                 "owner": "Hello-SimpleAI",
                 "repo": "chatgpt-comparison-detection",
-                "stars": 1477,
+                "stars": 1478,
                 "topics": [
                   "ai",
                   "chatbot",
@@ -2086,7 +2086,7 @@
                 "open_issues": 0,
                 "owner": "anthropics",
                 "repo": "hh-rlhf",
-                "stars": 1856,
+                "stars": 1855,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2181,7 +2181,7 @@
                 "open_issues": 1,
                 "owner": "google-research-datasets",
                 "repo": "GSM-IC",
-                "stars": 67,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2196,7 +2196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T00:48:10.998Z",
+    "last_updated": "2026-10-13T02:45:21.539Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
