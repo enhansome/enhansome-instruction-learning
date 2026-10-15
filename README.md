@@ -660,7 +660,7 @@ Entailment-oriented instruction regards the task **input** as the **premise**, a
 
 ![plm\_oriented](./resources/PLM_oriented.png)
 
-PLM-oriented instruction (i.e., prompt) aims to construct a cloze-style input to steer pre-trained language models (PLM) for responses. Here, we diaplay several representative works of PLM-oriented instruction learning. For more works, please refer to [this repository](https://github.com/thunlp/PromptPapers) ⭐ 4,328 | 🐛 6 | 📅 2023-07-17 and [this survey](https://dl.acm.org/doi/pdf/10.1145/3560815).
+PLM-oriented instruction (i.e., prompt) aims to construct a cloze-style input to steer pre-trained language models (PLM) for responses. Here, we diaplay several representative works of PLM-oriented instruction learning. For more works, please refer to [this repository](https://github.com/thunlp/PromptPapers) ⭐ 4,327 | 🐛 6 | 📅 2023-07-17 and [this survey](https://dl.acm.org/doi/pdf/10.1145/3560815).
 
 1. **P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks.** *Xiao Liu, Kaixuan Ji, Yicheng Fu, Weng Lam Tam, Zhengxiao Du, Zhilin Yang, and Jie Tang.* <ins>ACL</ins> 2022. \[[pdf](https://arxiv.org/pdf/2110.07602.pdf)]; \[[code](https://github.com/THUDM/P-tuning-v2) ⭐ 2,077 | 🐛 35 | 🌐 Python | 📅 2023-11-16].
 
@@ -672,7 +672,7 @@ PLM-oriented instruction (i.e., prompt) aims to construct a cloze-style input to
 
 5. **Prefix-Tuning: Optimizing Continuous Prompts for Generation.** *Xiang Lisa Li and Percy Liang.* <ins>ACL</ins> 2021. \[[pdf](https://aclanthology.org/2021.acl-long.353.pdf)]; \[[code](https://github.com/XiangLi1999/PrefixTuning) ⭐ 960 | 🐛 36 | 🌐 Python | 📅 2024-04-26].
 
-6. **GPT Understands, Too.** *Xiao Liu, Yanan Zheng, Zhengxiao Du, Ming Ding, Yujie Qian, Zhilin Yang, and Jie Tang.* <ins>Preprint</ins> 2021. \[[pdf](https://arxiv.org/pdf/2103.10385.pdf)]; \[[code](https://github.com/THUDM/P-tuning) ⭐ 939 | 🐛 16 | 🌐 Python | 📅 2022-10-06].
+6. **GPT Understands, Too.** *Xiao Liu, Yanan Zheng, Zhengxiao Du, Ming Ding, Yujie Qian, Zhilin Yang, and Jie Tang.* <ins>Preprint</ins> 2021. \[[pdf](https://arxiv.org/pdf/2103.10385.pdf)]; \[[code](https://github.com/THUDM/P-tuning) ⭐ 938 | 🐛 16 | 🌐 Python | 📅 2022-10-06].
 
 7. **Making Pre-trained Language Models Better Few-shot Learners.** *Tianyu Gao, Adam Fisch, and Danqi Chen.* <ins>ACL</ins> 2021. \[[pdf](https://aclanthology.org/2021.acl-long.295.pdf)]; \[[code](https://github.com/princeton-nlp/LM-BFF) ⭐ 728 | 🐛 7 | 🌐 Python | 📅 2022-08-29].
 
@@ -818,7 +818,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 Stop using old-school automatic metrics to evaluate your instruction-tuned system; try more advanced methods to do it comprehensively!
 
-1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,899 | 🐛 132 | 🌐 Python | 📅 2026-10-15].
+1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,899 | 🐛 136 | 🌐 Python | 📅 2026-10-15].
 
 2. **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models.** *Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04757.pdf)]; \[[code](https://github.com/declare-lab/instruct-eval) ⭐ 553 | 🐛 25 | 🌐 Python | 📅 2024-03-10]; \[[leaderboard](https://declare-lab.net/instruct-eval/)].
 
@@ -842,7 +842,7 @@ Papers are focusing on enhancing the complexity of instructions to enhance model
 
 1. **Wizardlm: Empowering large language models to follow complex instructions.** *Xu, Can and Sun, Qingfeng and Zheng, Kai and Geng, Xiubo and Zhao, Pu and Feng, Jiazhan and Tao, Chongyang and Jiang, Daxin*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2304.12244.pdf)]; \[[code](https://github.com/nlpxucan/WizardLM) ⭐ 9,476 | 🐛 169 | 🌐 Python | 📅 2025-06-07].
 
-2. **A Preliminary Study of the Intrinsic Relationship between Complexity and Alignment.** *Zhao, Yingxiu and Yu, Bowen and Hui, Binyuan and Yu, Haiyang and Huang, Fei and Li, Yongbin and Zhang, Nevin L*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2308.05696.pdf)]; \[[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/tree-instruct) ⭐ 1,606 | 🐛 83 | 🌐 Python | 📅 2026-09-15].
+2. **A Preliminary Study of the Intrinsic Relationship between Complexity and Alignment.** *Zhao, Yingxiu and Yu, Bowen and Hui, Binyuan and Yu, Haiyang and Huang, Fei and Li, Yongbin and Zhang, Nevin L*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2308.05696.pdf)]; \[[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/tree-instruct) ⭐ 1,607 | 🐛 83 | 🌐 Python | 📅 2026-09-15].
 
 3. **Orca: Progressive learning from complex explanation traces of gpt-4.** *Mukherjee, Subhabrata and Mitra, Arindam and Jawahar, Ganesh and Agarwal, Sahaj and Palangi, Hamid and Awadallah, Ahmed*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.02707.pdf)].
 
@@ -863,7 +863,7 @@ Instructions are used in various human-computer interaction (HCI) tasks, such as
 
 1. **EditEval: An Instruction-Based Benchmark for Text Improvements.** *Jane Dwivedi-Yu, Timo Schick, Zhengbao Jiang, and et al.* <ins>Preprint</ins> 2022. \[[pdf](https://arxiv.org/pdf/2209.13331.pdf)]; \[[code](https://github.com/facebookresearch/EditEval) ⚠️ Archived]; \[[website](https://eval.ai/web/challenges/challenge-page/1866/overview)].
 
-2. **Communicating Natural Programs to Humans and Machines.** *Sam Acquaviva, Yewen Pu, Marta Kryven, and et al.* <ins>NeurIPS Workshop</ins> 2022. \[[pdf](https://openreview.net/pdf?id=OxFoLTKDcNm)]; \[[code](https://github.com/samacqua/LARC) ⭐ 100 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-24].
+2. **Communicating Natural Programs to Humans and Machines.** *Sam Acquaviva, Yewen Pu, Marta Kryven, and et al.* <ins>NeurIPS Workshop</ins> 2022. \[[pdf](https://openreview.net/pdf?id=OxFoLTKDcNm)]; \[[code](https://github.com/samacqua/LARC) ⭐ 99 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-24].
 
 3. **Interactive Task Learning from GUI-Grounded Natural Language Instructions and Demonstrations.** *Toby Jia-Jun Li, Tom Mitchell, and Brad Myers.* <ins>ACL Demo</ins> 2020. \[[pdf](https://aclanthology.org/2020.acl-demos.25.pdf)]; \[[code](https://github.com/tobyli/Sugilite_development) ⭐ 63 | 🐛 18 | 🌐 Java | 📅 2022-04-06]; \[[video](https://www.youtube.com/watch?v=tdHEk-GeaqE)].
 
