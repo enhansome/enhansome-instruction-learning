@@ -496,7 +496,7 @@
                 "open_issues": 7,
                 "owner": "princeton-nlp",
                 "repo": "LM-BFF",
-                "stars": 728,
+                "stars": 727,
                 "topics": [
                   "few-shot-learning",
                   "language-models",
@@ -1336,11 +1336,11 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T23:56:45Z",
-                "open_issues": 136,
+                "last_commit": "2026-10-17T00:00:54Z",
+                "open_issues": 150,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3899,
+                "stars": 3901,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1790,7 +1790,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32212,
+                "stars": 32213,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2196,7 +2196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T23:57:24.880Z",
+    "last_updated": "2026-10-17T00:01:11.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
