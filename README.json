@@ -1336,7 +1336,7 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T22:16:05Z",
+                "last_commit": "2026-10-18T22:15:16Z",
                 "open_issues": 152,
                 "owner": "allenai",
                 "repo": "open-instruct",
@@ -1687,7 +1687,7 @@
                 "open_issues": 0,
                 "owner": "HazyResearch",
                 "repo": "babble",
-                "stars": 147,
+                "stars": 146,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1815,7 +1815,7 @@
                 "open_issues": 4,
                 "owner": "xlang-ai",
                 "repo": "UnifiedSKG",
-                "stars": 566,
+                "stars": 565,
                 "topics": [
                   "data-to-text",
                   "fact-verification",
@@ -2196,7 +2196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T23:35:31.743Z",
+    "last_updated": "2026-10-18T23:46:25.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
