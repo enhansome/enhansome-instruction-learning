@@ -1090,7 +1090,7 @@
                 "open_issues": 2,
                 "owner": "WANGXinyiLinda",
                 "repo": "concept-based-demonstration-selection",
-                "stars": 76,
+                "stars": 75,
                 "topics": [
                   "deep-learning",
                   "large-language-models",
@@ -1270,7 +1270,7 @@
                 "open_issues": 1,
                 "owner": "greshake",
                 "repo": "llm-security",
-                "stars": 2149,
+                "stars": 2148,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1336,8 +1336,8 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-18T22:15:16Z",
-                "open_issues": 152,
+                "last_commit": "2026-10-19T22:05:21Z",
+                "open_issues": 157,
                 "owner": "allenai",
                 "repo": "open-instruct",
                 "stars": 3901,
@@ -1427,7 +1427,7 @@
                 "open_issues": 169,
                 "owner": "nlpxucan",
                 "repo": "WizardLM",
-                "stars": 9474,
+                "stars": 9473,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1444,11 +1444,11 @@
                 "id": 514217147,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-15T07:18:45Z",
+                "last_commit": "2026-10-19T07:53:20Z",
                 "open_issues": 83,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1607,
+                "stars": 1608,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -1687,7 +1687,7 @@
                 "open_issues": 0,
                 "owner": "HazyResearch",
                 "repo": "babble",
-                "stars": 146,
+                "stars": 147,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2022,7 +2022,7 @@
                 "open_issues": 26,
                 "owner": "Hello-SimpleAI",
                 "repo": "chatgpt-comparison-detection",
-                "stars": 1480,
+                "stars": 1482,
                 "topics": [
                   "ai",
                   "chatbot",
@@ -2196,7 +2196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T23:46:25.138Z",
+    "last_updated": "2026-10-20T00:46:46.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
