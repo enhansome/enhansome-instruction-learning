@@ -345,7 +345,7 @@
                 "open_issues": 35,
                 "owner": "THUDM",
                 "repo": "P-tuning-v2",
-                "stars": 2077,
+                "stars": 2076,
                 "topics": [
                   "natural-language-processing",
                   "p-tuning",
@@ -1336,11 +1336,11 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T00:09:17Z",
-                "open_issues": 150,
+                "last_commit": "2026-10-22T00:16:15Z",
+                "open_issues": 153,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3901,
+                "stars": 3902,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1445,10 +1445,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-19T07:53:20Z",
-                "open_issues": 83,
+                "open_issues": 84,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1608,
+                "stars": 1611,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -2022,7 +2022,7 @@
                 "open_issues": 26,
                 "owner": "Hello-SimpleAI",
                 "repo": "chatgpt-comparison-detection",
-                "stars": 1482,
+                "stars": 1483,
                 "topics": [
                   "ai",
                   "chatbot",
@@ -2086,7 +2086,7 @@
                 "open_issues": 0,
                 "owner": "anthropics",
                 "repo": "hh-rlhf",
-                "stars": 1856,
+                "stars": 1857,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2128,7 +2128,7 @@
                 "open_issues": 0,
                 "owner": "anthropics",
                 "repo": "ConstitutionalHarmlessnessPaper",
-                "stars": 265,
+                "stars": 266,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2196,7 +2196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T00:13:15.616Z",
+    "last_updated": "2026-10-22T00:17:35.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
