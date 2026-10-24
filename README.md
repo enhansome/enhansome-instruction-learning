@@ -660,7 +660,7 @@ Entailment-oriented instruction regards the task **input** as the **premise**, a
 
 ![plm\_oriented](./resources/PLM_oriented.png)
 
-PLM-oriented instruction (i.e., prompt) aims to construct a cloze-style input to steer pre-trained language models (PLM) for responses. Here, we diaplay several representative works of PLM-oriented instruction learning. For more works, please refer to [this repository](https://github.com/thunlp/PromptPapers) ⭐ 4,326 | 🐛 6 | 📅 2023-07-17 and [this survey](https://dl.acm.org/doi/pdf/10.1145/3560815).
+PLM-oriented instruction (i.e., prompt) aims to construct a cloze-style input to steer pre-trained language models (PLM) for responses. Here, we diaplay several representative works of PLM-oriented instruction learning. For more works, please refer to [this repository](https://github.com/thunlp/PromptPapers) ⭐ 4,325 | 🐛 6 | 📅 2023-07-17 and [this survey](https://dl.acm.org/doi/pdf/10.1145/3560815).
 
 1. **P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks.** *Xiao Liu, Kaixuan Ji, Yicheng Fu, Weng Lam Tam, Zhengxiao Du, Zhilin Yang, and Jie Tang.* <ins>ACL</ins> 2022. \[[pdf](https://arxiv.org/pdf/2110.07602.pdf)]; \[[code](https://github.com/THUDM/P-tuning-v2) ⭐ 2,076 | 🐛 35 | 🌐 Python | 📅 2023-11-16].
 
@@ -818,7 +818,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 Stop using old-school automatic metrics to evaluate your instruction-tuned system; try more advanced methods to do it comprehensively!
 
-1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,907 | 🐛 157 | 🌐 Python | 📅 2026-10-23].
+1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,909 | 🐛 167 | 🌐 Python | 📅 2026-10-23].
 
 2. **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models.** *Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04757.pdf)]; \[[code](https://github.com/declare-lab/instruct-eval) ⭐ 552 | 🐛 25 | 🌐 Python | 📅 2024-03-10]; \[[leaderboard](https://declare-lab.net/instruct-eval/)].
 
@@ -1045,4 +1045,4 @@ Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
