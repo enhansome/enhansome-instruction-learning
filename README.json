@@ -1336,11 +1336,11 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T23:57:16Z",
+                "last_commit": "2026-10-24T21:26:08Z",
                 "open_issues": 167,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3909,
+                "stars": 3911,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1445,7 +1445,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-19T07:53:20Z",
-                "open_issues": 84,
+                "open_issues": 85,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
                 "stars": 1613,
@@ -1790,7 +1790,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32211,
+                "stars": 32210,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2022,7 +2022,7 @@
                 "open_issues": 26,
                 "owner": "Hello-SimpleAI",
                 "repo": "chatgpt-comparison-detection",
-                "stars": 1486,
+                "stars": 1487,
                 "topics": [
                   "ai",
                   "chatbot",
@@ -2086,7 +2086,7 @@
                 "open_issues": 0,
                 "owner": "anthropics",
                 "repo": "hh-rlhf",
-                "stars": 1857,
+                "stars": 1858,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2196,7 +2196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T00:07:19.616Z",
+    "last_updated": "2026-10-24T23:50:28.498Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
@@ -2205,7 +2205,7 @@
       "language": "Python",
       "license": "MIT",
       "last_commit": "2024-04-04T19:48:35Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "RenzeLou",
       "repo": "awesome-instruction-learning",
       "stars": 512,
