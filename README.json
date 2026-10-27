@@ -1336,11 +1336,11 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T22:45:30Z",
+                "last_commit": "2026-10-27T00:38:59Z",
                 "open_issues": 168,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3912,
+                "stars": 3913,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1427,7 +1427,7 @@
                 "open_issues": 169,
                 "owner": "nlpxucan",
                 "repo": "WizardLM",
-                "stars": 9474,
+                "stars": 9473,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1790,7 +1790,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32212,
+                "stars": 32213,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1815,7 +1815,7 @@
                 "open_issues": 4,
                 "owner": "xlang-ai",
                 "repo": "UnifiedSKG",
-                "stars": 565,
+                "stars": 564,
                 "topics": [
                   "data-to-text",
                   "fact-verification",
@@ -2022,7 +2022,7 @@
                 "open_issues": 26,
                 "owner": "Hello-SimpleAI",
                 "repo": "chatgpt-comparison-detection",
-                "stars": 1488,
+                "stars": 1489,
                 "topics": [
                   "ai",
                   "chatbot",
@@ -2196,7 +2196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T23:39:32.035Z",
+    "last_updated": "2026-10-27T00:58:28.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
