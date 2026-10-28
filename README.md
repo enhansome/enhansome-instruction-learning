@@ -150,7 +150,7 @@ Why *instruction-driven* learning instead of *example-driven* learning?
 
 We use the label ![comprehensive](https://img.shields.io/badge/comprehensive-FFA07A) to denote the papers with a more comprehensive perspective. While some other papers are more specific to a certain in-context instruction, including ![prompt](https://img.shields.io/badge/prompt-90EE90), few-shot ![in-context demonstrations](https://img.shields.io/badge/demonstrations-FFB6C1), and CoT ![reasoning](https://img.shields.io/badge/reasoning-9cf).
 
-1. **Reasoning with Language Model Prompting: A Survey.** *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, and Huajun Chen.* <ins>Preprint</ins> 2022. \[[pdf](https://arxiv.org/pdf/2212.09597.pdf)]; \[[paper list](https://github.com/zjunlp/Prompt4ReasoningPapers) ⭐ 1,009 | 🐛 0 | 📅 2025-05-21]. ![reasoning](https://img.shields.io/badge/reasoning-9cf)
+1. **Reasoning with Language Model Prompting: A Survey.** *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, and Huajun Chen.* <ins>Preprint</ins> 2022. \[[pdf](https://arxiv.org/pdf/2212.09597.pdf)]; \[[paper list](https://github.com/zjunlp/Prompt4ReasoningPapers) ⭐ 1,010 | 🐛 0 | 📅 2025-05-21]. ![reasoning](https://img.shields.io/badge/reasoning-9cf)
 
 2. **Towards Reasoning in Large Language Models: A Survey.** *Jie Huang, and Kevin Chen-Chuan Chang.* <ins>Preprint</ins> 2022. \[[pdf](https://arxiv.org/pdf/2212.10403.pdf)]; \[[paper list](https://github.com/jeffhj/LM-reasoning) ⭐ 570 | 🐛 6 | 📅 2023-11-13]. ![reasoning](https://img.shields.io/badge/reasoning-9cf)
 
@@ -818,7 +818,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 Stop using old-school automatic metrics to evaluate your instruction-tuned system; try more advanced methods to do it comprehensively!
 
-1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,913 | 🐛 168 | 🌐 Python | 📅 2026-10-27].
+1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,914 | 🐛 162 | 🌐 Python | 📅 2026-10-28].
 
 2. **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models.** *Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04757.pdf)]; \[[code](https://github.com/declare-lab/instruct-eval) ⭐ 552 | 🐛 25 | 🌐 Python | 📅 2024-03-10]; \[[leaderboard](https://declare-lab.net/instruct-eval/)].
 
@@ -840,9 +840,9 @@ Negation expressions, such as `do not` and `avoid doing`, are difficult for mode
 
 Papers are focusing on enhancing the complexity of instructions to enhance model competence. More complex data in the mix of instruction data, more competent performance model could achieve.
 
-1. **Wizardlm: Empowering large language models to follow complex instructions.** *Xu, Can and Sun, Qingfeng and Zheng, Kai and Geng, Xiubo and Zhao, Pu and Feng, Jiazhan and Tao, Chongyang and Jiang, Daxin*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2304.12244.pdf)]; \[[code](https://github.com/nlpxucan/WizardLM) ⭐ 9,473 | 🐛 169 | 🌐 Python | 📅 2025-06-07].
+1. **Wizardlm: Empowering large language models to follow complex instructions.** *Xu, Can and Sun, Qingfeng and Zheng, Kai and Geng, Xiubo and Zhao, Pu and Feng, Jiazhan and Tao, Chongyang and Jiang, Daxin*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2304.12244.pdf)]; \[[code](https://github.com/nlpxucan/WizardLM) ⭐ 9,472 | 🐛 169 | 🌐 Python | 📅 2025-06-07].
 
-2. **A Preliminary Study of the Intrinsic Relationship between Complexity and Alignment.** *Zhao, Yingxiu and Yu, Bowen and Hui, Binyuan and Yu, Haiyang and Huang, Fei and Li, Yongbin and Zhang, Nevin L*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2308.05696.pdf)]; \[[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/tree-instruct) ⭐ 1,613 | 🐛 85 | 🌐 Python | 📅 2026-10-19].
+2. **A Preliminary Study of the Intrinsic Relationship between Complexity and Alignment.** *Zhao, Yingxiu and Yu, Bowen and Hui, Binyuan and Yu, Haiyang and Huang, Fei and Li, Yongbin and Zhang, Nevin L*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2308.05696.pdf)]; \[[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/tree-instruct) ⭐ 1,615 | 🐛 85 | 🌐 Python | 📅 2026-10-19].
 
 3. **Orca: Progressive learning from complex explanation traces of gpt-4.** *Mukherjee, Subhabrata and Mitra, Arindam and Jawahar, Ganesh and Agarwal, Sahaj and Palangi, Hamid and Awadallah, Ahmed*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.02707.pdf)].
 
@@ -1045,4 +1045,4 @@ Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
