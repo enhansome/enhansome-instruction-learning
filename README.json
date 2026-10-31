@@ -345,7 +345,7 @@
                 "open_issues": 35,
                 "owner": "THUDM",
                 "repo": "P-tuning-v2",
-                "stars": 2076,
+                "stars": 2077,
                 "topics": [
                   "natural-language-processing",
                   "p-tuning",
@@ -1336,11 +1336,11 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T01:21:24Z",
-                "open_issues": 170,
+                "last_commit": "2026-10-30T23:14:47Z",
+                "open_issues": 176,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3915,
+                "stars": 3920,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1427,7 +1427,7 @@
                 "open_issues": 169,
                 "owner": "nlpxucan",
                 "repo": "WizardLM",
-                "stars": 9469,
+                "stars": 9471,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1594,7 +1594,7 @@
                 "open_issues": 0,
                 "owner": "samacqua",
                 "repo": "LARC",
-                "stars": 99,
+                "stars": 100,
                 "topics": [
                   "arc"
                 ]
@@ -1790,7 +1790,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32210,
+                "stars": 32211,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1815,7 +1815,7 @@
                 "open_issues": 4,
                 "owner": "xlang-ai",
                 "repo": "UnifiedSKG",
-                "stars": 564,
+                "stars": 565,
                 "topics": [
                   "data-to-text",
                   "fact-verification",
@@ -2022,7 +2022,7 @@
                 "open_issues": 26,
                 "owner": "Hello-SimpleAI",
                 "repo": "chatgpt-comparison-detection",
-                "stars": 1491,
+                "stars": 1490,
                 "topics": [
                   "ai",
                   "chatbot",
@@ -2086,7 +2086,7 @@
                 "open_issues": 0,
                 "owner": "anthropics",
                 "repo": "hh-rlhf",
-                "stars": 1858,
+                "stars": 1860,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2107,7 +2107,7 @@
                 "open_issues": 4,
                 "owner": "IBM",
                 "repo": "Dromedary",
-                "stars": 1134,
+                "stars": 1135,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2196,7 +2196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T01:24:35.847Z",
+    "last_updated": "2026-10-31T01:11:24.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
