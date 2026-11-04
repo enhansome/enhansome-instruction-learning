@@ -1336,11 +1336,11 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T01:35:36Z",
-                "open_issues": 185,
+                "last_commit": "2026-11-04T01:08:37Z",
+                "open_issues": 190,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3923,
+                "stars": 3924,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1427,7 +1427,7 @@
                 "open_issues": 169,
                 "owner": "nlpxucan",
                 "repo": "WizardLM",
-                "stars": 9472,
+                "stars": 9471,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1448,7 +1448,7 @@
                 "open_issues": 85,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1619,
+                "stars": 1620,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -2196,7 +2196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:07:45.424Z",
+    "last_updated": "2026-11-04T01:44:45.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
