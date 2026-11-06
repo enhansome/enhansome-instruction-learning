@@ -345,7 +345,7 @@
                 "open_issues": 35,
                 "owner": "THUDM",
                 "repo": "P-tuning-v2",
-                "stars": 2077,
+                "stars": 2078,
                 "topics": [
                   "natural-language-processing",
                   "p-tuning",
@@ -468,7 +468,7 @@
                 "open_issues": 16,
                 "owner": "THUDM",
                 "repo": "P-tuning",
-                "stars": 938,
+                "stars": 939,
                 "topics": [
                   "few-shot-learning",
                   "natural-language-processing",
@@ -1270,7 +1270,7 @@
                 "open_issues": 1,
                 "owner": "greshake",
                 "repo": "llm-security",
-                "stars": 2152,
+                "stars": 2153,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1336,8 +1336,8 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T00:13:20Z",
-                "open_issues": 187,
+                "last_commit": "2026-11-06T01:46:20Z",
+                "open_issues": 177,
                 "owner": "allenai",
                 "repo": "open-instruct",
                 "stars": 3924,
@@ -1448,7 +1448,7 @@
                 "open_issues": 85,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1622,
+                "stars": 1623,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -1790,7 +1790,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32211,
+                "stars": 32210,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1850,7 +1850,7 @@
                 "open_issues": 5,
                 "owner": "jinlanfu",
                 "repo": "GPTScore",
-                "stars": 259,
+                "stars": 260,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1994,7 +1994,7 @@
                 "open_issues": 1,
                 "owner": "microsoft",
                 "repo": "MSComplexTasks",
-                "stars": 19,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2022,7 +2022,7 @@
                 "open_issues": 26,
                 "owner": "Hello-SimpleAI",
                 "repo": "chatgpt-comparison-detection",
-                "stars": 1495,
+                "stars": 1497,
                 "topics": [
                   "ai",
                   "chatbot",
@@ -2196,7 +2196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:53:04.574Z",
+    "last_updated": "2026-11-06T01:52:21.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
