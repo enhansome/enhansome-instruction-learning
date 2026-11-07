@@ -345,7 +345,7 @@
                 "open_issues": 35,
                 "owner": "THUDM",
                 "repo": "P-tuning-v2",
-                "stars": 2078,
+                "stars": 2079,
                 "topics": [
                   "natural-language-processing",
                   "p-tuning",
@@ -1270,7 +1270,7 @@
                 "open_issues": 1,
                 "owner": "greshake",
                 "repo": "llm-security",
-                "stars": 2153,
+                "stars": 2152,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1336,8 +1336,8 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T01:46:20Z",
-                "open_issues": 177,
+                "last_commit": "2026-11-07T01:19:54Z",
+                "open_issues": 176,
                 "owner": "allenai",
                 "repo": "open-instruct",
                 "stars": 3924,
@@ -1424,7 +1424,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-06-07T01:35:05Z",
-                "open_issues": 169,
+                "open_issues": 168,
                 "owner": "nlpxucan",
                 "repo": "WizardLM",
                 "stars": 9471,
@@ -1790,7 +1790,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32210,
+                "stars": 32207,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2086,7 +2086,7 @@
                 "open_issues": 0,
                 "owner": "anthropics",
                 "repo": "hh-rlhf",
-                "stars": 1861,
+                "stars": 1862,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2196,7 +2196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:52:21.556Z",
+    "last_updated": "2026-11-07T01:23:56.115Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
