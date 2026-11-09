@@ -818,7 +818,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 Stop using old-school automatic metrics to evaluate your instruction-tuned system; try more advanced methods to do it comprehensively!
 
-1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,925 | 🐛 175 | 🌐 Python | 📅 2026-11-08].
+1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,927 | 🐛 163 | 🌐 Python | 📅 2026-11-08].
 
 2. **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models.** *Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04757.pdf)]; \[[code](https://github.com/declare-lab/instruct-eval) ⭐ 551 | 🐛 25 | 🌐 Python | 📅 2024-03-10]; \[[leaderboard](https://declare-lab.net/instruct-eval/)].
 
@@ -863,7 +863,7 @@ Instructions are used in various human-computer interaction (HCI) tasks, such as
 
 1. **EditEval: An Instruction-Based Benchmark for Text Improvements.** *Jane Dwivedi-Yu, Timo Schick, Zhengbao Jiang, and et al.* <ins>Preprint</ins> 2022. \[[pdf](https://arxiv.org/pdf/2209.13331.pdf)]; \[[code](https://github.com/facebookresearch/EditEval) ⚠️ Archived]; \[[website](https://eval.ai/web/challenges/challenge-page/1866/overview)].
 
-2. **Communicating Natural Programs to Humans and Machines.** *Sam Acquaviva, Yewen Pu, Marta Kryven, and et al.* <ins>NeurIPS Workshop</ins> 2022. \[[pdf](https://openreview.net/pdf?id=OxFoLTKDcNm)]; \[[code](https://github.com/samacqua/LARC) ⭐ 100 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-24].
+2. **Communicating Natural Programs to Humans and Machines.** *Sam Acquaviva, Yewen Pu, Marta Kryven, and et al.* <ins>NeurIPS Workshop</ins> 2022. \[[pdf](https://openreview.net/pdf?id=OxFoLTKDcNm)]; \[[code](https://github.com/samacqua/LARC) ⭐ 101 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-24].
 
 3. **Interactive Task Learning from GUI-Grounded Natural Language Instructions and Demonstrations.** *Toby Jia-Jun Li, Tom Mitchell, and Brad Myers.* <ins>ACL Demo</ins> 2020. \[[pdf](https://aclanthology.org/2020.acl-demos.25.pdf)]; \[[code](https://github.com/tobyli/Sugilite_development) ⭐ 63 | 🐛 18 | 🌐 Java | 📅 2022-04-06]; \[[video](https://www.youtube.com/watch?v=tdHEk-GeaqE)].
 
@@ -955,7 +955,7 @@ General-purpose language models are also one of the most attractive applications
 
 2. **UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models.** *Tianbao Xie, Chen Henry Wu, Peng Shi, and et al.* <ins>EMNLP</ins> 2022. \[[pdf](https://arxiv.org/pdf/2201.05966.pdf)]; \[[code](https://github.com/HKUNLP/UnifiedSKG) ⭐ 565 | 🐛 4 | 🌐 Python | 📅 2023-08-22]; \[[website](https://unifiedskg.com/)].
 
-3. **GPTScore: Evaluate as You Desire.** *Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, and Pengfei Liu.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.04166.pdf)]; \[[code](https://github.com/jinlanfu/GPTScore) ⭐ 260 | 🐛 5 | 🌐 Python | 📅 2023-02-21].
+3. **GPTScore: Evaluate as You Desire.** *Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, and Pengfei Liu.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.04166.pdf)]; \[[code](https://github.com/jinlanfu/GPTScore) ⭐ 261 | 🐛 5 | 🌐 Python | 📅 2023-02-21].
 
 4. **Task-aware Retrieval with Instructions.** *Akari Asai, Timo Schick, Patrick Lewis, and et al.* <ins>Preprint</ins> 2022. \[[pdf](https://arxiv.org/pdf/2211.09260.pdf)]; \[[code](https://github.com/facebookresearch/tart) ⚠️ Archived].
 
@@ -987,7 +987,7 @@ We also share some other awesome papers that might inspire the future work.
 
 Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no official paper for ChatGPT, we share some frontier works that can provide deep insights into ChatGPT.
 
-1. **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection.** *Biyang Guo, Xin Zhang, Ziyuan Wang, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2301.07597.pdf)]; \[[corpus](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) ⭐ 1,498 | 🐛 26 | 🌐 Python | 📅 2023-12-01].
+1. **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection.** *Biyang Guo, Xin Zhang, Ziyuan Wang, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2301.07597.pdf)]; \[[corpus](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) ⭐ 1,499 | 🐛 26 | 🌐 Python | 📅 2023-12-01].
 
 2. **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective.** *Jindong Wang, Xixu Hu, Wenxin Hou, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.12095.pdf)]; \[[code](https://github.com/microsoft/robustlearn) ⭐ 511 | 🐛 11 | 🌐 Python | 📅 2024-07-12].
 
@@ -1045,4 +1045,4 @@ Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
