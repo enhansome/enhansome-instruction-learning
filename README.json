@@ -1336,11 +1336,11 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T23:52:56Z",
-                "open_issues": 160,
+                "last_commit": "2026-11-10T23:17:36Z",
+                "open_issues": 162,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3929,
+                "stars": 3932,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1790,7 +1790,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32203,
+                "stars": 32204,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2022,7 +2022,7 @@
                 "open_issues": 26,
                 "owner": "Hello-SimpleAI",
                 "repo": "chatgpt-comparison-detection",
-                "stars": 1501,
+                "stars": 1502,
                 "topics": [
                   "ai",
                   "chatbot",
@@ -2086,7 +2086,7 @@
                 "open_issues": 0,
                 "owner": "anthropics",
                 "repo": "hh-rlhf",
-                "stars": 1863,
+                "stars": 1862,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2196,7 +2196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T03:52:23.383Z",
+    "last_updated": "2026-11-11T01:33:54.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
