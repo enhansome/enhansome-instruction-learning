@@ -672,7 +672,7 @@ PLM-oriented instruction (i.e., prompt) aims to construct a cloze-style input to
 
 5. **Prefix-Tuning: Optimizing Continuous Prompts for Generation.** *Xiang Lisa Li and Percy Liang.* <ins>ACL</ins> 2021. \[[pdf](https://aclanthology.org/2021.acl-long.353.pdf)]; \[[code](https://github.com/XiangLi1999/PrefixTuning) ⭐ 960 | 🐛 36 | 🌐 Python | 📅 2024-04-26].
 
-6. **GPT Understands, Too.** *Xiao Liu, Yanan Zheng, Zhengxiao Du, Ming Ding, Yujie Qian, Zhilin Yang, and Jie Tang.* <ins>Preprint</ins> 2021. \[[pdf](https://arxiv.org/pdf/2103.10385.pdf)]; \[[code](https://github.com/THUDM/P-tuning) ⭐ 939 | 🐛 16 | 🌐 Python | 📅 2022-10-06].
+6. **GPT Understands, Too.** *Xiao Liu, Yanan Zheng, Zhengxiao Du, Ming Ding, Yujie Qian, Zhilin Yang, and Jie Tang.* <ins>Preprint</ins> 2021. \[[pdf](https://arxiv.org/pdf/2103.10385.pdf)]; \[[code](https://github.com/THUDM/P-tuning) ⭐ 940 | 🐛 16 | 🌐 Python | 📅 2022-10-06].
 
 7. **Making Pre-trained Language Models Better Few-shot Learners.** *Tianyu Gao, Adam Fisch, and Danqi Chen.* <ins>ACL</ins> 2021. \[[pdf](https://aclanthology.org/2021.acl-long.295.pdf)]; \[[code](https://github.com/princeton-nlp/LM-BFF) ⭐ 728 | 🐛 7 | 🌐 Python | 📅 2022-08-29].
 
@@ -800,9 +800,9 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
 
-1. **More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models.** *Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten Holz, and Mario Fritz.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.12173.pdf)]; \[[code](https://github.com/greshake/llm-security) ⭐ 2,151 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-07-17].
+1. **More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models.** *Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten Holz, and Mario Fritz.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.12173.pdf)]; \[[code](https://github.com/greshake/llm-security) ⭐ 2,152 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-07-17].
 
-2. **Poisoning Language Models During Instruction Tuning.** *Alexander Wan, Eric Wallace, Sheng Shen, and Dan Klein.* <ins>ICML</ins> 2023. \[[pdf](https://arxiv.org/pdf/2305.00944.pdf)]; \[[code](https://github.com/AlexWan0/Poisoning-Instruction-Tuned-Models) ⭐ 62 | 🐛 5 | 🌐 Python | 📅 2024-05-30].
+2. **Poisoning Language Models During Instruction Tuning.** *Alexander Wan, Eric Wallace, Sheng Shen, and Dan Klein.* <ins>ICML</ins> 2023. \[[pdf](https://arxiv.org/pdf/2305.00944.pdf)]; \[[code](https://github.com/AlexWan0/Poisoning-Instruction-Tuned-Models) ⭐ 61 | 🐛 5 | 🌐 Python | 📅 2024-05-30].
 
 3. **Learning from Task Descriptions.** *Orion Weller, Nicholas Lourie, Matt Gardner, and Matthew E. Peters.* <ins>EMNLP</ins> 2020. \[[pdf](https://aclanthology.org/2020.emnlp-main.105.pdf)]; \[[code](https://github.com/allenai/zest) ⭐ 17 | 🐛 1 | 🌐 HTML | 📅 2021-03-15]; \[[corpus](https://allenai.org/data/zest)].
 
@@ -818,9 +818,9 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 Stop using old-school automatic metrics to evaluate your instruction-tuned system; try more advanced methods to do it comprehensively!
 
-1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,938 | 🐛 178 | 🌐 Python | 📅 2026-11-16].
+1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; \[[code](https://github.com/allenai/open-instruct) ⭐ 3,938 | 🐛 182 | 🌐 Python | 📅 2026-11-17].
 
-2. **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models.** *Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04757.pdf)]; \[[code](https://github.com/declare-lab/instruct-eval) ⭐ 551 | 🐛 25 | 🌐 Python | 📅 2024-03-10]; \[[leaderboard](https://declare-lab.net/instruct-eval/)].
+2. **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models.** *Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.04757.pdf)]; \[[code](https://github.com/declare-lab/instruct-eval) ⭐ 552 | 🐛 25 | 🌐 Python | 📅 2024-03-10]; \[[leaderboard](https://declare-lab.net/instruct-eval/)].
 
 3. **Camels in a Changing Climate: Enhancing LM Adaptation with Tulu 2.** *Hamish Ivison, Yizhong Wang, Valentina Pyatkin, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2311.10702.pdf)]; \[[model\&data](https://huggingface.co/collections/allenai/tulu-v2-suite-6551b56e743e6349aab45101)]
 
@@ -842,7 +842,7 @@ Papers are focusing on enhancing the complexity of instructions to enhance model
 
 1. **Wizardlm: Empowering large language models to follow complex instructions.** *Xu, Can and Sun, Qingfeng and Zheng, Kai and Geng, Xiubo and Zhao, Pu and Feng, Jiazhan and Tao, Chongyang and Jiang, Daxin*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2304.12244.pdf)]; \[[code](https://github.com/nlpxucan/WizardLM) ⭐ 9,471 | 🐛 168 | 🌐 Python | 📅 2025-06-07].
 
-2. **A Preliminary Study of the Intrinsic Relationship between Complexity and Alignment.** *Zhao, Yingxiu and Yu, Bowen and Hui, Binyuan and Yu, Haiyang and Huang, Fei and Li, Yongbin and Zhang, Nevin L*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2308.05696.pdf)]; \[[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/tree-instruct) ⭐ 1,623 | 🐛 85 | 🌐 Python | 📅 2026-10-19].
+2. **A Preliminary Study of the Intrinsic Relationship between Complexity and Alignment.** *Zhao, Yingxiu and Yu, Bowen and Hui, Binyuan and Yu, Haiyang and Huang, Fei and Li, Yongbin and Zhang, Nevin L*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2308.05696.pdf)]; \[[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/tree-instruct) ⭐ 1,625 | 🐛 85 | 🌐 Python | 📅 2026-10-19].
 
 3. **Orca: Progressive learning from complex explanation traces of gpt-4.** *Mukherjee, Subhabrata and Mitra, Arindam and Jawahar, Ganesh and Agarwal, Sahaj and Palangi, Hamid and Awadallah, Ahmed*. <ins>Prepint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2306.02707.pdf)].
 
@@ -987,7 +987,7 @@ We also share some other awesome papers that might inspire the future work.
 
 Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no official paper for ChatGPT, we share some frontier works that can provide deep insights into ChatGPT.
 
-1. **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection.** *Biyang Guo, Xin Zhang, Ziyuan Wang, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2301.07597.pdf)]; \[[corpus](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) ⭐ 1,503 | 🐛 26 | 🌐 Python | 📅 2023-12-01].
+1. **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection.** *Biyang Guo, Xin Zhang, Ziyuan Wang, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2301.07597.pdf)]; \[[corpus](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) ⭐ 1,504 | 🐛 26 | 🌐 Python | 📅 2023-12-01].
 
 2. **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective.** *Jindong Wang, Xixu Hu, Wenxin Hou, and et al.* <ins>Preprint</ins> 2023. \[[pdf](https://arxiv.org/pdf/2302.12095.pdf)]; \[[code](https://github.com/microsoft/robustlearn) ⭐ 511 | 🐛 11 | 🌐 Python | 📅 2024-07-12].
 
@@ -1045,4 +1045,4 @@ Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
