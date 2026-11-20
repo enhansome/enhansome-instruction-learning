@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "Prompt4ReasoningPapers",
-            "stars": 1010,
+            "stars": 1009,
             "topics": [
               "arithmetic-reasoning",
               "artificial-intelligence",
@@ -345,7 +345,7 @@
                 "open_issues": 35,
                 "owner": "THUDM",
                 "repo": "P-tuning-v2",
-                "stars": 2080,
+                "stars": 2079,
                 "topics": [
                   "natural-language-processing",
                   "p-tuning",
@@ -372,7 +372,7 @@
                 "open_issues": 30,
                 "owner": "timoschick",
                 "repo": "pet",
-                "stars": 1623,
+                "stars": 1621,
                 "topics": [
                   "machine-learning",
                   "nlp",
@@ -397,7 +397,7 @@
                 "open_issues": 30,
                 "owner": "timoschick",
                 "repo": "pet",
-                "stars": 1623,
+                "stars": 1621,
                 "topics": [
                   "machine-learning",
                   "nlp",
@@ -422,7 +422,7 @@
                 "open_issues": 30,
                 "owner": "timoschick",
                 "repo": "pet",
-                "stars": 1623,
+                "stars": 1621,
                 "topics": [
                   "machine-learning",
                   "nlp",
@@ -496,7 +496,7 @@
                 "open_issues": 7,
                 "owner": "princeton-nlp",
                 "repo": "LM-BFF",
-                "stars": 729,
+                "stars": 728,
                 "topics": [
                   "few-shot-learning",
                   "language-models",
@@ -654,7 +654,7 @@
                 "open_issues": 8,
                 "owner": "kevinscaria",
                 "repo": "InstructABSA",
-                "stars": 170,
+                "stars": 169,
                 "topics": [
                   "aspect-based-sentiment-analysis",
                   "aspect-term-extraction",
@@ -1336,11 +1336,11 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T00:11:27Z",
-                "open_issues": 187,
+                "last_commit": "2026-11-20T02:43:11Z",
+                "open_issues": 190,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3939,
+                "stars": 3941,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1361,7 +1361,7 @@
                 "open_issues": 25,
                 "owner": "declare-lab",
                 "repo": "instruct-eval",
-                "stars": 552,
+                "stars": 551,
                 "topics": [
                   "instruct-tuning",
                   "llm"
@@ -1424,10 +1424,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-06-07T01:35:05Z",
-                "open_issues": 168,
+                "open_issues": 167,
                 "owner": "nlpxucan",
                 "repo": "WizardLM",
-                "stars": 9471,
+                "stars": 9470,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -1481,7 +1481,7 @@
                 "open_issues": 15,
                 "owner": "r-three",
                 "repo": "t-few",
-                "stars": 459,
+                "stars": 458,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2086,7 +2086,7 @@
                 "open_issues": 0,
                 "owner": "anthropics",
                 "repo": "hh-rlhf",
-                "stars": 1861,
+                "stars": 1860,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2107,7 +2107,7 @@
                 "open_issues": 4,
                 "owner": "IBM",
                 "repo": "Dromedary",
-                "stars": 1135,
+                "stars": 1134,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2196,7 +2196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T02:52:03.891Z",
+    "last_updated": "2026-11-20T02:43:46.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
