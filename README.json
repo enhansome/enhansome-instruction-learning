@@ -1336,11 +1336,11 @@
                 "id": 651622038,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T18:46:18Z",
-                "open_issues": 197,
+                "last_commit": "2026-11-24T05:37:34Z",
+                "open_issues": 201,
                 "owner": "allenai",
                 "repo": "open-instruct",
-                "stars": 3945,
+                "stars": 3946,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2022,7 +2022,7 @@
                 "open_issues": 26,
                 "owner": "Hello-SimpleAI",
                 "repo": "chatgpt-comparison-detection",
-                "stars": 1509,
+                "stars": 1510,
                 "topics": [
                   "ai",
                   "chatbot",
@@ -2107,7 +2107,7 @@
                 "open_issues": 4,
                 "owner": "IBM",
                 "repo": "Dromedary",
-                "stars": 1134,
+                "stars": 1133,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:51:39.097Z"
@@ -2196,7 +2196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T02:03:23.932Z",
+    "last_updated": "2026-11-24T05:39:53.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
